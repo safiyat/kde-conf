@@ -1,0 +1,73 @@
+[BackgroundConfigDialog]
+Height 768=706
+Width 1366=751
+
+[General]
+perVirtualDesktopViews=true
+
+[KFileDialog Settings]
+Height 768=450
+Recent Files[$e]=beach_huts.jpg,$HOME/Documents/beach_huts.jpg
+Recent URLs[$e]=
+Width 1366=720
+
+[PlasmaViews][10]
+panelVisibility=0
+
+[PlasmaViews][10][Sizes]
+lastsize=1366
+
+[Updates]
+performed=/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/01-rename-plasma-nm.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/01-kubuntu-10.04.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/02-kubuntu-menu-icon.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/04-add-presence.js,/usr/share/kde4/apps/plasma-desktop/updates/addShowActivitiesManagerPlasmoid.js,/usr/share/kde4/apps/plasma-desktop/updates/02-add-print-manager.js,/usr/share/kde4/apps/plasma-desktop/updates/set-hidden-single-vd-pager.js,/usr/share/kde4/apps/plasma-desktop/updates/systray-to-notifications-widget.js,/usr/share/kde4/apps/plasma-desktop/updates/50-renameKTpApplets.js
+
+[ViewIds]
+10=3
+12=5
+13=6
+14=7
+38=10
+
+[configureNotification]
+__file=
+appRealName=networkmanagement
+
+[invokeAction]
+__file=
+actionId=2
+predicate=test-predicate-openinwindow.desktop
+
+[mount]
+__file=
+
+[resume]
+__file=
+
+[setBrightness]
+__file=
+brightness=40
+
+[stop]
+__file=
+
+[stopSuppressingScreenPowerManagement]
+__file=
+cookie=-1
+
+[stopSuppressingSleep]
+__file=
+cookie=-1
+
+[suspend]
+__file=
+
+[toggleActivityManager]
+__file=
+
+[unmount]
+__file=
+
+[updateFreespace]
+__file=
+
+[userClosed]
+__file=

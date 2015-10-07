@@ -1,0 +1,29 @@
+[$Version]
+update_info=kmail.upd:3.3-move-identities-to-own-file,kmail.upd:3.3-aegypten-emailidentities-split-sign-encr-keys
+
+[General]
+Default Identity=130810204
+
+[Identity #0]
+Dictionary=English (United Kingdom)
+Disable Fcc=false
+Email Address=md.reza@snapdeal.com
+Identity=Md Reza
+Image Location=
+Inline Signature=
+Name=Md Safiyat Reza
+Signature Enabled=false
+Transport=1988454567
+uoid=130810204
+
+[Identity #1]
+Dictionary=English (United Kingdom)
+Disable Fcc=false
+Email Address=md.reza@snapdeal.com
+Identity=Default
+Image Location=
+Inline Signature=
+Name=Md Safiyat Reza
+Organization=Snapdeal
+Signature Enabled=false
+uoid=218646528

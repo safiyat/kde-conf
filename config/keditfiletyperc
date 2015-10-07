@@ -1,0 +1,10 @@
+[KFileDialog Settings]
+Autoplay sounds=true
+Height 768=450
+Recent Files[$e]=vim,/usr/bin/vim
+Recent URLs[$e]=/usr/bin/
+Width 1366=720
+
+[Open-with settings]
+CompletionMode=5
+History=/usr/bin/vim

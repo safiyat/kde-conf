@@ -1,0 +1,11 @@
+[Defaults]
+Profile=Default
+
+[PROFILE_Default]
+EmailAddress=md.reza@snapdeal.com
+EmailClient=/opt/google/chrome/google-chrome
+FullName=Md Safiyat Reza
+Organization=
+OutgoingServer=
+ReplyAddr=
+ServerType=

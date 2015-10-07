@@ -1,0 +1,13 @@
+[$Version]
+update_info=mailtransports.upd:initial-kmail-migration,mailtransports.upd:initial-knode-migration
+
+[General]
+default-transport=1988454567
+
+[Transport 1988454567]
+auth=true
+host=snapdeal.com
+id=1988454567
+name=snapdeal.com
+storepass=true
+user=md.reza@snapdeal.com

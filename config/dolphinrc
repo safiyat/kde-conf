@@ -1,0 +1,63 @@
+Height 768=769
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAABgAAACq/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAgBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAeAAACqwAAAFABAAAFAAAAAQAAALYAAAKr/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAAB4AAAKrAAAA9QEAAAUAAAADAAAFVgAAALz8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAgBAAAFAAAEOgAAAqsAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+Width 1366=1367
+
+[CompactMode]
+FontWeight=50
+
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[DetailsMode]
+FontWeight=50
+
+[Favorite Profiles]
+Favorites=
+
+[FileMetaDataConfigurationDialog]
+Height 768=261
+Width 1366=277
+
+[General]
+AutoExpandFolders=true
+ShowCopyMoveMenu=true
+ShowSpaceInfo=true
+ShowToolTips=true
+ShowZoomSlider=false
+Version=200
+ViewPropsTimestamp=2015,8,26,10,42,19
+
+[IconsMode]
+FontWeight=50
+IconSize=48
+PreviewSize=128
+
+[KFileDialog Settings]
+Autoplay sounds=true
+Height 768=450
+Recent Files[$e]=$HOME/HDD/Albus Dumbledore/Documents/Computer Stuff/Tutorials & Manuals/Elasticsearch
+Recent URLs[$e]=$HOME/HDD/Wierd Sisters/Music/,$HOME/HDD/Albus Dumbledore/Documents/Computer Stuff/Tutorials & Manuals/Vim/,$HOME/HDD/Albus Dumbledore/Documents/Computer Stuff/Tutorials & Manuals/,$HOME/HDD/Albus Dumbledore/Documents/Computer Stuff/Tutorials & Manuals/Elasticsearch/
+Width 1366=720
+
+[KPropertiesDialog]
+Height 768=399
+Width 1366=405
+
+[MainWindow]
+Height 768=715
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAByAAACrfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAeAAACqwAAAAgBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAeAAACrQAAAFABAAAFAAAAAQAAALYAAAKt/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAAB4AAAKtAAABEQEAAAUAAAADAAAFVgAAALz8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAgBAAAFAAAEKAAAAq0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1366=1366
+
+[Open-with settings]
+CompletionMode=5
+History=sublime-text,/usr/bin/subl %F
+
+[PreviewSettings]
+Plugins=directorythumbnail,imagethumbnail,jpegthumbnail,windowsexethumbnail,windowsimagethumbnail,svgthumbnail,textthumbnail
+
+[SettingsDialog]
+Height 768=349
+Width 1366=512

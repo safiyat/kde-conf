@@ -1,0 +1,22 @@
+[AgentTypeDialog]
+Size=460,320
+
+[DownloadDialog Settings]
+Height 768=400
+Width 1366=700
+
+[KFileDialog Settings]
+Height 768=450
+Recent Files[$e]=IMG_20150502_212033.jpg,$HOME/Documents/IMG_20150502_212033as.jpg,$HOME/Documents/IMG_20150502_212033.jpg
+Recent URLs[$e]=
+Width 1366=720
+
+[MainWindow]
+Height 768=769
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1367
+
+[Notification Messages]
+LanguageChangesApplyOnlyToNewlyStartedPrograms=false

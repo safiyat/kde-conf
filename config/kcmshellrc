@@ -1,0 +1,9 @@
+[KFileDialog Settings]
+Height 768=450
+Recent Files[$e]=$HOME/Hogwarts/Github/kubuntu-conf/keybindings/global-keybindings.kksrc
+Recent URLs[$e]=$HOME/Hogwarts/Github/kubuntu-conf/,$HOME/Hogwarts/Github/kubuntu-conf/keybindings/
+Width 1366=720
+
+[Open-with settings]
+CompletionMode=5
+History=firefox %u

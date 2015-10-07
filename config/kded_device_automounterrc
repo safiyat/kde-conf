@@ -1,0 +1,60 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/loop0]
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/mmcblk0p1]
+EverMounted=true
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=media-flash-sd-mmc
+LastNameSeen=3.7 GiB Removable Media
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
+EverMounted=true
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-harddisk
+LastNameSeen=Kubuntu
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda3]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=50.0 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
+EverMounted=true
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-removable-media-usb
+LastNameSeen=7.4 GiB Removable Media
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc1]
+EverMounted=true
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-removable-media-usb
+LastNameSeen=AAKASH
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sr0]
+EverMounted=true
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=media-optical-data
+LastNameSeen=airtel
+LastSeenMounted=false
+
+[General]
+AutomountEnabled=true
+AutomountUnknownDevices=true

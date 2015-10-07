@@ -1,0 +1,44 @@
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Width 1366=1367
+
+[Desktop Entry]
+FullScreen=false
+
+[KFileDialog Settings]
+Autoplay sounds=true
+Height 768=450
+Recent Files[$e]=$HOME/Hogwarts/OpenStack/neutron package flows.jpg,$HOME/Hogwarts/OpenStack/References/openstack-install-guide-apt-kilo.pdf
+Recent URLs[$e]=$HOME/Hogwarts/OpenStack/,$HOME/Hogwarts/OpenStack/References/
+Width 1366=720
+
+[MainWindow]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1367
+
+[Notification Messages]
+presentationInfo=false
+
+[Recent Files]
+File1[$e]=$HOME/Hogwarts/Tutorials & Manuals/Logstash/logstash-kibana-intro.pdf
+File10[$e]=$HOME/Downloads/Amazon.pdf
+File2[$e]=$HOME/Hogwarts/Tutorials & Manuals/Shell Scripting/Bourne_Shell_Scripting.pdf
+File3[$e]=$HOME/Hogwarts/Logstash/References/2014-04-22_LoggingWithLogstash_BastianWidmer_CampusBern.pdf
+File4[$e]=$HOME/Hogwarts/Tutorials & Manuals/Elasticsearch/elasticsearch-py.pdf
+File5[$e]=$HOME/Hogwarts/Tutorials & Manuals/Elasticsearch/elasticsearch-dsl.pdf
+File6[$e]=$HOME/Downloads/w11728.pdf
+File7[$e]=$HOME/Downloads/se215_ug.pdf
+File8[$e]=$HOME/Hogwarts/Elasticsearch/References/Elasticsearch_ The Definitive Guide - Clinton Gormley.pdf
+File9[$e]=$HOME/Irrelevant/amarok.pdf
+Name1[$e]=logstash-kibana-intro.pdf
+Name10[$e]=Amazon.pdf
+Name2[$e]=Bourne_Shell_Scripting.pdf
+Name3[$e]=2014-04-22_LoggingWithLogstash_BastianWidmer_CampusBern.pdf
+Name4[$e]=elasticsearch-py.pdf
+Name5[$e]=elasticsearch-dsl.pdf
+Name6[$e]=w11728.pdf
+Name7[$e]=se215_ug.pdf
+Name8[$e]=Elasticsearch_ The Definitive Guide - Clinton Gormley.pdf
+Name9[$e]=amarok.pdf

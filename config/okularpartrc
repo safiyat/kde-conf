@@ -1,0 +1,14 @@
+[$Version]
+update_info=okular.upd:sep_settings
+
+[Core General]
+ExternalEditor=Emacsclient
+ObeyDRM=false
+
+[General]
+ObeyDRM[$d]
+ShellOpenFileInTabs=true
+UseKTTSD=false
+
+[Main View]
+SplitterSizes=295,998

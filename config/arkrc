@@ -1,0 +1,69 @@
+[AddDialog]
+LastMimeType=application/x-xz-compressed-tar
+
+[General]
+Volume=1
+
+[KFileDialog Settings]
+Height 768=450
+Recent Files[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-4/Sem VII/Embedded Systems/es.tar.xz,$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-4/Sem VII/Embedded Systems/es.tar.xz
+Recent URLs[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-4/Sem VII/Embedded Systems/
+Width 1366=720
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGVAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+splitterSizes=425,212
+
+[Recent Files]
+File1[$e]=$HOME/HDD/Garrick Ollivander/Developers/Editors/Emacs/Packages/gabrielelanaro-emacs-for-python-2f284d1.tar.gz
+File2[$e]=$HOME/HDD/Garrick Ollivander/Mobile/SD Card/New folder/Download/11242098_1658601041028105_946814842_n.zip
+File3[$e]=$HOME/Downloads/documents-export-2015-09-21.zip
+Name1[$e]=gabrielelanaro-emacs-for-python-2f284d1.tar.gz
+Name2[$e]=11242098_1658601041028105_946814842_n.zip
+Name3[$e]=documents-export-2015-09-21.zip
+
+[Viewer]
+Height 768=427
+Width 1366=560
+
+[file:///tmp/kde-safiyat/arkBiRjde//11242098_1658601041028105_946814842_n.mp4]
+Brightness=0
+Contrast=0
+Date=02/10/2015
+Hue=0
+IsVideo=true
+Position=1467
+Preferred Size=538,249
+Saturation=0
+Subtitle=0
+
+[file:///tmp/kde-safiyat/arkBiRjde//11256746_1589997381288400_1662701503_n.mp4]
+Brightness=0
+Contrast=0
+Date=02/10/2015
+Hue=0
+IsVideo=true
+Position=3236
+Preferred Size=538,249
+Saturation=0
+Subtitle=0
+
+[file:///tmp/kde-safiyat/arkBiRjde//1249218_10202458350280471_1276705183_n.mp4]
+Brightness=0
+Contrast=0
+Date=02/10/2015
+Hue=0
+IsVideo=true
+Preferred Size=538,249
+Saturation=0
+Subtitle=0
+
+[file:///tmp/kde-safiyat/arkI769dg//11387267_1659001717654704_1692311384_n.mp4]
+Brightness=0
+Contrast=0
+Date=02/10/2015
+Hue=0
+IsVideo=false
+Preferred Size=538,249
+Saturation=0

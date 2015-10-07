@@ -1,0 +1,5 @@
+[StoredApplets][1]
+geometry=0,0,200,100
+immutability=1
+plugin=org.kde.notifications
+zvalue=0

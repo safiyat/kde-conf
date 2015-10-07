@@ -1,0 +1,26 @@
+[EdgePositions]
+Offset=0.5
+
+[General]
+PastQueries=VirtualBox,airtel,Google Keep - notes and lists,KSnapshot,System Settings,Workspace,,Global Keyboard Shortcuts,kate,Google Chrome,KCalc,`,Default Applications,Standard Keyboard Shortcuts,Custom Shortcuts,Evernote,okular,Okular,LibreOffice Writer,KSysGuard,Firefox Web Browser,xkill,Display,.,Touchpad,uget,kmix,Advanced Settings,KMail,Artemis Fowl-THE ARCTIC INCIDEN.pdf,emacs --debug-init,eclipse,Digital Camera,KDE Wallet,KWalletManager,Notifications,Other Notifications,Manage Notifications,clear,Evernote_5.8.13.8152.exe,wine,Amarok,Sublime Text 2,amarok,Konsole,n,Bluetooth,Dolphin,Devices
+
+[Interface]
+Size=420,500
+
+[PlasmaRunnerManager]
+LaunchCounts=30 services_virtualbox.desktop,3 shell_xkill,6 services_chrome-hmjkmjkepdijhoojdojkdfohbdgmmhki-Default.desktop,1 shell_clear,1 services_sublime-text-2.desktop,2 services_kde4-KMail2.desktop,10 services_firefox.desktop,11 services_khotkeys.desktop,8 services_google-chrome.desktop,1 services_bluedevildevices.desktop,1 services_networkmanagement_notifications.desktop,1 services_kcm_driver_manager.desktop,2 places_bluetooth:/,1 services_kcm_notificationhelper.desktop,8 services_uget-gtk.desktop,2 services_MobilePartner.desktop,1 baloosearch_file:52001,1 services_kde4-kate.desktop,1 org.kde.windowedwidgets_plasma-applet-org.kde.notifications.desktop,3 services_kde4-ksysguard.desktop,1 services_kde4-kmix.desktop,5 services_kde4-dolphin.desktop,1 services_kcm_touchpad.desktop,1 services_kde4-kcalc.desktop,14 services_keys.desktop,11 services_kde4-systemsettings.desktop,1 services_kde4-konsole.desktop,1 recentdocuments_/home/safiyat/.kde/share/apps/RecentDocuments/Evernote_5.8.13.8152.exe.desktop,1 services_display.desktop,4 shell_eclipse,1 shell_emacs --debug-init,1 shell_wine,3 services_wine-Programs-Evernote-Evernote.desktop,1 services_kde4-kwalletmanager.desktop,1 services_powerdevilglobalconfig.desktop,1 services_workspaceoptions.desktop,1 services_kcmnotify.desktop,10 services_kde4-ksnapshot.desktop,2 services_libreoffice-writer.desktop,2 services_kwalletconfig.desktop,2 services_componentchooser.desktop,6 services_kde4-okular.desktop,1 services_kamera.desktop,4 services_standard_actions.desktop,4 services_kde4-amarok.desktop
+
+[TaskDialog]
+Height 768=419
+Width 1366=649
+filterState=0
+headerState=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0f‹3\x00\x00\x00\t\x00\x00\x00\r\x00\x00\x00d\x00\x00\x00\x0c\x00\x00\x00d\x00\x00\x00\t\x00\x00\x00d\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x06\x00\x00\x00d\x00\x00\x00\x04\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x00\x02\x00\x00\x00d\x00\x00\x02t\x00\x00\x00\x0f\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00»\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00H\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00P\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00h\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00¨\x00\x00\x00\x01\x00\x00\x00\x00
+ioInformation=5
+ioUnits=1
+normalizeCPUUsage=true
+showCommandLineOptions=false
+showTooltips=true
+showTotals=true
+units=1
+updateIntervalMSecs=2000
+version=5

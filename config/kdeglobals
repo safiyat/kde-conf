@@ -1,0 +1,58 @@
+[$Version]
+update_info=kded.upd:kde3.0
+
+[Appmenu Style]
+Style=InApplication
+
+[DirSelect Dialog]
+DirSelectDialog Size=801,512
+History Items[$e]=file:///media/safiyat/M
+
+[General]
+BrowserApplication[$e]=firefox.desktop
+TerminalApplication[$e]=terminator
+UseSystemBell=true
+dbfile=/home/safiyat/.mozilla/firefox/sjy46hj2.default/places.sqlite
+widgetStyle=oxygen
+
+[KDE]
+ShowDeleteCommand=true
+ShowIconsInMenuItems=true
+ShowIconsOnPushButtons=true
+SingleClick=false
+
+[KDE-Global GUI Settings]
+GraphicEffectsLevel=7
+
+[KFileDialog Settings]
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=0
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Preview Width=162
+Previews=false
+Show Bookmarks=false
+Show Full Path=false
+Show Preview=true
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+Speedbar Width=116
+View Style=Simple
+listViewIconSize=0
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[Locale]
+Language=en_GB
+TimeFormat=%H:%M:%S
+
+[PreviewSettings]
+MaximumRemoteSize=0
+
+[Toolbar style]
+ToolButtonStyleOtherToolbars=TextBesideIcon

@@ -1,0 +1,13 @@
+[GUI]
+pin_filterbar=false
+selected_delegate=full
+selected_presence_chooser=global
+show_offline=false
+sort_by_presence=true
+use_groups=true
+window_geometry=\x01Ÿ–À\x00\x01\x00\x00\x00\x00\x03h\x00\x00\x00j\x00\x00\x04ó\x00\x00\x02‹\x00\x00\x03j\x00\x00\x00Å\x00\x00\x04ï\x00\x00\x02ÿ\x00\x00\x00\x00\x00\x00
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAASwAAAJYAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
