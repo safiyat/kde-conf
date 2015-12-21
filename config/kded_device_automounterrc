@@ -28,8 +28,8 @@ LastSeenMounted=true
 [Devices][/org/freedesktop/UDisks2/block_devices/sda3]
 EverMounted=true
 Icon=drive-harddisk
-LastNameSeen=50.0 GiB Hard Drive
-LastSeenMounted=false
+LastNameSeen=Other
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
 EverMounted=true
@@ -44,7 +44,30 @@ EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-removable-media-usb
-LastNameSeen=AAKASH
+LastNameSeen=UNTITLED
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc2]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=71.7 GiB Removable Media
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc4]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=New Volume
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc5]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=New Volume
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdd1]
+Icon=drive-removable-media-usb
+LastNameSeen=Transcend
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sr0]

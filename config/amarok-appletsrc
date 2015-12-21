@@ -4,7 +4,7 @@ activity=
 activityId=
 desktop=-1
 formfactor=0
-geometry=0,0,608,602
+geometry=0,0,734,602
 immutability=1
 lastDesktop=-1
 lastScreen=-1
@@ -14,19 +14,25 @@ screen=-1
 zvalue=0
 
 [Containments][1][Applets][2]
-geometry=0,2,608,184
+geometry=0,2,734,184
 immutability=1
 plugin=currenttrack
 zvalue=0
 
 [Containments][1][Applets][3]
-geometry=0,186,608,120
+geometry=0,186,734,120
 immutability=1
 plugin=analyzer
 zvalue=0
 
 [Containments][1][Applets][4]
-geometry=0,306,608,35
+geometry=0,306,734,31
 immutability=1
-plugin=similarArtists
+plugin=wikipedia
+zvalue=0
+
+[Containments][1][Applets][5]
+geometry=0,337,734,31
+immutability=1
+plugin=lyrics
 zvalue=0

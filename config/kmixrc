@@ -16,6 +16,9 @@ startkdeRestore=false
 [View.PulseAudio.Capture_Devices.2.default.PulseAudio::Capture_Devices:2.alsa_input.pci-0000_00_1b.0.analog-stereo]
 Split=false
 
+[View.PulseAudio.Capture_Streams.4.default.PulseAudio::Capture_Streams:4.stream:12]
+Split=false
+
 [View.PulseAudio.Playback_Devices.1.default.PulseAudio::Playback_Devices:1.alsa_output.pci-0000_00_03.0.hdmi-stereo]
 Split=false
 
@@ -28,13 +31,25 @@ Split=false
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:1]
 Split=false
 
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:105]
+Split=false
+
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:110]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:1111]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:118]
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:139]
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:149]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:157]
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:160]
@@ -46,7 +61,13 @@ Split=false
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:168]
 Split=false
 
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:177]
+Split=false
+
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:195]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:196]
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:2]
@@ -67,10 +88,19 @@ Split=false
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:294]
 Split=false
 
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:30]
+Split=false
+
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:352]
 Split=false
 
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:381]
+Split=false
+
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:401]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:402]
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:427]
@@ -79,11 +109,53 @@ Split=false
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:443]
 Split=false
 
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:460]
+Split=false
+
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:466]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:5]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:529]
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:53]
 Split=false
 
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:534]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:600]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:70]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:77]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:79]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:809]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:827]
+Split=false
+
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:84]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:841]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:871]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:885]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:922]
 Split=false

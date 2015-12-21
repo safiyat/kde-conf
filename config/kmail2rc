@@ -1,6 +1,9 @@
 [$Version]
 update_info=newmailnotifier.upd:initial-newmailnotifier-migration,mailfilteragent.upd:initial-mailfilteragent-migration,grantleetheme.upd:initial-grantlee-theme-migration,kmail.upd:1,kmail.upd:4,kmail.upd:5,kmail.upd:6,kmail.upd:7,kmail.upd:8,kmail.upd:9,kmail.upd:3.1-update-identities,kmail.upd:3.1-use-identity-uoids,kmail.upd:3.1-new-mail-notification,kmail.upd:3.2-update-loop-on-goto-unread-settings,kmail.upd:3.1.4-dont-use-UOID-0-for-any-identity,kmail.upd:3.2-misc,kmail.upd:3.2-moves,kmail.upd:3.3-use-ID-for-accounts,kmail.upd:3.3-update-filter-rules,kmail.upd:3.3-move-identities-to-own-file,kmail.upd:3.3-aegypten-kpgprc-to-kmailrc,kmail.upd:3.3-misc,kmail.upd:3.3b1-misc,kmail.upd:3.4,kmail.upd:3.4a,kmail.upd:3.4b,kmail.upd:3.4.1,kmail.upd:3.5.4,kmail.upd:3.5.7-imap-flag-migration,kmail.upd:4.0-misc,kmail.upd:4.2,kmail.upd:4.4-akonadi,kmail.upd:4.12,kmail.upd:4.13.2
 
+[AttachmentView]
+State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03Ñ\x00\x00\x00\x08\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00»\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x02º\x00\x00\x00\x07\x00\x00\x00\x00
+
 [CollectionFolderView]
 Current=x-1
 Expansion=
@@ -8,10 +11,19 @@ HeaderState=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x0
 HorizontalScroll=0
 VerticalScroll=0
 
+[Composer]
+PreviousDictionary=English (United Kingdom)
+State=AAAA/wAAAAD9AAAAAAAAAeAAAAGuAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAGgAdABtAGwAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAgAGQAaQByAGUAYwB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+current-transport=snapdeal.com
+previous-fcc=-18
+previous-identity=130810204
+
 [ConfigureAgentsWidget]
 splitter=510,127
 
 [General]
+Recent Addresses=reza.safiyat@gmail.com
 first-start=false
 
 [Geometry]
@@ -70,4 +82,4 @@ update-level=28
 LastSelectedFolder=7
 
 [TranslatorWidget]
-mainSplitter=46,46
+mainSplitter=233,232

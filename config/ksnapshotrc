@@ -1,16 +1,18 @@
 [GENERAL]
 delay=0
-filename[$e]=file://$HOME/doc7.png
+filename[$e]=file://$HOME/error1.png
 includeDecorations=true
 includePointer=false
 mode=2
 
 [KFileDialog Settings]
 Height 768=450
-Recent Files[$e]=$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/root.png,$HOME/doc6.png,$HOME/doc5.png,$HOME/doc4.png,$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/doc.png,$HOME/Hogwarts/OpenStack/DevStackNotes/scripts.png,$HOME/Hogwarts/OpenStack/DevStackNotes/stack.sh.png,$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/tools.png,$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/tests.png,$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/samples.png,$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/pkg.png,$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/lib.png,$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/inc.png,$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/gate.png,$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/files.png
-Recent URLs[$e]=$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/,$HOME/Hogwarts/OpenStack/DevStackNotes/
+Height 900=450
+Recent Files[$e]=$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/root.png,$HOME/error.png,$HOME/invite.png,$HOME/streak.png
+Recent URLs[$e]=$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/,$HOME/Hogwarts/OpenStack/DevStackNotes/,$HOME/Hogwarts/OpenStack Meetup/,$HOME/Hogwarts/
 Width 1366=720
+Width 1440=720
 
 [MainWindow]
 Height 768=499
-Width 1366=407
+Width 1366=427

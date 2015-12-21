@@ -1,8 +1,8 @@
 [KFileDialog Settings]
 Autoplay sounds=true
 Height 768=450
-Recent Files[$e]=$HOME/Hogwarts/Git/progit-en.777.pdf,$HOME/doc5.png,$HOME/doc6.png,$HOME/Downloads/like-a-boss.png,$HOME/Downloads/sticker\\,375x360.png,$HOME/Downloads/se215_ug.pdf,$HOME/Downloads/SE Family Brochure_Jun 2015.pdf,$HOME/Hogwarts/OpenStack/References/openstack-install-guide-apt-kilo.pdf
-Recent URLs[$e]=$HOME/Hogwarts/Emacs/,$HOME/Downloads/,$HOME/HDD/Albus Dumbledore/Documents/My Pictures/,$HOME/Hogwarts/Github/emacs-master/,$HOME/Hogwarts/Github/emacs-master/loadpaths/,$HOME/Hogwarts/OpenStack/References/
+Recent Files[$e]=$HOME/Music/NC/Jamal Zohourian/Jamal Zohourian - Weekly Piece - Nowrouz Too Raahe.mp3,$HOME/DSC_0003.JPG,$HOME/Downloads/AjdMT1OEjvEEkv0QGYjRW-n7bXRbtV04fNJmDr3JwimE.jpg,$HOME/invite4.png,$HOME/invite3.png,$HOME/invite2.png,$HOME/invite1.png,$HOME/failure1.png,$HOME/Hogwarts/OpenStack Meetup/Mainframe.svg.med.png,$HOME/Hogwarts/OpenStack Meetup/web-server.png,$HOME/Hogwarts/OpenStack Meetup/database-server.png,$HOME/Hogwarts/OpenStack Meetup/fluentd2.png,$HOME/Hogwarts/OpenStack Meetup/logstash.png,$HOME/Hogwarts/OpenStack Meetup/kibana-logo.png,$HOME/Hogwarts/OpenStack Meetup/elastic.png,$HOME/Hogwarts/OpenStack Meetup/Twitter_logo.png
+Recent URLs[$e]=$HOME/Downloads/,$HOME/Hogwarts/OpenStack/References/,$HOME/Music/NC/Jamal Zohourian/,/home/,$HOME/Hogwarts/OpenStack Meetup/,$HOME/Hogwarts/
 Width 1366=720
 
 [KPropertiesDialog]

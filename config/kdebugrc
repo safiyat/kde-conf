@@ -4,6 +4,9 @@ InfoOutput=4
 [FavIcons]
 InfoOutput=4
 
+[KPasswdServer]
+InfoOutput=2
+
 [KSRandr]
 InfoOutput=4
 
@@ -37,6 +40,9 @@ InfoOutput=4
 [Telepathy-Qt]
 InfoOutput=2
 
+[akonadiserver]
+InfoOutput=4
+
 [bluedevilmonolithic]
 InfoOutput=2
 
@@ -44,6 +50,9 @@ InfoOutput=2
 InfoOutput=4
 
 [kate-filetree]
+InfoOutput=2
+
+[kcmshell]
 InfoOutput=2
 
 [kdecore (KConfigSkeleton)]
@@ -59,6 +68,9 @@ InfoOutput=2
 InfoOutput=2
 
 [kdostartupconfig4]
+InfoOutput=4
+
+[kfmclient]
 InfoOutput=4
 
 [kio (delegateanimationhandler)]

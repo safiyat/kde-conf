@@ -4,10 +4,10 @@ update_info=kate-2.4.upd:kate2.4
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=None
+Highlighting=.desktop
 Indentation Mode=normal
-Mode=
-URL=
+Mode=.desktop
+URL=file:///home/safiyat/.emacs.desktop
 
 [General]
 Days Meta Infos=30
@@ -124,7 +124,7 @@ Scroll Bar Mini Map=false
 Scroll Bar Mini Map All=false
 Scroll Bar Mini Map Width=60
 Scroll Past End=false
-Search Pattern History=
+Search Pattern History=61,mx
 Search/Replace Flags=140
 Show Scrollbars=0
 Smart Copy Cut=false
@@ -168,14 +168,14 @@ Kate-MDI-ToolView-kateprojectinfo-Persistent=false
 Kate-MDI-ToolView-kateprojectinfo-Position=3
 Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=1
 Kate-MDI-ToolView-kateprojectinfo-Visible=false
-Kate-MDI-V-Splitter=150,636,200
+Kate-MDI-V-Splitter=150,638,200
 Selection Mode Visible=true
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 Width 1366=1367
 
 [MainWindow0 Settings]
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 Width 1366=1367
 WindowState=10
 
@@ -183,9 +183,9 @@ WindowState=10
 Sizes=1338
 
 [MainWindow0-ViewSpace 0]
-Active View=
+Active View=file:///home/safiyat/.emacs.desktop
 Count=1
-View 0=file:///home/safiyat/HDD/Albus Dumbledore/Documents/Engg/Year-3/Sem VI/Linux Utility Lab/Sendmail/Mail samples/Sample2
+View 0=file:///home/safiyat/.emacs.desktop
 
 [MainWindow0-ViewSpace 0 file:///home/safiyat/.emacs]
 CursorColumn=0
@@ -193,9 +193,21 @@ CursorLine=0
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/safiyat/.emacs.desktop]
+CursorColumn=0
+CursorLine=16
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/safiyat/HDD/Albus Dumbledore/Documents/Engg/Year-3/Sem VI/Linux Utility Lab/Sendmail/Mail samples/Sample2]
 CursorColumn=0
 CursorLine=11
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/safiyat/My Passport/filelist]
+CursorColumn=17
+CursorLine=59548
 JumpList=
 ViMarks=
 
@@ -228,8 +240,10 @@ UseRegExp=false
 [Recent Files]
 File1[$e]=$HOME/.emacs
 File2[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-3/Sem VI/Linux Utility Lab/Sendmail/Mail samples/Sample2
+File3[$e]=$HOME/.emacs.desktop
 Name1[$e]=.emacs
 Name2[$e]=Sample2
+Name3[$e]=.emacs.desktop
 
 [filetree]
 editShade=210,181,216

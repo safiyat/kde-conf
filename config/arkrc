@@ -4,28 +4,42 @@ LastMimeType=application/x-xz-compressed-tar
 [General]
 Volume=1
 
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
 [KFileDialog Settings]
+Autoplay sounds=true
 Height 768=450
 Recent Files[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-4/Sem VII/Embedded Systems/es.tar.xz,$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-4/Sem VII/Embedded Systems/es.tar.xz
 Recent URLs[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-4/Sem VII/Embedded Systems/
 Width 1366=720
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAGVAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-splitterSizes=425,212
+Width 1366=1367
+splitterSizes=909,454
 
 [Recent Files]
-File1[$e]=$HOME/HDD/Garrick Ollivander/Developers/Editors/Emacs/Packages/gabrielelanaro-emacs-for-python-2f284d1.tar.gz
-File2[$e]=$HOME/HDD/Garrick Ollivander/Mobile/SD Card/New folder/Download/11242098_1658601041028105_946814842_n.zip
-File3[$e]=$HOME/Downloads/documents-export-2015-09-21.zip
-Name1[$e]=gabrielelanaro-emacs-for-python-2f284d1.tar.gz
-Name2[$e]=11242098_1658601041028105_946814842_n.zip
-Name3[$e]=documents-export-2015-09-21.zip
+File1[$e]=$HOME/Downloads/logs.tar.xz
+File2[$e]=$HOME/Downloads/coreutils-8.24.tar.xz
+File3[$e]=$HOME/Snapdeal/Setup Files/kibana-4.1.2-linux-x64.tar.gz
+File4[$e]=$HOME/Downloads/suteki da ne ust.zip
+File5[$e]=$HOME/Hogwarts/Github/virtual-storage-manager/source/vsm/dist/vsm-2013.1.1-py2.7.egg
+File6[$e]=$HOME/Downloads/backports.ssl-match-hostname_3.4.0.2-1.debian.tar.xz
+File7[$e]=$HOME/Downloads/353_songbook_EnFrDeEs(1).zip
+Name1[$e]=logs.tar.xz
+Name2[$e]=coreutils-8.24.tar.xz
+Name3[$e]=kibana-4.1.2-linux-x64.tar.gz
+Name4[$e]=suteki da ne ust.zip
+Name5[$e]=vsm-2013.1.1-py2.7.egg
+Name6[$e]=backports.ssl-match-hostname_3.4.0.2-1.debian.tar.xz
+Name7[$e]=353_songbook_EnFrDeEs(1).zip
 
 [Viewer]
-Height 768=427
-Width 1366=560
+Height 768=715
+Width 1366=1366
 
 [file:///tmp/kde-safiyat/arkBiRjde//11242098_1658601041028105_946814842_n.mp4]
 Brightness=0

@@ -5,6 +5,10 @@ Recent Files[$e]=vim,/usr/bin/vim
 Recent URLs[$e]=/usr/bin/
 Width 1366=720
 
+[KPropertiesDialog]
+Height 768=374
+Width 1366=366
+
 [Open-with settings]
 CompletionMode=5
-History=/usr/bin/vim
+History=emacs,/usr/bin/vim

@@ -8,37 +8,38 @@ FullScreen=false
 [KFileDialog Settings]
 Autoplay sounds=true
 Height 768=450
-Recent Files[$e]=$HOME/Hogwarts/OpenStack/neutron package flows.jpg,$HOME/Hogwarts/OpenStack/References/openstack-install-guide-apt-kilo.pdf
-Recent URLs[$e]=$HOME/Hogwarts/OpenStack/,$HOME/Hogwarts/OpenStack/References/
+Recent Files[$e]=$HOME/Hogwarts/OpenStack Meetup/flow,$HOME/Hogwarts/OpenStack/References/openstack-install-guide-apt-kilo.pdf
+Recent URLs[$e]=$HOME/Hogwarts/OpenStack/,$HOME/Hogwarts/OpenStack/References/,$HOME/Hogwarts/OpenStack Meetup/
 Width 1366=720
 
 [MainWindow]
 Height 768=769
 State=AAAA/wAAAAD9AAAAAAAABVYAAAKYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
+Width 1024=1025
 Width 1366=1367
 
 [Notification Messages]
 presentationInfo=false
 
 [Recent Files]
-File1[$e]=$HOME/Hogwarts/Tutorials & Manuals/Logstash/logstash-kibana-intro.pdf
-File10[$e]=$HOME/Downloads/Amazon.pdf
-File2[$e]=$HOME/Hogwarts/Tutorials & Manuals/Shell Scripting/Bourne_Shell_Scripting.pdf
-File3[$e]=$HOME/Hogwarts/Logstash/References/2014-04-22_LoggingWithLogstash_BastianWidmer_CampusBern.pdf
-File4[$e]=$HOME/Hogwarts/Tutorials & Manuals/Elasticsearch/elasticsearch-py.pdf
-File5[$e]=$HOME/Hogwarts/Tutorials & Manuals/Elasticsearch/elasticsearch-dsl.pdf
-File6[$e]=$HOME/Downloads/w11728.pdf
-File7[$e]=$HOME/Downloads/se215_ug.pdf
-File8[$e]=$HOME/Hogwarts/Elasticsearch/References/Elasticsearch_ The Definitive Guide - Clinton Gormley.pdf
-File9[$e]=$HOME/Irrelevant/amarok.pdf
-Name1[$e]=logstash-kibana-intro.pdf
-Name10[$e]=Amazon.pdf
-Name2[$e]=Bourne_Shell_Scripting.pdf
-Name3[$e]=2014-04-22_LoggingWithLogstash_BastianWidmer_CampusBern.pdf
-Name4[$e]=elasticsearch-py.pdf
-Name5[$e]=elasticsearch-dsl.pdf
-Name6[$e]=w11728.pdf
-Name7[$e]=se215_ug.pdf
-Name8[$e]=Elasticsearch_ The Definitive Guide - Clinton Gormley.pdf
-Name9[$e]=amarok.pdf
+File1[$e]=$HOME/Downloads/InstallationGuide_en.pdf
+File10[$e]=$HOME/353_songbook_EnFrDeEs/353_sb_en_web.pdf
+File2[$e]=$HOME/Downloads/rest-api.pdf
+File3[$e]=$HOME/Downloads/OnePlus-X-User-Guide.pdf
+File4[$e]=$HOME/Hogwarts/Tutorials & Manuals/Bash Tools/bash.pdf
+File5[$e]=$HOME/Hogwarts/Tutorials & Manuals/Bash Tools/mozilla4.pdf
+File6[$e]=$HOME/Hogwarts/Tutorials & Manuals/Bash Tools/mozilla5.pdf
+File7[$e]=$HOME/Hogwarts/Tutorials & Manuals/Bash Tools/bash_cheat_sheet.pdf
+File8[$e]=$HOME/Downloads/1511.07607v1.pdf
+File9[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Major/Submissions/Synopsis.pdf
+Name1[$e]=InstallationGuide_en.pdf
+Name10[$e]=353_sb_en_web.pdf
+Name2[$e]=rest-api.pdf
+Name3[$e]=OnePlus-X-User-Guide.pdf
+Name4[$e]=bash.pdf
+Name5[$e]=mozilla4.pdf
+Name6[$e]=mozilla5.pdf
+Name7[$e]=bash_cheat_sheet.pdf
+Name8[$e]=1511.07607v1.pdf
+Name9[$e]=Synopsis.pdf

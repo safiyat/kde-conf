@@ -1,9 +1,11 @@
 [KFileDialog Settings]
 Autoplay sounds=true
-Height 768=450
-Recent Files[$e]=$HOME/Videos/Music Videos/Hindi/Gul Panrra _ Atif Aslam\\, Man Aamadeh Am\\, Coke Studio\\, Season 8\\, Episode 3.mp4,$HOME/Documents/OVAs/UbuntuVM.ova,$HOME/Videos/Music Videos/Hindi/Abida Parveen _ Rahat Fateh Ali Khan\\, Chaap Tilak\\, Coke Studio Season 7\\, Episode 6.mp4,$HOME/Videos/Music Videos/Hindi/Atif Aslam\\, Tajdar-e-Haram\\, Coke Studio Season 8\\, Episode 1.mp4,$HOME/HDD/Garrick Ollivander/Operating Systems/ubuntu-14.04-desktop-amd64.iso
-Recent URLs[$e]=$HOME/Hogwarts/OpenStack/OVAs/,$HOME/Hogwarts/,$HOME/Documents/OVAs/,$HOME/Videos/Music Videos/Hindi/,$HOME/Videos/Movies/Unseen/English/Matrix Trilogy/,$HOME/Videos/Music Videos/
-Width 1366=720
+Height 768=708
+Height 900=713
+Recent Files[$e]=$HOME/Documents/OVAs/Fedora VM.ova,$HOME/kubuntu-14.04.3-desktop-amd64.iso,$HOME/Documents/OVAs/Ubuntu VM (Template).ova,$HOME/Downloads/mini.iso,$HOME/Documents/OVAs/Ubuntu Plain Vanilla.ova
+Recent URLs[$e]=$HOME/Downloads/,$HOME/Documents/OVAs/,$HOME/VirtualBox VMs/
+Width 1366=982
+Width 1440=982
 
 [KPropertiesDialog]
 Height 768=374

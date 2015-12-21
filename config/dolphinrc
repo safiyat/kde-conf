@@ -31,29 +31,35 @@ ViewPropsTimestamp=2015,8,26,10,42,19
 [IconsMode]
 FontWeight=50
 IconSize=48
-PreviewSize=128
 
 [KFileDialog Settings]
 Autoplay sounds=true
 Height 768=450
-Recent Files[$e]=$HOME/HDD/Albus Dumbledore/Documents/Computer Stuff/Tutorials & Manuals/Elasticsearch
-Recent URLs[$e]=$HOME/HDD/Wierd Sisters/Music/,$HOME/HDD/Albus Dumbledore/Documents/Computer Stuff/Tutorials & Manuals/Vim/,$HOME/HDD/Albus Dumbledore/Documents/Computer Stuff/Tutorials & Manuals/,$HOME/HDD/Albus Dumbledore/Documents/Computer Stuff/Tutorials & Manuals/Elasticsearch/
+Recent Files[$e]=$HOME/temp/Invoices/Samples/Medical
+Recent URLs[$e]=$HOME/HDD/Wierd Sisters/Music/,$HOME/HDD/Albus Dumbledore/Documents/Computer Stuff/Tutorials & Manuals/Vim/,$HOME/HDD/Albus Dumbledore/Documents/Computer Stuff/Tutorials & Manuals/,$HOME/HDD/Albus Dumbledore/Documents/Computer Stuff/Tutorials & Manuals/Elasticsearch/,$HOME/temp/Invoices/Samples/Medical/
 Width 1366=720
 
 [KPropertiesDialog]
 Height 768=399
-Width 1366=405
+Width 1366=480
 
 [MainWindow]
+Height 1080=1081
 Height 768=715
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAwAAAAAAAAByAAACrfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAeAAACqwAAAAgBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAeAAACrQAAAFABAAAFAAAAAQAAALYAAAKt/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAAB4AAAKtAAABEQEAAAUAAAADAAAFVgAAALz8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAgBAAAFAAAEKAAAAq0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAByAAACrfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAeAAACqwAAAAgBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAeAAACrQAAAFABAAAFAAAAAQAAAVMAAAKt/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAAB4AAAKtAAAA9QEAAAUAAAADAAAFVgAAARD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAgBAAAFAAADiwAAAq0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
+Width 1024=1025
 Width 1366=1366
+Width 1920=1921
+Width 3286=3287
+
+[Notification Messages]
+ConfirmDelete=true
 
 [Open-with settings]
 CompletionMode=5
-History=sublime-text,/usr/bin/subl %F
+History=VirtualBox %U,/usr/bin/google-chrome-stable %U,amarok,libreoffice --writer %U,emacs,sublime-text,/usr/bin/subl %F
 
 [PreviewSettings]
 Plugins=directorythumbnail,imagethumbnail,jpegthumbnail,windowsexethumbnail,windowsimagethumbnail,svgthumbnail,textthumbnail

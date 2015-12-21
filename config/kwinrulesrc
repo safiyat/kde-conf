@@ -2,6 +2,17 @@
 update_info=kubuntu-fix-kwin-default-size.upd:kubuntu-fix-kwin-default-size
 
 [1]
+Description=Application settings for virtualbox
+clientmachine=linuxbox
+clientmachinematch=0
+size=986,740
+sizerule=2
+types=4294967295
+wmclass=qt-subapplication virtualbox
+wmclasscomplete=true
+wmclassmatch=1
+
+[2]
 Description=(Default) Disable focus stealing prevention for XV
 fsplevel=0
 fsplevelrule=2
@@ -19,7 +30,7 @@ emoticonsTheme[$d]
 [General]
 BrowserApplication[$d]
 XftHintStyle[$d]
-count=1
+count=2
 desktopFont[$d]
 font[$d]
 menuFont[$d]

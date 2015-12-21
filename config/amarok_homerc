@@ -1,6 +1,6 @@
 [Containment 0]
 firstShowingApplet=0
-plugins=currenttrack,analyzer,similarArtists
+plugins=currenttrack,analyzer,wikipedia,lyrics
 
 [Directories-default]
 prefixes[$d]

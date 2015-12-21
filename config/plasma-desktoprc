@@ -14,8 +14,47 @@ Width 1366=720
 [PlasmaViews][10]
 panelVisibility=0
 
+[PlasmaViews][10][Horizontal1366]
+offset=0
+
 [PlasmaViews][10][Sizes]
 lastsize=1366
+
+[PlasmaViews][10][Sizes][Horizontal1024]
+max=1024,33
+min=1024,33
+offset=0
+size=1024,33
+
+[PlasmaViews][10][Sizes][Horizontal1366]
+max=1366,33
+min=1366,33
+offset=0
+size=1366,33
+
+[PlasmaViews][10][Sizes][Horizontal1440]
+max=1440,33
+min=1440,33
+offset=0
+size=1440,33
+
+[PlasmaViews][10][Sizes][Horizontal1920]
+max=1920,33
+min=1920,33
+offset=0
+size=1920,33
+
+[PlasmaViews][10][Sizes][Horizontal3286]
+max=3286,33
+min=3286,33
+offset=0
+size=3286,33
+
+[PlasmaViews][10][Sizes][Horizontal640]
+max=640,33
+min=640,33
+offset=0
+size=640,33
 
 [Updates]
 performed=/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/01-rename-plasma-nm.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/01-kubuntu-10.04.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/02-kubuntu-menu-icon.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/04-add-presence.js,/usr/share/kde4/apps/plasma-desktop/updates/addShowActivitiesManagerPlasmoid.js,/usr/share/kde4/apps/plasma-desktop/updates/02-add-print-manager.js,/usr/share/kde4/apps/plasma-desktop/updates/set-hidden-single-vd-pager.js,/usr/share/kde4/apps/plasma-desktop/updates/systray-to-notifications-widget.js,/usr/share/kde4/apps/plasma-desktop/updates/50-renameKTpApplets.js
@@ -33,7 +72,7 @@ appRealName=networkmanagement
 
 [invokeAction]
 __file=
-actionId=2
+actionId=
 predicate=test-predicate-openinwindow.desktop
 
 [mount]
@@ -44,7 +83,7 @@ __file=
 
 [setBrightness]
 __file=
-brightness=40
+brightness=10
 
 [stop]
 __file=

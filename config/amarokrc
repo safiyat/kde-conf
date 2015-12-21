@@ -1,17 +1,16 @@
-[$Version]
-update_info=amarok.upd:1
-
 [Analyzer Applet]
 Current Analyzer=Blocky
 Height=120
 
 [Collection]
+Use Charset Detector=true
 Write Back Cover=true
 Write Back Cover Dimensions=1600
+Write Back Statistics=true
 
 [Collection Browser]
 TreeCategory=3,1
-View Mode=UnifiedCollection
+View Mode=NormalCollections
 
 [Collection Folders]
 1=./home/safiyat/Music
@@ -24,38 +23,20 @@ TrackSelection=0
 Height 768=498
 Width 1366=625
 
-[Context View]
-firstTimeWithAnalyzer=false
-
-[Cover Fetcher]
-Height 768=300
-Interactive Image Source=Google
-Width 1366=652
-
 [File Browser]
-Current Directory=file:///home/safiyat
+Current Directory=file:///home/safiyat/Downloads/Music
 
 [General]
-Browser Path=root list/collections
+Browser Path=root list/files
 First Run=false
 HiddenOnExit=false
 
 [General Options]
 AutoGetCoverArt=true
 PlayFirstRunJingle=false
-
-[KFileDialog Settings]
-Height 768=450
-Recent Files[$e]=Shadow[Jamal Zohourian].mid,$HOME/Music/English/Adele/01 Daydreamer.m4a,$HOME/Music/NC/Jamal Zohourian/Jamal Zohourian - Weekly Piece - Christmas.mp3,$HOME/Music/NC/Jamal Zohourian/Shadow[Jamal Zohourian].mid
-Recent URLs[$e]=$HOME/Music/NC/Jamal Zohourian/,$HOME/Music/,$HOME/Music/English/Adele/
-Width 1366=720
+Track Progression=RepeatTrack
 
 [Loaded Playlist Files]
-file:///home/safiyat/HDD/Albus%20Dumbledore/Documents/Music/Instrumentalis.pls=
-file:///home/safiyat/HDD/Wierd%20Sisters/Music/English/Adele/Adele%20-%2021%20(2011)%20%20iTunes/00%20Adele%20-%2021.m3u=
-file:///home/safiyat/HDD/Wierd%20Sisters/Music/English/The%20Scorpions%20-%20Acoustica%20%5BFull%20Version%5D%20%5B2001%5D/00_Playlist.m3u=
-file:///home/safiyat/HDD/Wierd%20Sisters/Music/OST/LOTR/The%20Hobbit%20-%20The%20Desolation%20of%20Smaug%20(OST%20Special%20Edition)%20%5BChattChitto%20RG%5D/The%20Hobbit%20-%20The%20Desolation%20of%20Smaug%20%5BSpecial%20Edition%20-%20Disc%201%5D/The%20Hobbit%20-%20The%20Desolation%20of%20Smaug%20%5BSpecial%20Edition%20-%20Disc%201%5D.m3u=
-file:///home/safiyat/HDD/Wierd%20Sisters/Music/OST/LOTR/The%20Hobbit%20-%20The%20Desolation%20of%20Smaug%20(OST%20Special%20Edition)%20%5BChattChitto%20RG%5D/The%20Hobbit%20-%20The%20Desolation%20of%20Smaug%20%5BSpecial%20Edition%20-%20Disc%202%5D/The%20Hobbit%20-%20The%20Desolation%20of%20Smaug%20%5BSpecial%20Edition%20-%20Disc%202%5D.m3u=
 file:///home/safiyat/Music/English/Adele/Adele%20-%2021%20(2011)%20%20iTunes/00%20Adele%20-%2021.m3u=
 file:///home/safiyat/Music/English/The%20Scorpions%20-%20Acoustica%20%5BFull%20Version%5D%20%5B2001%5D/00_Playlist.m3u=
 file:///home/safiyat/Music/OST/LOTR/The%20Hobbit%20-%20The%20Desolation%20of%20Smaug%20(OST%20Special%20Edition)%20%5BChattChitto%20RG%5D/The%20Hobbit%20-%20The%20Desolation%20of%20Smaug%20%5BSpecial%20Edition%20-%20Disc%201%5D/The%20Hobbit%20-%20The%20Desolation%20of%20Smaug%20%5BSpecial%20Edition%20-%20Disc%201%5D.m3u=
@@ -63,25 +44,21 @@ file:///home/safiyat/Music/OST/LOTR/The%20Hobbit%20-%20The%20Desolation%20of%20S
 
 [MainWindow]
 Height 768=715
-State=AAAA/wAAAAD9AAAAAQAAAAAAAAVWAAACgPwBAAAAA/sAAAAkAE0AZQBkAGkAYQAgAFMAbwB1AHIAYwBlAHMAIABkAG8AYwBrAQAAAAAAAAGzAAAAzgEAAAX7AAAAGABDAG8AbgB0AGUAeAB0ACAAZABvAGMAawEAAAG2AAACZgAAAZYBAAAF+wAAABoAUABsAGEAeQBsAGkAcwB0ACAAZABvAGMAawEAAAQfAAABNwAAAM4BAAAFAAAAAAAAAoAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYATQBhAGkAbgBUAG8AbwBsAGIAYQByAQAAAAD/////AAAAAAAAAAAAAAAYAFMAbABpAG0AIABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+Height 900=880
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAVWAAACgPwBAAAAA/sAAAAkAE0AZQBkAGkAYQAgAFMAbwB1AHIAYwBlAHMAIABkAG8AYwBrAQAAAAAAAAE2AAAAzgEAAAX7AAAAGABDAG8AbgB0AGUAeAB0ACAAZABvAGMAawEAAAE5AAAC5AAAAZYBAAAF+wAAABoAUABsAGEAeQBsAGkAcwB0ACAAZABvAGMAawEAAAQgAAABNgAAAM4BAAAFAAAAAAAAAoAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYATQBhAGkAbgBUAG8AbwBsAGIAYQByAQAAAAD/////AAAAAAAAAAAAAAAYAFMAbABpAG0AIABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 Width 1366=1366
-
-[Moodbar]
-ShowMoodbarInSlider=true
+Width 1440=1440
 
 [OSD]
 Osd Alignment=Right
 Osd Enabled=true
-Osd Y Offset=655
+Osd Y Offset=653
 
 [Playback]
-EqualizerGains=0,20,20,10,-5,-25,-30,-20,-5,15,45
-EqualizerMode=17
 FadeoutOnPause=false
 FadeoutOnStop=false
 Master Volume=100
-Pause On Suspend=true
 
 [Playlist Search]
 MatchAlbum=true
@@ -89,8 +66,22 @@ MatchArtist=true
 MatchTrack=true
 ShowOnlyMatches=false
 
-[Playlist Sorting]
-SortPath=Title_asc
+[Plugins]
+amarok_collection-audiocdcollectionEnabled=false
+amarok_collection-daapcollectionEnabled=false
+amarok_collection-ipodcollectionEnabled=false
+amarok_collection-mtpcollectionEnabled=true
+amarok_collection-nepomukcollectionEnabled=false
+amarok_collection-umscollectionEnabled=true
+amarok_collection-upnpcollectionEnabled=false
+amarok_service_amazonstoreEnabled=false
+amarok_service_ampacheEnabled=false
+amarok_service_gpodderEnabled=false
+amarok_service_jamendoEnabled=false
+amarok_service_lastfmEnabled=true
+amarok_service_magnatunestoreEnabled=false
+amarok_service_mp3tunesEnabled=false
+amarok_service_opmldirectoryEnabled=false
 
 [Podcast View]
 Merged View=false
@@ -101,35 +92,26 @@ Maximum Simultaneous Downloads=4
 Maximum Simultaneous Updates=4
 
 [Recently Played]
-Display Names=Nicholas Hooper - Slughorn's Confession,Nicholas Hooper - Dumbledore's Farewell,Nicholas Hooper - Fireworks,Nicholas Hooper - A Journey To Hogwarts,Abida Parveen & Rahat Fateh Ali Khan - Chaap Tilak,Nicholas Hooper - Dumbledore's Farewell,Nicholas Hooper - Fireworks,Nicholas Hooper - Ginny,Nicholas Hooper - Harry & Hermione,Various - Howard Shore / Concerning Hobbits
-Last Played Dates=2015-10-07T09:34:06,2015-10-07T09:36:28,2015-10-07T09:37:03,2015-10-07T09:39:56,2015-10-07T09:48:48,2015-10-07T09:51:11,2015-10-07T09:52:57,2015-10-07T09:54:28,2015-10-07T09:57:20,2015-10-07T10:00:15
-Urls=amarok-sqltrackuid://bb081e9ddd8ed4d908b24265a90ab380,amarok-sqltrackuid://82ef1b61f4b9e2320459874b82c75cb0,amarok-sqltrackuid://3618091c8081c81698bcfc8dc2103d16,amarok-sqltrackuid://9e56d40d807fbaac9d80acfd5bb2a916,amarok-sqltrackuid://dce66a9cf3d626b4ed805b5a94cf0e74,amarok-sqltrackuid://82ef1b61f4b9e2320459874b82c75cb0,amarok-sqltrackuid://3618091c8081c81698bcfc8dc2103d16,amarok-sqltrackuid://95da9ac73e3ff230e2ea14edf466de65,amarok-sqltrackuid://37e1c494b2314acdf162845c2d09b030,amarok-sqltrackuid://296c8f4ee75df8675cb6388ac2cf46ce
+Display Names=Simin Ghanem - Sib,Nicholas Hooper - Dumbledore's Farewell,Hans Zimmer - Time (Instrumental Core Remix) [Download in Description],Unknown Artist - Lord of The Rings Symphony,Unknown Artist - Lord of the Rings Medley  Lindsey Stirling,Final Fantasy X - Suteki Da Ne (Isn t It Beautiful [Orchestra]),Unknown Artist - Suteki Da Ne (Orchestra Version),Unknown Artist - The Hobbit   Lord Of The Rings Metal Remix,Quratulain Balouch & Umair Jaswal - Sammi Meri Waar,Unknown Artist - The Hobbit   Lord Of The Rings Metal Remix
+Last Played Dates=2015-12-17T01:32:26,2015-12-17T01:34:49,2015-12-17T01:40:06,2015-12-18T01:29:37,2015-12-18T01:32:48,2015-12-18T01:39:08,2015-12-18T11:12:08,2015-12-18T15:43:37,2015-12-18T15:43:40,2015-12-18T16:41:33
+Urls=file:///home/safiyat/Downloads/Music/Simin%20Ghanem%20-%20Sib.mp3,amarok-sqltrackuid://6aa56b8ddda29e0be3f64b21a038f436,file:///home/safiyat/Downloads/Music/Hans%20Zimmer%20-%20Time%20(Instrumental%20Core%20Remix)%20%5BDownload%20in%20Description%5D.mp3,file:///home/safiyat/Downloads/Music/Lord%20of%20The%20Rings%20Symphony.mp3,file:///home/safiyat/Downloads/Music/Lord%20of%20the%20Rings%20Medley%20%20Lindsey%20Stirling.mp3,file:///home/safiyat/Downloads/Music/Final%20Fantasy%20X%20-%20Suteki%20Da%20Ne%20(Isn%20t%20It%20Beautiful%20%5BOrchestra%5D).mp3,file:///home/safiyat/Downloads/Music/Suteki%20Da%20Ne%20(Orchestra%20Version).mp3,file:///home/safiyat/Downloads/Music/The%20Hobbit%20%20%20Lord%20Of%20The%20Rings%20Metal%20Remix.mp3,file:///home/safiyat/Downloads/Music/02%20-%20Sammi%20Meri%20Waar%20-%20S08E02.mp3,file:///home/safiyat/Downloads/Music/The%20Hobbit%20%20%20Lord%20Of%20The%20Rings%20Metal%20Remix.mp3
 
 [Saved Playlists View]
 Merged View=false
 
 [ScriptManager]
-LastUpdateCheck=1443629434
+LastUpdateCheck=1450332745
 
 [Session]
-LastPlaying=14
+LastPlaying=28
 Resume Paused=true
 Resume Playback=true
-Resume Time=90592
-Resume Track[$e]=file://$HOME/Music/OST/LOTR/1_The_Fellowship_of_the_Ring/17 - The Breaking Of The Fellowship.mp3
-
-[Shortcuts]
-next=Ctrl+Alt+N
-play_pause=Ctrl+Alt+X
-prev=Ctrl+Alt+P
-stop=Ctrl+Alt+S
+Resume Time=123611
+Resume Track[$e]=file://$HOME/Downloads/Music/Thomas Bergersen - Final Frontier (Interstellar - Official Trailer 3 Music).mp3
 
 [StatSyncing]
 checkedFields=rating,firstplay,lastplay,playcount,label
 excludedLabels=
-providerEnabledStatuses=true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
-providerIds=localCollection,3434-3965,08be-21d7,4e1aea7b1aea6007,60c6db98c6db6d32,,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-2,16e7-2545,2e89-8455,c294-7434,8852-7b83,f80b-f4e8,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-1,f43d-dbab,9016-4ef8,0000-4238,60ca-168a,3c2e-d037,78e8963fe895fc16
-providerNames=Local Collection,29.7 GiB Removable Media (not activated),UBUNTU 14_0 (not activated), (not activated),Seagate Expansion Drive (not activated), (not activated),E2363, (not activated),KUBUNTU 14_ (not activated),BHATIA (not activated),FEDORA-LIVE (not activated),UBUNTU 12_0 (not activated),D2202,14.6 GiB Removable Media (not activated),29.3 GiB Removable Media (not activated), (not activated), (not activated),7.4 GiB Removable Media (not activated),AAKASH (not activated)
-
-[TagDialog]
-CurrentTab=1
+providerEnabledStatuses=true,false,false,false,false,false,false,false,false,false,false,false
+providerIds=localCollection,4e1aea7b1aea6007,08be-21d7,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-2,2a3e-1e18,78e8963fe895fc16,74d7f92932cde428,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-1,,3c2e-d037,ce31-5e9b,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-4
+providerNames=Local Collection,My Passport (not activated),UBUNTU 14_0 (not activated),E2363,UNTITLED (not activated),AAKASH (not activated),AAKASH (not activated),E2363, (not activated), (not activated),14.6 GiB Removable Media (not activated),E2363

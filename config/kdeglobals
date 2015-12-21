@@ -6,7 +6,7 @@ Style=InApplication
 
 [DirSelect Dialog]
 DirSelectDialog Size=801,512
-History Items[$e]=file:///media/safiyat/M
+History Items[$e]=file://$HOME,file:///media/safiyat/UNTITLED/Mr. Robot S01 COMPLETE Season 1 720p HDTV x264 [MKV\\,AC3\\,5.1] Ehhhh,file://$HOME/Videos/Movies/Unseen/English/Ninja Assassin (2009),file://$HOME/Videos/Movies/Unseen/English/James Bond 24 Movies pack/20%20 The World Is Not Enough,file:///media/safiyat/UBUNTU 14_0/BlindSpot,file://$HOME/Hogwarts/Github/dolphin/build,file://$HOME/Hogwarts/Github/dolphin,file:///media/safiyat/UBUNTU 14_0/Quantico,file:///media/safiyat/M
 
 [General]
 BrowserApplication[$e]=firefox.desktop
@@ -30,7 +30,7 @@ Breadcrumb Navigation=true
 Decoration position=0
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
-Preview Width=162
+Preview Width=157
 Previews=false
 Show Bookmarks=false
 Show Full Path=false
@@ -40,7 +40,7 @@ Show hidden files=false
 Sort by=Name
 Sort directories first=true
 Sort reversed=false
-Speedbar Width=116
+Speedbar Width=135
 View Style=Simple
 listViewIconSize=0
 

@@ -1,12 +1,15 @@
 [Crop]
 CropAdvancedSettingsEnabled=true
 
+[General]
+DefaultExportPluginText=Install Plug-ins
+
 [ImageView]
 ThumbnailSplitterSizes=506,144
 
 [KFileDialog Settings]
 Height 768=450
-Recent Files[$e]=$HOME/IMG_0661c.jpg,$HOME/IMG_0661c.jpg
+Recent Files[$e]=$HOME/6102937b535af53ada5c89edf550542e.600xsdf.jpg,$HOME/6102937b535af53ada5c89edf550542e.600xsdf.jpg
 Recent URLs[$e]=$HOME/Downloads/
 Width 1366=720
 
@@ -17,26 +20,12 @@ ToolBarsMovable=Disabled
 Width 1366=1367
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/insta/12107109_436004459934323_1072195460982043810_n.jpg
-File10[$e]=$HOME/Downloads/insta/tumblr_ntibksf6Be1r6muu3o1_540.jpg
-File2[$e]=$HOME/Downloads/insta/12107493_1014238405294571_1093538371_n.jpg
-File3[$e]=$HOME/Downloads/insta/12139626_1508182559480050_950783276_n.jpg
-File4[$e]=$HOME/Downloads/insta/12142359_524760301032372_380672288_n.jpg
-File5[$e]=$HOME/Downloads/insta/12144087_985167831522262_1828171398_a.jpg
-File6[$e]=$HOME/Downloads/insta/12145137_700517440049906_1618048502_n.jpg
-File7[$e]=$HOME/Downloads/insta/12145417_1635200856761285_131287649_n.jpg
-File8[$e]=$HOME/Downloads/insta/12145417_1635200856761285_131287649_n2113.jpg
-File9[$e]=$HOME/Downloads/insta/ce5bbaa6a21e688eb4f382394bc89c27.600x.jpg
-Name1[$e]=12107109_436004459934323_1072195460982043810_n.jpg
-Name10[$e]=tumblr_ntibksf6Be1r6muu3o1_540.jpg
-Name2[$e]=12107493_1014238405294571_1093538371_n.jpg
-Name3[$e]=12139626_1508182559480050_950783276_n.jpg
-Name4[$e]=12142359_524760301032372_380672288_n.jpg
-Name5[$e]=12144087_985167831522262_1828171398_a.jpg
-Name6[$e]=12145137_700517440049906_1618048502_n.jpg
-Name7[$e]=12145417_1635200856761285_131287649_n.jpg
-Name8[$e]=12145417_1635200856761285_131287649_n2113.jpg
-Name9[$e]=ce5bbaa6a21e688eb4f382394bc89c27.600x.jpg
+File1[$e]=$HOME/Downloads/12311180_1187300664616776_4354238882482835285_n.jpg
+File2[$e]=$HOME/enhanced-buzz-3218-1436965238-6.jpg
+File3[$e]=$HOME/enhanced-26299-1436966146-1.png
+Name1[$e]=12311180_1187300664616776_4354238882482835285_n.jpg
+Name2[$e]=enhanced-buzz-3218-1436965238-6.jpg
+Name3[$e]=enhanced-26299-1436966146-1.png
 
 [SideBar-BrowseMode]
 IsVisible=true
@@ -45,4 +34,4 @@ IsVisible=true
 IsVisible=false
 
 [SideBar-ViewMode]
-IsVisible=false
+IsVisible=true
