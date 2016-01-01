@@ -2,7 +2,7 @@
 update_info=konsole_remove_background_mode.upd:2.11.0-remove-background-mode,kscreenlocker_locksession-shortcut.upd:4.9-locksession-shortcut,ksmserver_shortcuts.upd:kde4.10,ksmserver_shortcuts.upd:kde4.10-remove-group-kscreenlocker,plasma-to-plasmadesktop-shortcuts.upd:4.3plasma-desktop-shortcuts
 
 [KDE Keyboard Layout Switcher]
-Switch to Next Keyboard Layout=Ctrl+Alt+K,Ctrl+Alt+K,Switch to Next Keyboard Layout
+Switch to Next Keyboard Layout=,Ctrl+Alt+K,Switch to Next Keyboard Layout
 _k_friendly_name=KDE Keyboard Layout Switcher
 
 [amarok]
@@ -59,6 +59,7 @@ _k_friendly_name=khotkeys
 {6aa60084-fbd5-4c6c-8be4-40a15853db85}=Ctrl+Alt+H,none,Launch dolphin
 {6c8fce10-e60f-46ba-90c9-d4a4f53ff98d}=Ctrl+Alt+E,none,Launch Emacs
 {75ea36de-5523-4264-8d87-6e43bd08246f}=,none,Launch Chrome
+{8572221f-d234-414e-9eca-27ed7b572873}=Ctrl+Alt+K,none,New Action
 {8776c316-aba2-4f15-b2ef-d2052f9f0e29}=Print,none,PrintScreen
 {9ef8f882-3735-483d-ba45-394088a419ff}=Ctrl+Alt+R,none,Launch Amarok
 {a607318b-009c-43c1-b02c-8661b1197d35}=Ctrl+Alt+U,none,Launch Uget
@@ -119,6 +120,11 @@ Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Log Out
 Log Out Without Confirmation=Ctrl+Alt+Shift+Del,Ctrl+Alt+Shift+Del,Log Out Without Confirmation
 Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,Ctrl+Alt+Shift+PgUp,Reboot Without Confirmation
 _k_friendly_name=The KDE Session Manager
+
+[ktorrent]
+_k_friendly_name=ktorrent
+queue_suspend=Alt+Shift+P,Alt+Shift+P,Suspend Torrents
+show_kt=Alt+Shift+T,Alt+Shift+T,Show/Hide KTorrent
 
 [kwin]
 Activate Window Demanding Attention=,Ctrl+Alt+A,Activate Window Demanding Attention

@@ -25,6 +25,7 @@ emacs24=
 evince=
 firefox=
 foobar2000=
+gentoo=
 gimp=
 gnugo=
 google-chrome=
@@ -289,7 +290,7 @@ plugin=plasma_applet_notes
 zvalue=0
 
 [Containments][12][Applets][49][Configuration]
-autoSaveHtml=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">\n<html><head><meta name="qrichtext" content="1" /><style type="text/css">\np, li { white-space: pre-wrap; }\n</style></head><body style=" font-family:'Ubuntu'; font-size:9pt; font-weight:400; font-style:normal;">\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">rgw S3 api</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">https://www.youtube.com/playlist?list=PL66C04B27B1002E7B</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Start with Lesson 8</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">https://www.youtube.com/playlist?list=PLED2AF773755AC0C2</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">https://www.youtube.com/watch?v=dZ3B1NyXvhw</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Screen command</span></p></body></html>
+autoSaveHtml=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">\n<html><head><meta name="qrichtext" content="1" /><style type="text/css">\np, li { white-space: pre-wrap; }\n</style></head><body style=" font-family:'Ubuntu'; font-size:9pt; font-weight:400; font-style:normal;">\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">https://www.youtube.com/playlist?list=PL66C04B27B1002E7B</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Start with Lesson 8</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">https://www.youtube.com/playlist?list=PLED2AF773755AC0C2</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">----------------------------------------</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Print the staff</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">----------------------------------------</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">https://www.coursera.org/learn/musicianship/home/week/3</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">----------------------------------------</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">800 lps at idle</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">---------------------------------------</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p></body></html>
 scrollValue=33
 
 [Containments][12][Applets][50]
@@ -299,8 +300,8 @@ plugin=plasma_applet_notes
 zvalue=12
 
 [Containments][12][Applets][50][Configuration]
-autoSaveHtml=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">\n<html><head><meta name="qrichtext" content="1" /><style type="text/css">\np, li { white-space: pre-wrap; }\n</style></head><body style=" font-family:'Ubuntu'; font-size:9pt; font-weight:400; font-style:normal;">\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">https://soundcloud.com/you/collection</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">http://ziahamza.github.io/webui-aria2/#</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">http://gitlab.snapdeal.com/cloudplatform/cloudproject</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p></body></html>
-scrollValue=0
+autoSaveHtml=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">\n<html><head><meta name="qrichtext" content="1" /><style type="text/css">\np, li { white-space: pre-wrap; }\n</style></head><body style=" font-family:'Ubuntu'; font-size:9pt; font-weight:400; font-style:normal;">\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">https://soundcloud.com/you/collection</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">http://ziahamza.github.io/webui-aria2/#</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">http://gitlab.snapdeal.com/cloudplatform/cloudproject</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">A technology oriented professional, I like to challenge myself with difficult and interesting problems that require innovative and smart solutions. I am </span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">My </span></p></body></html>
+scrollValue=10
 
 [Containments][12][ToolBox]
 corner=1
@@ -384,7 +385,7 @@ activity=Desktop
 activityId=111d3bfe-acdf-4ce4-ad49-9292f487c15a
 desktop=0
 formfactor=0
-geometry=1372,1848,1440,900
+geometry=1372,1848,1920,1080
 immutability=1
 lastDesktop=0
 lastScreen=1
@@ -409,7 +410,7 @@ activity=Desktop
 activityId=111d3bfe-acdf-4ce4-ad49-9292f487c15a
 desktop=1
 formfactor=0
-geometry=0,2904,1440,900
+geometry=0,3084,1920,1080
 immutability=1
 lastDesktop=1
 lastScreen=1
@@ -434,7 +435,7 @@ activity=Desktop
 activityId=111d3bfe-acdf-4ce4-ad49-9292f487c15a
 desktop=2
 formfactor=0
-geometry=1446,2904,1440,900
+geometry=1926,3084,1920,1080
 immutability=1
 lastDesktop=2
 lastScreen=1
@@ -459,7 +460,7 @@ activity=Desktop
 activityId=111d3bfe-acdf-4ce4-ad49-9292f487c15a
 desktop=3
 formfactor=0
-geometry=0,3960,1440,900
+geometry=0,4320,1920,1080
 immutability=1
 lastDesktop=3
 lastScreen=1
@@ -508,7 +509,7 @@ Order=0
 global=Alt+F1
 
 [Containments][38][Applets][42]
-geometry=35,2,984,31
+geometry=35,2,928,31
 immutability=2
 plugin=tasks
 zvalue=0
@@ -533,7 +534,7 @@ Items=file:///usr/share/applications/terminator.desktop?wmClass=Terminator
 Order=1
 
 [Containments][38][Applets][43]
-geometry=1023,2,246,31
+geometry=967,2,302,31
 immutability=2
 plugin=systemtray
 zvalue=0
@@ -561,8 +562,8 @@ plugin=notifier
 zvalue=0
 
 [Containments][38][Applets][43][Configuration][Applets][46][PopupApplet]
-DialogHeight=344
-DialogWidth=298
+DialogHeight=348
+DialogWidth=302
 
 [Containments][38][Applets][43][Configuration][Applets][46][Shortcuts]
 global=Ctrl+Alt+D
@@ -590,7 +591,7 @@ plugin=battery
 zvalue=0
 
 [Containments][38][Applets][43][Configuration][Applets][48][PopupApplet]
-DialogHeight=164
+DialogHeight=160
 DialogWidth=296
 
 [Containments][38][Applets][43][Configuration][Applets][48][Shortcuts]

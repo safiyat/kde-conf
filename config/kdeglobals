@@ -30,7 +30,7 @@ Breadcrumb Navigation=true
 Decoration position=0
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
-Preview Width=157
+Preview Width=156
 Previews=false
 Show Bookmarks=false
 Show Full Path=false
@@ -40,7 +40,7 @@ Show hidden files=false
 Sort by=Name
 Sort directories first=true
 Sort reversed=false
-Speedbar Width=135
+Speedbar Width=144
 View Style=Simple
 listViewIconSize=0
 

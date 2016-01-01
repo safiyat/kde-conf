@@ -1,4 +1,5 @@
 [Devices][/org/freedesktop/UDisks2/block_devices/loop0]
+EverMounted=true
 Icon=drive-harddisk
 LastNameSeen=Loop Device
 LastSeenMounted=false
@@ -31,6 +32,12 @@ Icon=drive-harddisk
 LastNameSeen=Other
 LastSeenMounted=true
 
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=XIAOMI
+LastSeenMounted=true
+
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
 EverMounted=true
 ForceAttachAutomount=false
@@ -44,8 +51,8 @@ EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-removable-media-usb
-LastNameSeen=UNTITLED
-LastSeenMounted=false
+LastNameSeen=14.3 GiB Removable Media
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc2]
 EverMounted=true
@@ -76,6 +83,12 @@ ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=media-optical-data
 LastNameSeen=airtel
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sr1]
+EverMounted=true
+Icon=media-optical-data
+LastNameSeen=OnePlus Drivers
 LastSeenMounted=false
 
 [General]

@@ -20,12 +20,26 @@ ToolBarsMovable=Disabled
 Width 1366=1367
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/12311180_1187300664616776_4354238882482835285_n.jpg
-File2[$e]=$HOME/enhanced-buzz-3218-1436965238-6.jpg
-File3[$e]=$HOME/enhanced-26299-1436966146-1.png
-Name1[$e]=12311180_1187300664616776_4354238882482835285_n.jpg
-Name2[$e]=enhanced-buzz-3218-1436965238-6.jpg
-Name3[$e]=enhanced-26299-1436966146-1.png
+File1[$e]=trash:/0-11226563_105383936488023_6376501300747946844_n_2.jpg
+File10[$e]=$HOME/Downloads/Paris.jpg
+File2[$e]=trash:/0-lara-croft-costume-wallpaper-2.jpg
+File3[$e]=trash:/0-kelly-brook-riley-steele-boobs-bikini.jpg
+File4[$e]=trash:/0-Fearless-Nikki-nikki-bella-38287115-642-72212.jpg
+File5[$e]=trash:/0-doc9.png
+File6[$e]=$HOME/Downloads/kubuntu/cool-opensuse-kde-plasma-by-redsilverjon.jpg
+File7[$e]=$HOME/Screenshots/screen3.png
+File8[$e]=$HOME/Crush.png
+File9[$e]=$HOME/Downloads/Rail.jpg
+Name1[$e]=0-11226563_105383936488023_6376501300747946844_n_2.jpg
+Name10[$e]=Paris.jpg
+Name2[$e]=0-lara-croft-costume-wallpaper-2.jpg
+Name3[$e]=0-kelly-brook-riley-steele-boobs-bikini.jpg
+Name4[$e]=0-Fearless-Nikki-nikki-bella-38287115-642-72212.jpg
+Name5[$e]=0-doc9.png
+Name6[$e]=cool-opensuse-kde-plasma-by-redsilverjon.jpg
+Name7[$e]=screen3.png
+Name8[$e]=Crush.png
+Name9[$e]=Rail.jpg
 
 [SideBar-BrowseMode]
 IsVisible=true

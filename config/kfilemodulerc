@@ -2,11 +2,11 @@
 Autoplay sounds=true
 Height 768=708
 Height 900=713
-Recent Files[$e]=$HOME/Documents/OVAs/Fedora VM.ova,$HOME/kubuntu-14.04.3-desktop-amd64.iso,$HOME/Documents/OVAs/Ubuntu VM (Template).ova,$HOME/Downloads/mini.iso,$HOME/Documents/OVAs/Ubuntu Plain Vanilla.ova
-Recent URLs[$e]=$HOME/Downloads/,$HOME/Documents/OVAs/,$HOME/VirtualBox VMs/
+Recent Files[$e]=$HOME/Documents/OVAs/Fedora VM.ova,/media/safiyat/Other/Downloaded Videos/Dinae Dinae - Papon _ Harshdeep Kaur - Coke Studio @ MTV Season 3.mp4,/media/safiyat/Other/Downloaded Videos/Dasht-e-Tanhai. Meesha Shafi.mp4,/media/safiyat/Other/Downloaded Videos/Abida Parveen\\, Dost\\, Coke Studio Season 7\\, Episode 3.mp4,/media/safiyat/Other/Downloaded Videos/Malang Party\\, Dil Jale\\, Coke Studio Season 8\\, Episode 7.mp4,$HOME/Downloads/V for Vendetta The Revolutionary Speech (HD).mp4,$HOME/Downloads/A.R.Rahman\\, Farah Siraj & Ani Choying Drolma Teaser\\, Coke Studio @ MTV Season 3.mp4,$HOME/Downloads/A. R. Rahman Clinic at the Berklee Performance Center.mp4,$HOME/Hogwarts/Vagrant/Boxes/ubuntu-14.04.3-server-amd64.iso,$HOME/Documents/OVAs/Ubuntu VM (Template).ova,$HOME/Downloads/mini.iso,$HOME/Documents/OVAs/Ubuntu Plain Vanilla.ova
+Recent URLs[$e]=$HOME/Documents/OVAs/,$HOME/VirtualBox VMs/,$HOME/Hogwarts/Vagrant/Boxes/,/home/,$HOME/Downloads/Videos/,/media/safiyat/Other/Downloaded Videos/
 Width 1366=982
 Width 1440=982
 
 [KPropertiesDialog]
-Height 768=374
-Width 1366=318
+Height 768=713
+Width 1366=982

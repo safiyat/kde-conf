@@ -43,6 +43,9 @@ Split=false
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:118]
 Split=false
 
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:1193]
+Split=false
+
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:139]
 Split=false
 
@@ -128,6 +131,9 @@ Split=false
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:600]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:616]
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:70]

@@ -11,4 +11,4 @@ loadAll=false
 pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
 
 [RecentlyUsed]
-Applications=kde4-dolphin.desktop,wine-browsedrive.desktop,opera-browser.desktop,MobilePartner.desktop,kcm_kscreen.desktop
+Applications=opera-browser.desktop,MobilePartner.desktop,kcm_kscreen.desktop,kde4-systemsettings.desktop,kde4-dolphin.desktop
