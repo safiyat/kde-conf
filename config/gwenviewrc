@@ -15,31 +15,25 @@ Width 1366=720
 
 [MainWindow]
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKXAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1367
 
 [Recent Files]
-File1[$e]=trash:/0-11226563_105383936488023_6376501300747946844_n_2.jpg
-File10[$e]=$HOME/Downloads/Paris.jpg
-File2[$e]=trash:/0-lara-croft-costume-wallpaper-2.jpg
-File3[$e]=trash:/0-kelly-brook-riley-steele-boobs-bikini.jpg
-File4[$e]=trash:/0-Fearless-Nikki-nikki-bella-38287115-642-72212.jpg
-File5[$e]=trash:/0-doc9.png
-File6[$e]=$HOME/Downloads/kubuntu/cool-opensuse-kde-plasma-by-redsilverjon.jpg
-File7[$e]=$HOME/Screenshots/screen3.png
-File8[$e]=$HOME/Crush.png
-File9[$e]=$HOME/Downloads/Rail.jpg
-Name1[$e]=0-11226563_105383936488023_6376501300747946844_n_2.jpg
-Name10[$e]=Paris.jpg
-Name2[$e]=0-lara-croft-costume-wallpaper-2.jpg
-Name3[$e]=0-kelly-brook-riley-steele-boobs-bikini.jpg
-Name4[$e]=0-Fearless-Nikki-nikki-bella-38287115-642-72212.jpg
-Name5[$e]=0-doc9.png
-Name6[$e]=cool-opensuse-kde-plasma-by-redsilverjon.jpg
-Name7[$e]=screen3.png
-Name8[$e]=Crush.png
-Name9[$e]=Rail.jpg
+File1[$e]=$HOME/BH_LMC.png
+File2[$e]=$HOME/Downloads/Images/lsqu8qcp7nkg4w5xz7qy.jpg
+File3[$e]=$HOME/Downloads/documents-export-2016-02-08/Passport2.png
+File4[$e]=$HOME/Downloads/documents-export-2016-02-08/Passport1.png
+File5[$e]=$HOME/Downloads/11224778_921510647925370_2613018783062229495_n.jpg
+File6[$e]=$HOME/Downloads/12074639_911341625608939_4376562534935745227_n.jpg
+File7[$e]=$HOME/funny.png
+Name1[$e]=BH_LMC.png
+Name2[$e]=lsqu8qcp7nkg4w5xz7qy.jpg
+Name3[$e]=Passport2.png
+Name4[$e]=Passport1.png
+Name5[$e]=11224778_921510647925370_2613018783062229495_n.jpg
+Name6[$e]=12074639_911341625608939_4376562534935745227_n.jpg
+Name7[$e]=funny.png
 
 [SideBar-BrowseMode]
 IsVisible=true

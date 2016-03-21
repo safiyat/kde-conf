@@ -20,6 +20,11 @@ ctime=1440565635
 done=initial-grantlee-theme-migration
 mtime=1404908330
 
+[kalarm.upd]
+ctime=1452609194
+done=1.9.5,1.9.9,1.9.12,2.0.0,2.0.2,2.1.5,2.3.2
+mtime=1404908330
+
 [kate-2.4.upd]
 ctime=1440565635
 done=kate2.4

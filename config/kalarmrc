@@ -1,0 +1,30 @@
+[$Version]
+update_info=kalarm.upd:1.9.5,kalarm.upd:1.9.9,kalarm.upd:1.9.12,kalarm.upd:2.0.0,kalarm.upd:2.0.2,kalarm.upd:2.1.5,kalarm.upd:2.3.2
+
+[Collections]
+FavoriteCollectionIds=14,15,16
+FavoriteCollectionLabels=Active Alarms,Alarm Templates,Archived Alarms
+
+[EditDialog]
+Height 900=428
+Width 2806=531
+
+[General]
+AutoStart=true
+Backend=Akonadi
+Version=2.10.10-ak
+
+[MainWindow]
+Height 768=243
+State=AAAA/wAAAAD9AAAAAAAAAn0AAADAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=637
+
+[Notification Messages]
+AskAutoStart=
+ConfirmAlarmDeletion=true
+EmailQueuedNotify=false
+QuitWarn=
+
+[View]
+ShowResources=false

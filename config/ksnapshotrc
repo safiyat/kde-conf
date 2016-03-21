@@ -1,15 +1,15 @@
 [GENERAL]
 delay=0
-filename[$e]=file://$HOME/del2.png
+filename[$e]=file://$HOME/funny1.png
 includeDecorations=true
-includePointer=false
+includePointer=true
 mode=2
 
 [KFileDialog Settings]
 Height 768=450
 Height 900=450
-Recent Files[$e]=$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/root.png,$HOME/del1.png,$HOME/del.png,$HOME/Crush.png
-Recent URLs[$e]=$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/,$HOME/Hogwarts/OpenStack/DevStackNotes/,$HOME/Hogwarts/OpenStack Meetup/,$HOME/Hogwarts/
+Recent Files[$e]=$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/root.png,$HOME/funny.png,$HOME/pic3.png,$HOME/Snapdeal/Notes/4G - 2.238G.png,$HOME/Snapdeal/Notes/4G - 2.177G.png
+Recent URLs[$e]=$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/,$HOME/Hogwarts/OpenStack/DevStackNotes/,$HOME/Hogwarts/OpenStack Meetup/,$HOME/Hogwarts/,$HOME/Snapdeal/Notes/
 Width 1366=720
 Width 1440=720
 

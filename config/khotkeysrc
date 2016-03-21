@@ -1,5 +1,5 @@
 [Data]
-DataCount=7
+DataCount=5
 
 [Data_1]
 Comment=KMenuEdit Global Shortcuts
@@ -1994,58 +1994,6 @@ TriggersCount=1
 Key=
 Type=SHORTCUT
 Uuid={75ea36de-5523-4264-8d87-6e43bd08246f}
-
-[Data_6]
-Comment=Comment
-Enabled=true
-Name=Launch Uget
-Type=SIMPLE_ACTION_DATA
-
-[Data_6Actions]
-ActionsCount=1
-
-[Data_6Actions0]
-CommandURL=uget-gtk
-Type=COMMAND_URL
-
-[Data_6Conditions]
-Comment=
-ConditionsCount=0
-
-[Data_6Triggers]
-Comment=Simple_action
-TriggersCount=1
-
-[Data_6Triggers0]
-Key=Ctrl+Alt+U
-Type=SHORTCUT
-Uuid={a607318b-009c-43c1-b02c-8661b1197d35}
-
-[Data_7]
-Comment=Disable the Keyboard
-Enabled=true
-Name=New Action
-Type=SIMPLE_ACTION_DATA
-
-[Data_7Actions]
-ActionsCount=1
-
-[Data_7Actions0]
-CommandURL=xinput float 11
-Type=COMMAND_URL
-
-[Data_7Conditions]
-Comment=
-ConditionsCount=0
-
-[Data_7Triggers]
-Comment=Simple_action
-TriggersCount=1
-
-[Data_7Triggers0]
-Key=Ctrl+Alt+K
-Type=SHORTCUT
-Uuid={8572221f-d234-414e-9eca-27ed7b572873}
 
 [Directories-default]
 prefixes[$d]

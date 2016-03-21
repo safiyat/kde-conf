@@ -41,26 +41,31 @@ Recent URLs[$e]=$HOME/HDD/Wierd Sisters/Music/,$HOME/HDD/Albus Dumbledore/Docume
 Width 1366=720
 
 [KPropertiesDialog]
-Height 768=399
+Height 768=406
 Width 1366=480
 
 [MainWindow]
 Height 1080=1081
+Height 480=481
 Height 768=769
+Height 900=880
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAwAAAAAAAAByAAACrfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAeAAACqwAAAAgBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAeAAACrQAAAFABAAAFAAAAAQAAAVMAAAKt/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAAB4AAAKtAAAA9QEAAAUAAAADAAAFVgAAARD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAgBAAAFAAADiwAAAq0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAByAAACrfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAeAAACqwAAAAgBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAeAAACrQAAAFABAAAFAAAAAQAAAVMAAAKt/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAAB4AAAKtAAAA9wEAAAUAAAADAAAFVgAAAbX8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAgBAAAFAAADiwAAAq0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 Width 1024=1025
 Width 1366=1367
+Width 1440=1440
 Width 1920=1921
+Width 2806=2807
 Width 3286=3287
+Width 640=641
 
 [Notification Messages]
 ConfirmDelete=true
 
 [Open-with settings]
 CompletionMode=5
-History=sublime-text,VirtualBox %U,/usr/bin/google-chrome-stable %U,amarok,libreoffice --writer %U,emacs,/usr/bin/subl %F
+History=sublime-text,emacs,emacs %F,VirtualBox %U,/usr/bin/google-chrome-stable %U,amarok,libreoffice --writer %U,/usr/bin/subl %F
 
 [PreviewSettings]
 Plugins=directorythumbnail,imagethumbnail,jpegthumbnail,windowsexethumbnail,windowsimagethumbnail,svgthumbnail,textthumbnail

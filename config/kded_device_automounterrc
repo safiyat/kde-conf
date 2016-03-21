@@ -29,13 +29,13 @@ LastSeenMounted=true
 [Devices][/org/freedesktop/UDisks2/block_devices/sda3]
 EverMounted=true
 Icon=drive-harddisk
-LastNameSeen=Other
-LastSeenMounted=true
+LastNameSeen=Fedora
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb]
 EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=XIAOMI
+LastNameSeen=GARMIN
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
@@ -43,7 +43,7 @@ EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-removable-media-usb
-LastNameSeen=7.4 GiB Removable Media
+LastNameSeen=3.8 GiB Removable Media
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc1]
@@ -51,8 +51,8 @@ EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-removable-media-usb
-LastNameSeen=14.3 GiB Removable Media
-LastSeenMounted=true
+LastNameSeen=My Passport
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc2]
 EverMounted=true

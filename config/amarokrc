@@ -24,7 +24,7 @@ Height 768=498
 Width 1366=625
 
 [File Browser]
-Current Directory=file:///home/safiyat/Music/Downloads
+Current Directory=file:///home/safiyat/Music
 
 [General]
 Browser Path=root list/collections
@@ -47,12 +47,18 @@ file:///home/safiyat/Music/OST/LOTR/The%20Hobbit%20-%20The%20Desolation%20of%20S
 file:///home/safiyat/Music/OST/LOTR/The%20Hobbit%20-%20The%20Desolation%20of%20Smaug%20(OST%20Special%20Edition)%20%5BChattChitto%20RG%5D/The%20Hobbit%20-%20The%20Desolation%20of%20Smaug%20%5BSpecial%20Edition%20-%20Disc%202%5D/The%20Hobbit%20-%20The%20Desolation%20of%20Smaug%20%5BSpecial%20Edition%20-%20Disc%202%5D.m3u=
 
 [MainWindow]
+Height 1080=1060
 Height 768=715
-Height 900=880
-State=AAAA/wAAAAD9AAAAAQAAAAAAAAVWAAACgPwBAAAAA/sAAAAkAE0AZQBkAGkAYQAgAFMAbwB1AHIAYwBlAHMAIABkAG8AYwBrAQAAAAAAAAE2AAAAzgEAAAX7AAAAGABDAG8AbgB0AGUAeAB0ACAAZABvAGMAawEAAAE5AAAC5AAAAZYBAAAF+wAAABoAUABsAGEAeQBsAGkAcwB0ACAAZABvAGMAawEAAAQgAAABNgAAAM4BAAAFAAAAAAAAAoAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYATQBhAGkAbgBUAG8AbwBsAGIAYQByAQAAAAD/////AAAAAAAAAAAAAAAYAFMAbABpAG0AIABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+Height 900=901
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAVWAAACgPwBAAAAA/sAAAAkAE0AZQBkAGkAYQAgAFMAbwB1AHIAYwBlAHMAIABkAG8AYwBrAQAAAAAAAAE3AAAAzgEAAAX7AAAAGABDAG8AbgB0AGUAeAB0ACAAZABvAGMAawEAAAE6AAAC4gAAAZYBAAAF+wAAABoAUABsAGEAeQBsAGkAcwB0ACAAZABvAGMAawEAAAQfAAABNwAAAM4BAAAFAAAAAAAAAoAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYATQBhAGkAbgBUAG8AbwBsAGIAYQByAQAAAAD/////AAAAAAAAAAAAAAAYAFMAbABpAG0AIABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 Width 1366=1366
-Width 1440=1440
+Width 1440=1920
+Width 1920=1920
+
+[MusicBrainzTagDialog]
+Height 768=300
+Width 1366=550
 
 [OSD]
 Osd Alignment=Right
@@ -62,13 +68,16 @@ Osd Y Offset=653
 [Playback]
 FadeoutOnPause=false
 FadeoutOnStop=false
-Master Volume=68
+Master Volume=100
 
 [Playlist Search]
 MatchAlbum=true
 MatchArtist=true
 MatchTrack=true
-ShowOnlyMatches=false
+ShowOnlyMatches=true
+
+[Playlist Sorting]
+SortPath=Album_asc
 
 [Plugins]
 amarok_collection-audiocdcollectionEnabled=false
@@ -96,29 +105,33 @@ Maximum Simultaneous Downloads=4
 Maximum Simultaneous Updates=4
 
 [Recently Played]
-Display Names=Coldplay - Crests Of Waves,Suraj Jaggan - Zehreelay,Coldplay - Spies,Coldplay - Bigger Stronger,Farhan Akhtar - Socha Hai,Coldplay - Help Is Around The Corner,Unknown Artist - Charlie Brown,Coldplay - What If,Coldplay - High Speed,Michael Jackson - They Don't Care About Us
-Last Played Dates=2016-01-01T15:38:55,2016-01-01T15:38:59,2016-01-01T15:44:18,2016-01-01T15:49:07,2016-01-01T15:53:19,2016-01-01T15:55:57,2016-01-01T16:00:42,2016-01-01T16:05:39,2016-01-01T16:09:54,2016-01-01T16:14:40
-Urls=amarok-sqltrackuid://4407bc78bf0e8e7ed08d84b61a42ad34,amarok-sqltrackuid://72b89f2f9aa90de2b50683b373ae281d,amarok-sqltrackuid://84b7c82e46e3b6c25bff397a908f883d,amarok-sqltrackuid://9c3eb7cc71712c10258f86b5ce70fd68,amarok-sqltrackuid://2cf631265c84c1d61cab0515999e1f74,amarok-sqltrackuid://e6e04a95bd9b26cbc0ca946768a3e810,amarok-sqltrackuid://698fda8591d0b629ff515463d812cd9b,amarok-sqltrackuid://1491301a72845fb869aea50c46a688e8,amarok-sqltrackuid://c8927dcf1b8cc3a0ebbcf8986c32943d,amarok-sqltrackuid://efbc1eec894c653135fa6f1fb0a8f306
+Display Names=Jagjit Singh - Chak jigar ke,Simin Ghanem - To Ooni,Simin Ghanem - Piano by Mohsen Karbassi,Simin Ghanem - Sib,Simin Ghanem - Gole Goldoone Man,Simin Ghanem - Sib  IranMediaNetwork,Simin Ghanem - Piano by Mohsen Karbassi,Simin Ghanem - Sib,Gogoosh - Delkook,Simin Ghanem - Gole Goldoone Man
+Last Played Dates=2016-02-10T18:12:14,2016-02-10T18:17:18,2016-02-10T18:20:45,2016-02-10T18:26:40,2016-02-10T18:30:16,2016-02-10T18:36:06,2016-02-10T18:39:33,2016-02-10T18:45:27,2016-02-10T18:49:53,2016-02-10T18:53:29
+Urls=amarok-sqltrackuid://187e682b3debbf09b1a4c7fbfb8eafac,amarok-sqltrackuid://67c64cfe0753ffbc907411b4bda0e8b7,amarok-sqltrackuid://fe943958cf5d9a1a18a7b75b408e76aa,amarok-sqltrackuid://a32feaa704cb4c30e66115328681441b,amarok-sqltrackuid://090e5ed99479ba01963e5fab1da0e521,amarok-sqltrackuid://1d2c50e0cf32eeffd22894ce7c43f61f,amarok-sqltrackuid://63e488a32dd65d214ff044ad1ff9fcd7,amarok-sqltrackuid://18495560eead0db39ddddf586e64273c,amarok-sqltrackuid://cf78df8102a0a72045182fbccb297435,amarok-sqltrackuid://b2f8ba3e5298edeeead881e65b91cf08
 
 [Saved Playlists View]
 Merged View=false
 
 [ScriptManager]
-LastUpdateCheck=1451299709
+LastUpdateCheck=1455308028
 
 [Session]
-LastPlaying=20
+LastPlaying=4
 Resume Paused=true
 Resume Playback=true
-Resume Time=31477
-Resume Track[$e]=file://$HOME/Music/Hindi/Rockstar/Rockstar - 11 - A.R Rahman, Mohit Chauhan - Nadaan Parinde.mp3
+Resume Time=131474
+Resume Track[$e]=file://$HOME/Music/Downloads/Simin Ghanem - Sib%20 IranMediaNetwork.mp3
+
+[Shortcuts]
+seek_backward_medium=none
+seek_forward_medium=none
 
 [StatSyncing]
 checkedFields=rating,firstplay,lastplay,playcount,label
 excludedLabels=
-providerEnabledStatuses=true,false,false,false,false,false,false,false,false,false,false,false,false
-providerIds=localCollection,4e1aea7b1aea6007,08be-21d7,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-2,2a3e-1e18,78e8963fe895fc16,74d7f92932cde428,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-1,,3c2e-d037,ce31-5e9b,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-4,a0489ed2489ea696
-providerNames=Local Collection,My Passport (not activated),UBUNTU 14_0 (not activated),E2363,UNTITLED (not activated),AAKASH (not activated),AAKASH (not activated),Mi 4i,airtel (not activated),7.4 GiB Removable Media (not activated),14.6 GiB Removable Media (not activated),E2363, (not activated)
+providerEnabledStatuses=true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+providerIds=localCollection,4e1aea7b1aea6007,08be-21d7,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-2,2a3e-1e18,78e8963fe895fc16,74d7f92932cde428,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-1,,3c2e-d037,ce31-5e9b,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-4,a0489ed2489ea696,0000-c111,a332-d6b3,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-2/2-2:1.0,1da3-0579,eca86e74a86e3ce8,4db7-0c1d,0831-ed0e,3e6c-40e0
+providerNames=Local Collection,My Passport (not activated),UBUNTU 14_0 (not activated),E2363,UNTITLED (not activated),AAKASH (not activated),AAKASH (not activated),ONE E1003, (not activated),7.4 GiB Removable Media (not activated),14.6 GiB Removable Media (not activated),ONE E1003, (not activated),Sirat (not activated),3.8 GiB Removable Media (not activated),MotoE2,14.8 GiB Removable Media (not activated),Seagate Backup Plus Drive (not activated),14.8 GiB Removable Media (not activated),7.5 GiB Removable Media (not activated),MYLINUXLIVE (not activated)
 
 [TagDialog]
 CurrentTab=1

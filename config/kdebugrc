@@ -55,6 +55,9 @@ InfoOutput=2
 [kcmshell]
 InfoOutput=2
 
+[kdeconnect_kded]
+InfoOutput=2
+
 [kdecore (KConfigSkeleton)]
 InfoOutput=2
 

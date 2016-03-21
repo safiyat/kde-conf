@@ -1,5 +1,5 @@
 [General]
-Recent Urls[$e]=file://$HOME/Videos/The Avengers (2012) [1080p]/The.Avengers.2012.1080p.BluRay.x264.YIFY.mp4,file://$HOME/Videos/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.DD5.1.AC3-ETRG/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.DD5.1.AC3-ETRG.mkv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Untitled Folder/nataley1.mpg,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/starlets-thesmiths.avi,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Sunny Leone/51ae5bf4078bc756985_h.flv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/Mia M-Oh Mia.mov,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Sasha Grey/Top of Sasha Grey's Sexy Scene 18+-4a7E_GFFAfo.webm,file://$HOME/Downloads/kickstarter-foobar1.webm,file://$HOME/Finding_Songs_in_C_Major_Breklee_Assignment.mp4
+Recent Urls[$e]=file://$HOME/Videos/The Avengers (2012) [1080p]/The.Avengers.2012.1080p.BluRay.x264.YIFY.mp4,file://$HOME/Videos/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.DD5.1.AC3-ETRG/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.DD5.1.AC3-ETRG.mkv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Untitled Folder/nataley1.mpg,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/starlets-thesmiths.avi,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Sunny Leone/51ae5bf4078bc756985_h.flv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/Mia M-Oh Mia.mov,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Sasha Grey/Top of Sasha Grey's Sexy Scene 18+-4a7E_GFFAfo.webm,file://$HOME/Downloads/kickstarter-foobar1.webm,file://$HOME/Finding_Songs_in_C_Major_Breklee_Assignment.mp4,file:///media/safiyat/Other/English/Pirates of the Caribbean/4 Pirates of the Caribbean - On Stranger Tides (2011)/Pirates.of.the.Caribbean.On.Stranger.Tides.2011.720p.BrRip.x264.Deceit.YIFY.mp4
 TimeFormat=1
 Volume=1
 
@@ -96,6 +96,26 @@ Hue=0
 IsVideo=true
 Position=927
 Preferred Size=910,437
+Saturation=0
+Subtitle=0
+
+[file:///media/safiyat/My Passport/Fred n George Weasley/Videos/Movies/Seen/Hindi/pyar ka punchnama/Pyaar Ka Punchnama - DVDRip - XviD - 1CDRip - \x5bDDR\x5d.sub]
+Brightness=0
+Contrast=0
+Date=06/02/2016
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///media/safiyat/Other/English/Pirates of the Caribbean/4 Pirates of the Caribbean - On Stranger Tides (2011)/Pirates.of.the.Caribbean.On.Stranger.Tides.2011.720p.BrRip.x264.Deceit.YIFY.mp4]
+Brightness=0
+Contrast=0
+Date=08/01/2016
+Hue=0
+IsVideo=true
+Position=5899263
+Preferred Size=1366,693
 Saturation=0
 Subtitle=0
 
