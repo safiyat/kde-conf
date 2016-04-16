@@ -8,7 +8,7 @@ Menubar=true
 MixerIgnoreExpression=Modem
 Position=0,0
 Size=683,307
-Soundmenu.Mixers=PulseAudio::Playback_Streams:3,PulseAudio::Playback_Devices:1
+Soundmenu.Mixers=PulseAudio::Playback_Devices:1
 Visible=false
 VolumeOverdrive=true
 startkdeRestore=false
@@ -47,6 +47,9 @@ Split=false
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:139]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:1451]
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:149]
@@ -94,7 +97,13 @@ Split=false
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:30]
 Split=false
 
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:311]
+Split=false
+
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:352]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:377]
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:381]
@@ -104,6 +113,9 @@ Split=false
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:402]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:4206]
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:427]
@@ -136,6 +148,9 @@ Split=false
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:616]
 Split=false
 
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:678]
+Split=false
+
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:70]
 Split=false
 
@@ -146,6 +161,9 @@ Split=false
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:809]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:815]
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:827]
@@ -161,6 +179,9 @@ Split=false
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:885]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:92]
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:922]

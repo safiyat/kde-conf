@@ -4,17 +4,19 @@ Width 1366=1367
 
 [Desktop Entry]
 FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
 
 [KFileDialog Settings]
 Autoplay sounds=true
 Height 768=450
-Recent Files[$e]=$HOME/Hogwarts/OpenStack Meetup/flow,$HOME/Hogwarts/OpenStack/References/openstack-install-guide-apt-kilo.pdf
+Recent Files[$e]=$HOME/Hogwarts/OpenStack/References/openstack-install-guide-apt-kilo.pdf,$HOME/Ceph Book Sample.pdf
 Recent URLs[$e]=$HOME/Hogwarts/OpenStack/,$HOME/Hogwarts/OpenStack/References/,$HOME/Hogwarts/OpenStack Meetup/
 Width 1366=720
 
 [MainWindow]
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1024=1025
 Width 1366=1367
@@ -23,23 +25,23 @@ Width 1366=1367
 presentationInfo=false
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/Vagrant.pdf
-File10[$e]=$HOME/Downloads/annualconvocation2015.pdf
-File2[$e]=$HOME/Downloads/03_simmons_07-08.pdf
-File3[$e]=$HOME/Downloads/353_sb_en_web.pdf
-File4[$e]=$HOME/Downloads/w11728.pdf
-File5[$e]=$HOME/Downloads/Flute.pdf
-File6[$e]=$HOME/Downloads/Ansible Up and Running.pdf
-File7[$e]=$HOME/Goa Ticket.pdf
-File8[$e]=$HOME/Irrelevant/Coursera/Music Theory/Week 3/L02-Study-Guide.pdf
-File9[$e]=$HOME/Hogwarts/OpenStack/References/openstack-install-guide-apt-kilo.pdf
-Name1[$e]=Vagrant.pdf
-Name10[$e]=annualconvocation2015.pdf
-Name2[$e]=03_simmons_07-08.pdf
-Name3[$e]=353_sb_en_web.pdf
-Name4[$e]=w11728.pdf
-Name5[$e]=Flute.pdf
-Name6[$e]=Ansible Up and Running.pdf
-Name7[$e]=Goa Ticket.pdf
-Name8[$e]=L02-Study-Guide.pdf
-Name9[$e]=openstack-install-guide-apt-kilo.pdf
+File1[$e]=$HOME/Downloads/1511.07607v1.pdf
+File10[$e]=$HOME/Hogwarts/Tutorials & Manuals/Python/Python Tutorial.pdf
+File2[$e]=$HOME/Downloads/07-cephdayssf2015-paulevans-static-150318105509-conversion-gate01.pdf
+File3[$e]=$HOME/Downloads/03_simmons_07-08.pdf
+File4[$e]=$HOME/Downloads/201601190319214139629TRAI_letter_to_FB_dated_18_01_2016.pdf
+File5[$e]=$HOME/Downloads/SDD.pdf
+File6[$e]=$HOME/Hogwarts/Tutorials & Manuals/Python/Think Python.pdf
+File7[$e]=$HOME/Hogwarts/Tutorials & Manuals/Python/The Quick Python Book, Second Edition (2010).pdf
+File8[$e]=$HOME/Hogwarts/Tutorials & Manuals/Python/The Python Library Reference.pdf
+File9[$e]=$HOME/Hogwarts/Tutorials & Manuals/Python/PythonRE.pdf
+Name1[$e]=1511.07607v1.pdf
+Name10[$e]=Python Tutorial.pdf
+Name2[$e]=07-cephdayssf2015-paulevans-static-150318105509-conversion-gate01.pdf
+Name3[$e]=03_simmons_07-08.pdf
+Name4[$e]=201601190319214139629TRAI_letter_to_FB_dated_18_01_2016.pdf
+Name5[$e]=SDD.pdf
+Name6[$e]=Think Python.pdf
+Name7[$e]=The Quick Python Book, Second Edition (2010).pdf
+Name8[$e]=The Python Library Reference.pdf
+Name9[$e]=PythonRE.pdf

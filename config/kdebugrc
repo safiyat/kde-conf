@@ -46,6 +46,9 @@ InfoOutput=4
 [bluedevilmonolithic]
 InfoOutput=2
 
+[dragonplayer]
+InfoOutput=2
+
 [kaddressbookmigrator]
 InfoOutput=4
 
@@ -53,6 +56,9 @@ InfoOutput=4
 InfoOutput=2
 
 [kcmshell]
+InfoOutput=2
+
+[kdeconnect_kded]
 InfoOutput=2
 
 [kdecore (KConfigSkeleton)]

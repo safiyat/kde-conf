@@ -7,9 +7,34 @@ perVirtualDesktopViews=true
 
 [KFileDialog Settings]
 Height 768=450
-Recent Files[$e]=beach_huts.jpg,$HOME/Documents/beach_huts.jpg
+Recent Files[$e]=beach_huts.jpg,$HOME/soundnode.png
 Recent URLs[$e]=
 Width 1366=720
+
+[KPropertiesDialog]
+Height 768=374
+Width 1366=366
+
+[PlasmaViews][1]
+panelVisibility=0
+
+[PlasmaViews][1][Horizontal1366]
+offset=0
+
+[PlasmaViews][1][Sizes]
+lastsize=1366
+
+[PlasmaViews][1][Sizes][Horizontal1366]
+max=1366,35
+min=1366,35
+offset=0
+size=1366,35
+
+[PlasmaViews][1][Sizes][Horizontal640]
+max=640,35
+min=640,35
+offset=0
+size=640,35
 
 [PlasmaViews][10]
 panelVisibility=0
@@ -60,6 +85,7 @@ size=640,33
 performed=/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/01-rename-plasma-nm.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/01-kubuntu-10.04.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/02-kubuntu-menu-icon.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/04-add-presence.js,/usr/share/kde4/apps/plasma-desktop/updates/addShowActivitiesManagerPlasmoid.js,/usr/share/kde4/apps/plasma-desktop/updates/02-add-print-manager.js,/usr/share/kde4/apps/plasma-desktop/updates/set-hidden-single-vd-pager.js,/usr/share/kde4/apps/plasma-desktop/updates/systray-to-notifications-widget.js,/usr/share/kde4/apps/plasma-desktop/updates/50-renameKTpApplets.js
 
 [ViewIds]
+1=1
 10=3
 12=5
 13=6

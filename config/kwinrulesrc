@@ -2,17 +2,80 @@
 update_info=kubuntu-fix-kwin-default-size.upd:kubuntu-fix-kwin-default-size
 
 [1]
-Description=Application settings for virtualbox
+Description=Application settings for amarok
 clientmachine=linuxbox
 clientmachinematch=0
-size=986,740
-sizerule=2
+fullscreen=true
+fullscreenrule=3
 types=4294967295
-wmclass=qt-subapplication virtualbox
-wmclasscomplete=true
+wmclass=amarok
+wmclasscomplete=false
 wmclassmatch=1
 
 [2]
+Description=Application settings for Slack
+clientmachine=linuxbox
+clientmachinematch=0
+fullscreen=true
+fullscreenrule=3
+noborder=false
+noborderrule=1
+types=4294967295
+wmclass=slack
+wmclasscomplete=false
+wmclassmatch=1
+
+[3]
+Description=Application settings for Soundnode
+clientmachine=linuxbox
+clientmachinematch=0
+fullscreen=true
+fullscreenrule=3
+noborder=true
+noborderrule=2
+types=4294967295
+wmclass=
+wmclasscomplete=false
+wmclassmatch=1
+
+[4]
+Description=Application settings for plasma-windowed
+clientmachine=linuxbox
+clientmachinematch=0
+skiptaskbar=true
+skiptaskbarrule=2
+types=4294967295
+wmclass=plasma-windowed
+wmclasscomplete=false
+wmclassmatch=1
+
+[5]
+Description=Application settings for emacs
+clientmachine=linuxbox
+clientmachinematch=0
+fullscreen=true
+fullscreenrule=3
+noborder=true
+noborderrule=2
+types=4294967295
+wmclass=emacs-24_5 emacs
+wmclasscomplete=true
+wmclassmatch=1
+
+[6]
+Description=Application settings for plasma-windowed
+clientmachine=linuxbox
+clientmachinematch=0
+noborder=true
+noborderrule=2
+opacityactive=100
+opacityactiverule=1
+types=4294967295
+wmclass=plasma-windowed
+wmclasscomplete=false
+wmclassmatch=1
+
+[7]
 Description=(Default) Disable focus stealing prevention for XV
 fsplevel=0
 fsplevelrule=2
@@ -30,7 +93,7 @@ emoticonsTheme[$d]
 [General]
 BrowserApplication[$d]
 XftHintStyle[$d]
-count=2
+count=7
 desktopFont[$d]
 font[$d]
 menuFont[$d]

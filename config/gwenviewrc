@@ -15,31 +15,31 @@ Width 1366=720
 
 [MainWindow]
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1367
 
 [Recent Files]
-File1[$e]=trash:/0-11226563_105383936488023_6376501300747946844_n_2.jpg
-File10[$e]=$HOME/Downloads/Paris.jpg
-File2[$e]=trash:/0-lara-croft-costume-wallpaper-2.jpg
-File3[$e]=trash:/0-kelly-brook-riley-steele-boobs-bikini.jpg
-File4[$e]=trash:/0-Fearless-Nikki-nikki-bella-38287115-642-72212.jpg
-File5[$e]=trash:/0-doc9.png
-File6[$e]=$HOME/Downloads/kubuntu/cool-opensuse-kde-plasma-by-redsilverjon.jpg
-File7[$e]=$HOME/Screenshots/screen3.png
-File8[$e]=$HOME/Crush.png
-File9[$e]=$HOME/Downloads/Rail.jpg
-Name1[$e]=0-11226563_105383936488023_6376501300747946844_n_2.jpg
-Name10[$e]=Paris.jpg
-Name2[$e]=0-lara-croft-costume-wallpaper-2.jpg
-Name3[$e]=0-kelly-brook-riley-steele-boobs-bikini.jpg
-Name4[$e]=0-Fearless-Nikki-nikki-bella-38287115-642-72212.jpg
-Name5[$e]=0-doc9.png
-Name6[$e]=cool-opensuse-kde-plasma-by-redsilverjon.jpg
-Name7[$e]=screen3.png
-Name8[$e]=Crush.png
-Name9[$e]=Rail.jpg
+File1[$e]=$HOME/Templates/IMG_20160410_105044_01.jpg
+File10[$e]=$HOME/output1.png
+File2[$e]=$HOME/Templates/VID_20160103_154051.mp4
+File3[$e]=$HOME/Templates/VID_20160318_205334.mp4
+File4[$e]=$HOME/Templates/VID_20160331_000638.mp4
+File5[$e]=$HOME/Templates/VID_20160331_000323.mp4
+File6[$e]=$HOME/Templates/VID_20160331_000211.mp4
+File7[$e]=$HOME/Templates/VID_20160318_213705.mp4
+File8[$e]=$HOME/Templates/VID_20160318_210856.mp4
+File9[$e]=$HOME/python.png
+Name1[$e]=IMG_20160410_105044_01.jpg
+Name10[$e]=output1.png
+Name2[$e]=VID_20160103_154051.mp4
+Name3[$e]=VID_20160318_205334.mp4
+Name4[$e]=VID_20160331_000638.mp4
+Name5[$e]=VID_20160331_000323.mp4
+Name6[$e]=VID_20160331_000211.mp4
+Name7[$e]=VID_20160318_213705.mp4
+Name8[$e]=VID_20160318_210856.mp4
+Name9[$e]=python.png
 
 [SideBar-BrowseMode]
 IsVisible=true

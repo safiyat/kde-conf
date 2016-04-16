@@ -1,11 +1,32 @@
 [General]
-Recent Urls[$e]=file://$HOME/Videos/The Avengers (2012) [1080p]/The.Avengers.2012.1080p.BluRay.x264.YIFY.mp4,file://$HOME/Videos/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.DD5.1.AC3-ETRG/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.DD5.1.AC3-ETRG.mkv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Untitled Folder/nataley1.mpg,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/starlets-thesmiths.avi,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Sunny Leone/51ae5bf4078bc756985_h.flv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/Mia M-Oh Mia.mov,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Sasha Grey/Top of Sasha Grey's Sexy Scene 18+-4a7E_GFFAfo.webm,file://$HOME/Downloads/kickstarter-foobar1.webm,file://$HOME/Finding_Songs_in_C_Major_Breklee_Assignment.mp4
+Recent Urls[$e]=file://$HOME/Videos/The Avengers (2012) [1080p]/The.Avengers.2012.1080p.BluRay.x264.YIFY.mp4,file://$HOME/Videos/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.DD5.1.AC3-ETRG/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.DD5.1.AC3-ETRG.mkv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Untitled Folder/nataley1.mpg,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/starlets-thesmiths.avi,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Sunny Leone/51ae5bf4078bc756985_h.flv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/Mia M-Oh Mia.mov,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Sasha Grey/Top of Sasha Grey's Sexy Scene 18+-4a7E_GFFAfo.webm,file://$HOME/Downloads/kickstarter-foobar1.webm,file://$HOME/Finding_Songs_in_C_Major_Breklee_Assignment.mp4,file:///media/safiyat/Kubuntu/Outlandish - Aicha.mp4,file:///media/safiyat/My Passport/Fred n George Weasley/Videos/Movies/Unseen/English/Letters from Iowa Jima/Letters.From.Iwo.Jima.avi,file://$HOME/Videos/Talvar 2015 Hindi BluRay 720p x264 AAC - Hon3y.mkv,file://$HOME/BDUnuRV.webm,file://$HOME/Videos/Daredevil S01 Season 01 Complete 720p WEBRip x265 AAC E-Subs [GWC]/Marvel's Daredevil S01E01 WEBRip 720p x265 AAC E-Subs [GWC].mkv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/Caprice-Enchanting Orgasms.mov
 TimeFormat=1
 Volume=1
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAAocAAAG1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAJ+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
+Width 1366=1367
+
+[file:///home/safiyat/BDUnuRV.webm]
+Brightness=0
+Contrast=0
+Date=13/03/2016
+Hue=0
+IsVideo=true
+Preferred Size=1366,638
+Saturation=0
+
+[file:///home/safiyat/Downloads/.insta/Sonia_Baby_is_a_newbie_to_porn_xvideos.com_f83596c2a27cd28bb248c8a941d6d6a4.flv]
+Brightness=0
+Contrast=0
+Date=20/02/2016
+Hue=0
+IsVideo=true
+Position=1758
+Saturation=0
+Subtitle=0
 
 [file:///home/safiyat/Downloads/kickstarter-foobar1.webm]
 Brightness=0
@@ -46,6 +67,17 @@ Position=3655
 Preferred Size=910,437
 Saturation=0
 Subtitle=0
+
+[file:///home/safiyat/HDD/Albus Dumbledore/Documents/Info/.h/TUX/Caprice-Enchanting Orgasms.mov]
+AudioChannel=1
+Brightness=0
+Contrast=0
+Date=02/04/2016
+Hue=0
+IsVideo=true
+Position=1600
+Preferred Size=1366,638
+Saturation=0
 
 [file:///home/safiyat/HDD/Albus Dumbledore/Documents/Info/.h/TUX/Mia M-Oh Mia.mov]
 Brightness=0
@@ -88,6 +120,36 @@ Preferred Size=910,437
 Saturation=0
 Subtitle=0
 
+[file:///home/safiyat/Videos/Daredevil S01 Season 01 Complete 720p WEBRip x265 AAC E-Subs \x5bGWC\x5d/Marvel's Daredevil S01E01 WEBRip 720p x265 AAC E-Subs \x5bGWC\x5d.mkv]
+Brightness=0
+Contrast=0
+Date=24/03/2016
+Hue=0
+IsVideo=false
+Position=8133
+Preferred Size=100,30
+Saturation=0
+
+[file:///home/safiyat/Videos/Linkin Park/What I've Done.mpg]
+Brightness=0
+Contrast=0
+Date=01/03/2016
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///home/safiyat/Videos/Talvar 2015 Hindi BluRay 720p x264 AAC - Hon3y.mkv]
+AudioChannel=1
+Brightness=0
+Contrast=0
+Date=04/03/2016
+Hue=0
+IsVideo=true
+Position=3025
+Preferred Size=647,263
+Saturation=0
+
 [file:///home/safiyat/Videos/The Avengers (2012) \x5b1080p\x5d/The.Avengers.2012.1080p.BluRay.x264.YIFY.mp4]
 Brightness=0
 Contrast=0
@@ -96,6 +158,27 @@ Hue=0
 IsVideo=true
 Position=927
 Preferred Size=910,437
+Saturation=0
+Subtitle=0
+
+[file:///media/safiyat/Kubuntu/Outlandish - Aicha.mp4]
+Brightness=0
+Contrast=0
+Date=17/02/2016
+Hue=0
+IsVideo=true
+Position=1286
+Saturation=0
+Subtitle=0
+
+[file:///media/safiyat/My Passport/Fred n George Weasley/Videos/Movies/Unseen/English/Letters from Iowa Jima/Letters.From.Iwo.Jima.avi]
+Brightness=0
+Contrast=0
+Date=29/02/2016
+Hue=0
+IsVideo=true
+Position=966
+Preferred Size=647,263
 Saturation=0
 Subtitle=0
 

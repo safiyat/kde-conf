@@ -7,16 +7,21 @@ wheel:Vertical;NoModifier=switchdesktop
 CMake=
 MobilePartner=
 PTBatcherGUI=
+Soundnode=
 UninstallMobilePartner=
 assistant-qt4=
+atom=
 bpython=
 brasero=
 calibrate_lens_gui=
 cheese=
 chrome-hmjkmjkepdijhoojdojkdfohbdgmmhki-Default=
+chromium-browser=
+credentials-preferences=
 debian-uxterm=
 debian-xterm=
 designer-qt4=
+devhelp=
 display.im6=
 eclipse=2015-08-26
 emacs=
@@ -27,12 +32,14 @@ firefox=
 foobar2000=
 gentoo=
 gimp=
+glade=
 gnugo=
 google-chrome=
 hplip=
 htop=
 hugin=
 hydrogen=
+ibus-setup=
 im-config=
 inkscape=
 kde4-Help=
@@ -55,6 +62,7 @@ kde4-importwizard=
 kde4-k3b=
 kde4-kaddressbook=
 kde4-kajongg=
+kde4-kalarm=
 kde4-kapman=
 kde4-kate=
 kde4-katomic=
@@ -63,6 +71,7 @@ kde4-kblocks=
 kde4-kbounce=
 kde4-kbreakout=
 kde4-kcalc=
+kde4-kdenlive=
 kde4-kdesnake=
 kde4-kdiamond=
 kde4-kfind=
@@ -123,6 +132,7 @@ kde4-quassel=
 kde4-scangui=
 kde4-sieveeditor=
 kde4-skanlite=
+kde4-soundkonverter=
 kde4-systemsettings=
 libreoffice-base=
 libreoffice-calc=
@@ -138,6 +148,7 @@ opera-browser=
 picard=
 qtcreator=
 rhythmbox=2015-08-26
+slack=
 solfege=
 sublime-text-2=
 terminator=
@@ -147,6 +158,7 @@ usb-creator-kde=
 vinagre=
 virtualbox=
 vlc=
+webbrowser-app=
 wine-Programs-Evernote-Evernote=
 wine-Programs-foobar2000=
 wine-browsedrive=
@@ -157,12 +169,23 @@ winetricks=
 xsane=
 
 [AppletGlobals][plasma_applet_simplelauncher]
-bpython=2015-08-26
+PTBatcherGUI=2016-03-16
+Soundnode=2016-03-16
+atom=2016-03-16
+bpython=
+calibrate_lens_gui=2016-03-16
 chrome-hmjkmjkepdijhoojdojkdfohbdgmmhki-Default=2015-08-26
+devhelp=2016-03-16
+display.im6=2016-03-16
 eclipse=2015-08-26
+emacs=2016-03-16
 emacs24=2015-08-26
 firefox=
+gimp=2016-03-16
+glade=2016-03-16
 google-chrome=2015-08-26
+hugin=2016-03-16
+hydrogen=2016-03-16
 im-config=
 kde4-Help=
 kde4-KMail2=
@@ -171,14 +194,18 @@ kde4-akregator=
 kde4-amarok=
 kde4-ark=
 kde4-bluedevil-monolithic=
+kde4-dngconverter=2016-03-16
 kde4-dolphin=
 kde4-dragonplayer=
+kde4-expoblending=2016-03-16
 kde4-gwenview=
 kde4-importwizard=
 kde4-k3b=
 kde4-kaddressbook=
+kde4-kalarm=2016-03-16
 kde4-kate=
 kde4-kcalc=
+kde4-kdenlive=2016-03-16
 kde4-kinfocenter=
 kde4-klipper=
 kde4-kmag=
@@ -199,10 +226,14 @@ kde4-muon-discover=
 kde4-muon-updater=
 kde4-nepomukcleaner=
 kde4-okular=
+kde4-panoramagui=2016-03-16
 kde4-partitionmanager=
+kde4-photolayoutseditor=2016-03-16
 kde4-quassel=
+kde4-scangui=2016-03-16
 kde4-sieveeditor=
 kde4-skanlite=
+kde4-soundkonverter=2016-03-16
 kde4-systemsettings=
 libreoffice-base=
 libreoffice-calc=
@@ -211,15 +242,19 @@ libreoffice-impress=
 libreoffice-math=
 libreoffice-startcenter=
 libreoffice-writer=
+openarena=2016-03-16
 openjdk-7-policytool=
+qtcreator=2016-03-16
 rhythmbox=2015-08-26
+slack=2016-03-16
 sublime-text-2=2015-08-26
-terminator=2015-08-26
+terminator=
 uget-gtk=2015-08-26
-unetbootin=2015-08-26
+unetbootin=
 usb-creator-kde=
 vinagre=2015-08-27
-vlc=2015-08-26
+virtualbox=2016-03-16
+vlc=
 wine-Programs-Evernote-Evernote=2015-08-26
 wine-browsedrive=2015-08-26
 wine-notepad=2015-08-26
@@ -227,13 +262,184 @@ wine-uninstaller=2015-08-26
 wine-winecfg=2015-08-26
 winetricks=2015-08-26
 
+[Containments][1]
+activity=
+activityId=
+desktop=-1
+formfactor=2
+geometry=0,-113,1366,35
+immutability=1
+lastDesktop=-1
+lastScreen=0
+location=4
+plugin=panel
+screen=0
+zvalue=0
+
+[Containments][1][ActionPlugins]
+RightButton;NoModifier=contextmenu
+
+[Containments][1][Applets][2]
+geometry=0,3,32,32
+immutability=2
+plugin=launcher
+zvalue=0
+
+[Containments][1][Applets][2][LayoutInformation]
+Order=0
+
+[Containments][1][Applets][3]
+geometry=36,3,32,32
+immutability=2
+plugin=org.kde.showActivityManager
+zvalue=0
+
+[Containments][1][Applets][3][LayoutInformation]
+Order=1
+
+[Containments][1][Applets][4]
+geometry=72,3,940,32
+immutability=1
+plugin=tasks
+zvalue=20
+
+[Containments][1][Applets][4][Configuration]
+forceRows=false
+groupWhenFull=true
+groupingStrategy=2
+highlightWindows=false
+maxRows=2
+showOnlyCurrentActivity=true
+showOnlyCurrentDesktop=true
+showOnlyCurrentScreen=false
+showOnlyMinimized=false
+showToolTip=true
+sortingStrategy=0
+
+[Containments][1][Applets][4][Configuration][Launchers]
+Items=
+
+[Containments][1][Applets][4][LayoutInformation]
+Order=2
+
+[Containments][1][Applets][5]
+geometry=1016,3,32,32
+immutability=1
+plugin=showdesktop
+zvalue=0
+
+[Containments][1][Applets][5][LayoutInformation]
+Order=3
+
+[Containments][1][Applets][6]
+geometry=1052,3,190,32
+immutability=1
+plugin=systemtray
+zvalue=0
+
+[Containments][1][Applets][6][Configuration]
+DefaultAppletsAdded=true
+ShowApplicationStatus=true
+ShowCommunications=true
+ShowHardware=true
+ShowSystemServices=true
+ShowUnknown=true
+alwaysShown=
+hidden=
+
+[Containments][1][Applets][6][Configuration][Applets][51]
+geometry=0,0,24,24
+immutability=1
+plugin=org.kde.networkmanagement
+zvalue=0
+
+[Containments][1][Applets][6][Configuration][Applets][52]
+geometry=0,0,24,24
+immutability=1
+plugin=notifier
+zvalue=0
+
+[Containments][1][Applets][6][Configuration][Applets][52][Configuration][General]
+allDevices=true
+removableDevices=false
+
+[Containments][1][Applets][6][Configuration][Applets][52][PopupApplet]
+DialogHeight=344
+DialogWidth=298
+
+[Containments][1][Applets][6][Configuration][Applets][52][Shortcuts]
+global=Ctrl+Alt+D
+
+[Containments][1][Applets][6][Configuration][Applets][53]
+geometry=0,0,24,24
+immutability=1
+plugin=org.kde.notifications
+zvalue=0
+
+[Containments][1][Applets][6][Configuration][Applets][53][PopupApplet]
+DialogHeight=94
+DialogWidth=408
+
+[Containments][1][Applets][6][Configuration][Applets][53][Shortcuts]
+global=
+
+[Containments][1][Applets][6][Configuration][Applets][54]
+geometry=0,0,24,24
+immutability=1
+plugin=battery
+zvalue=0
+
+[Containments][1][Applets][6][Configuration][Applets][54][PopupApplet]
+DialogHeight=164
+DialogWidth=296
+
+[Containments][1][Applets][6][LayoutInformation]
+Order=4
+
+[Containments][1][Applets][6][Shortcuts]
+global=
+
+[Containments][1][Applets][7]
+geometry=1246,3,96,32
+immutability=1
+plugin=digital-clock
+zvalue=0
+
+[Containments][1][Applets][7][Configuration]
+announceInterval=0
+calendarType=-1
+dateStyle=0
+defaultTimezone=Local
+displayEvents=true
+displayHolidays=true
+holidaysRegions=in_en-gb
+holidaysRegionsDaysOff=in_en-gb
+plainClockDrawShadow=true
+plainClockFont=Ubuntu,32,-1,5,50,0,0,0,0,0
+showSeconds=true
+showTimezone=false
+timeZones=UTC
+useCustomColor=false
+useCustomShadowColor=false
+
+[Containments][1][Applets][7][LayoutInformation]
+Order=5
+
+[Containments][1][Applets][7][PopupApplet]
+DialogHeight=208
+DialogWidth=508
+
+[Containments][1][Configuration]
+maximumSize=1366,35
+minimumSize=1366,35
+
 [Containments][10]
 ActionPluginsSource=Global
 activity=Desktop
 activityId=111d3bfe-acdf-4ce4-ad49-9292f487c15a
 desktop=0
 formfactor=0
-geometry=1372,0,1366,768
+geometry=0,0,1366,768
 immutability=1
 lastDesktop=0
 lastScreen=0
@@ -254,6 +460,10 @@ zvalue=9
 autoSaveHtml=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">\n<html><head><meta name="qrichtext" content="1" /><style type="text/css">\np, li { white-space: pre-wrap; }\n</style></head><body style=" font-family:'Ubuntu'; font-size:9pt; font-weight:400; font-style:normal;">\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>
 scrollValue=0
 
+[Containments][10][ToolBox]
+corner=1
+offset=0
+
 [Containments][10][Wallpaper][image]
 slideTimer=10
 slidepaths=
@@ -272,7 +482,7 @@ activity=Desktop
 activityId=111d3bfe-acdf-4ce4-ad49-9292f487c15a
 desktop=1
 formfactor=0
-geometry=0,924,1366,768
+geometry=1372,0,1366,768
 immutability=1
 lastDesktop=1
 lastScreen=0
@@ -290,18 +500,28 @@ plugin=plasma_applet_notes
 zvalue=0
 
 [Containments][12][Applets][49][Configuration]
-autoSaveHtml=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">\n<html><head><meta name="qrichtext" content="1" /><style type="text/css">\np, li { white-space: pre-wrap; }\n</style></head><body style=" font-family:'Ubuntu'; font-size:9pt; font-weight:400; font-style:normal;">\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">https://www.youtube.com/playlist?list=PL66C04B27B1002E7B</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Start with Lesson 8</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">https://www.youtube.com/playlist?list=PLED2AF773755AC0C2</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">----------------------------------------</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Print the staff</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">----------------------------------------</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">https://www.coursera.org/learn/musicianship/home/week/3</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">----------------------------------------</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">800 lps at idle</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">---------------------------------------</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p></body></html>
-scrollValue=33
+autoSaveHtml=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">\n<html><head><meta name="qrichtext" content="1" /><style type="text/css">\np, li { white-space: pre-wrap; }\n</style></head><body style=" font-family:'Ubuntu'; font-size:9pt; font-weight:400; font-style:normal;">\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">https://www.youtube.com/playlist?list=PL66C04B27B1002E7B</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Start with Lesson 8</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">https://www.youtube.com/playlist?list=PLED2AF773755AC0C2</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">http://www.airtel.in/applications/airteldongle.jsp?et=1457634802960</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">SCRD12</span></p></body></html>
+scrollValue=0
 
-[Containments][12][Applets][50]
-geometry=845,33,308,231
+[Containments][12][Applets][55]
+geometry=1102,7,256,256
 immutability=2
 plugin=plasma_applet_notes
-zvalue=12
+zvalue=15
 
-[Containments][12][Applets][50][Configuration]
-autoSaveHtml=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">\n<html><head><meta name="qrichtext" content="1" /><style type="text/css">\np, li { white-space: pre-wrap; }\n</style></head><body style=" font-family:'Ubuntu'; font-size:9pt; font-weight:400; font-style:normal;">\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">https://soundcloud.com/you/collection</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">http://ziahamza.github.io/webui-aria2/#</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">http://gitlab.snapdeal.com/cloudplatform/cloudproject</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">A technology oriented professional, I like to challenge myself with difficult and interesting problems that require innovative and smart solutions. I am </span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">My </span></p></body></html>
-scrollValue=10
+[Containments][12][Applets][55][Configuration]
+autoSaveHtml=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">\n<html><head><meta name="qrichtext" content="1" /><style type="text/css">\np, li { white-space: pre-wrap; }\n</style></head><body style=" font-family:'Ubuntu'; font-size:9pt; font-weight:400; font-style:normal;">\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">process namespace</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Graphite: 10.42.206.252</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">10.41.3.76</span></p></body></html>
+scrollValue=0
+
+[Containments][12][Applets][56]
+geometry=20,309,256,256
+immutability=2
+plugin=plasma_applet_notes
+zvalue=0
+
+[Containments][12][Applets][56][Configuration]
+autoSaveHtml=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">\n<html><head><meta name="qrichtext" content="1" /><style type="text/css">\np, li { white-space: pre-wrap; }\n</style></head><body style=" font-family:'Ubuntu'; font-size:9pt; font-weight:400; font-style:normal;">\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Data flow= Map Reduce</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">devstar5183@gcplab.me</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Yqib3XUgO7</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">http://www.documentarytube.com/videos/bobby-fischer-against-the-world</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">elasticsearch/client/__init__.py +811</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">ssl ansible</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">timeout</span></p></body></html>
+scrollValue=4
 
 [Containments][12][ToolBox]
 corner=1
@@ -321,7 +541,7 @@ activity=Desktop
 activityId=111d3bfe-acdf-4ce4-ad49-9292f487c15a
 desktop=2
 formfactor=0
-geometry=1372,924,1366,768
+geometry=0,924,1366,768
 immutability=1
 lastDesktop=2
 lastScreen=0
@@ -336,7 +556,7 @@ zvalue=0
 slideTimer=10
 slidepaths=
 userswallpapers=
-wallpaper=/usr/share/wallpapers/Blue_Curl/
+wallpaper=/usr/share/wallpapers/Elarun
 wallpapercolor=0,0,0
 wallpaperposition=0
 
@@ -350,7 +570,7 @@ activity=Desktop
 activityId=111d3bfe-acdf-4ce4-ad49-9292f487c15a
 desktop=3
 formfactor=0
-geometry=0,1848,1366,768
+geometry=1372,924,1366,768
 immutability=1
 lastDesktop=3
 lastScreen=0
@@ -375,7 +595,7 @@ scrollValue=0
 slideTimer=10
 slidepaths=
 userswallpapers=
-wallpaper=/usr/share/wallpapers/Horos/
+wallpaper=/usr/share/wallpapers/Elarun
 wallpapercolor=0,0,0
 wallpaperposition=0
 
@@ -385,7 +605,7 @@ activity=Desktop
 activityId=111d3bfe-acdf-4ce4-ad49-9292f487c15a
 desktop=0
 formfactor=0
-geometry=1372,1848,1920,1080
+geometry=0,1848,1920,1080
 immutability=1
 lastDesktop=0
 lastScreen=1
@@ -410,7 +630,7 @@ activity=Desktop
 activityId=111d3bfe-acdf-4ce4-ad49-9292f487c15a
 desktop=1
 formfactor=0
-geometry=0,3084,1920,1080
+geometry=1926,1848,1920,1080
 immutability=1
 lastDesktop=1
 lastScreen=1
@@ -435,7 +655,7 @@ activity=Desktop
 activityId=111d3bfe-acdf-4ce4-ad49-9292f487c15a
 desktop=2
 formfactor=0
-geometry=1926,3084,1920,1080
+geometry=0,3084,1920,1080
 immutability=1
 lastDesktop=2
 lastScreen=1
@@ -460,7 +680,7 @@ activity=Desktop
 activityId=111d3bfe-acdf-4ce4-ad49-9292f487c15a
 desktop=3
 formfactor=0
-geometry=0,4320,1920,1080
+geometry=1926,3084,1920,1080
 immutability=1
 lastDesktop=3
 lastScreen=1
@@ -509,8 +729,8 @@ Order=0
 global=Alt+F1
 
 [Containments][38][Applets][42]
-geometry=35,2,928,31
-immutability=2
+geometry=35,2,1044,31
+immutability=1
 plugin=tasks
 zvalue=0
 
@@ -534,8 +754,8 @@ Items=file:///usr/share/applications/terminator.desktop?wmClass=Terminator
 Order=1
 
 [Containments][38][Applets][43]
-geometry=967,2,302,31
-immutability=2
+geometry=1083,2,162,31
+immutability=1
 plugin=systemtray
 zvalue=0
 
@@ -555,19 +775,6 @@ DialogWidth=308
 [Containments][38][Applets][43][Configuration][Applets][45][Shortcuts]
 global=Ctrl+Alt+W
 
-[Containments][38][Applets][43][Configuration][Applets][46]
-geometry=0,0,24,24
-immutability=1
-plugin=notifier
-zvalue=0
-
-[Containments][38][Applets][43][Configuration][Applets][46][PopupApplet]
-DialogHeight=348
-DialogWidth=302
-
-[Containments][38][Applets][43][Configuration][Applets][46][Shortcuts]
-global=Ctrl+Alt+D
-
 [Containments][38][Applets][43][Configuration][Applets][47]
 geometry=0,0,24,24
 immutability=1
@@ -579,7 +786,7 @@ CustomPosition=860,801
 
 [Containments][38][Applets][43][Configuration][Applets][47][PopupApplet]
 DialogHeight=94
-DialogWidth=368
+DialogWidth=408
 
 [Containments][38][Applets][43][Configuration][Applets][47][Shortcuts]
 global=Alt+N
@@ -591,7 +798,7 @@ plugin=battery
 zvalue=0
 
 [Containments][38][Applets][43][Configuration][Applets][48][PopupApplet]
-DialogHeight=160
+DialogHeight=164
 DialogWidth=296
 
 [Containments][38][Applets][43][Configuration][Applets][48][Shortcuts]
@@ -604,8 +811,8 @@ SystemTray-Klipper-43=Ctrl+Alt+V
 Order=2
 
 [Containments][38][Applets][44]
-geometry=1273,2,93,31
-immutability=2
+geometry=1249,2,93,31
+immutability=1
 plugin=digital-clock
 zvalue=0
 
@@ -633,30 +840,5 @@ Order=3
 maximumSize=1366,33
 minimumSize=1366,33
 
-[Containments][8]
-ActionPluginsSource=Global
-activity=Desktop
-activityId=111d3bfe-acdf-4ce4-ad49-9292f487c15a
-desktop=-1
-formfactor=0
-geometry=0,0,1366,768
-immutability=1
-lastDesktop=-1
-lastScreen=0
-location=0
-plugin=desktop
-screen=0
-wallpaperplugin=image
-wallpaperpluginmode=SingleImage
-zvalue=0
-
-[Containments][8][Wallpaper][image]
-slideTimer=10
-slidepaths=
-userswallpapers=
-wallpaper=/usr/share/wallpapers/Elarun
-wallpapercolor=0,0,0
-wallpaperposition=0
-
 [General]
-immutability=2
+immutability=1

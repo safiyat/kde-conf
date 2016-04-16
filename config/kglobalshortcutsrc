@@ -33,11 +33,20 @@ toggleMainWindow=Ctrl+Alt+A,none,Toggle Main Window
 _k_friendly_name=KDE Activity Manager
 switch-to-activity-111d3bfe-acdf-4ce4-ad49-9292f487c15a=none,none,Switch to activity "Desktop"
 
+[kalarm]
+_k_friendly_name=KAlarm
+newAudio=none,none,New Audio Alarm
+newCommand=none,none,New Command Alarm
+newDisplay=none,none,New Display Alarm
+newEmail=none,none,New Email Alarm
+spread=none,none,Spread Windows
+stopAudio=none,none,Stop Play
+
 [kcm_touchpad]
 Disable Touchpad=none,none,Disable Touchpad
 Enable Touchpad=none,none,Enable Touchpad
 Toggle Touchpad=none,none,Toggle Touchpad
-_k_friendly_name=kcm_touchpad
+_k_friendly_name=Touchpad KCM
 
 [kded]
 Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Decrease Keyboard Brightness
@@ -59,14 +68,13 @@ _k_friendly_name=khotkeys
 {6aa60084-fbd5-4c6c-8be4-40a15853db85}=Ctrl+Alt+H,none,Launch dolphin
 {6c8fce10-e60f-46ba-90c9-d4a4f53ff98d}=Ctrl+Alt+E,none,Launch Emacs
 {75ea36de-5523-4264-8d87-6e43bd08246f}=,none,Launch Chrome
-{8572221f-d234-414e-9eca-27ed7b572873}=Ctrl+Alt+K,none,New Action
 {8776c316-aba2-4f15-b2ef-d2052f9f0e29}=Print,none,PrintScreen
 {9ef8f882-3735-483d-ba45-394088a419ff}=Ctrl+Alt+R,none,Launch Amarok
 {a607318b-009c-43c1-b02c-8661b1197d35}=Ctrl+Alt+U,none,Launch Uget
 {ca8c1c41-d1a9-4e35-81f2-1f4804464692}=none,none,PrintScreen
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=Search,none,Search
 {d6875212-1bab-4eef-9ecf-0db1ce8adc0c}=none,none,Search
-{f7d1c387-ea9d-4624-9799-062428d06084}=Ctrl+Alt+S,none,Launch Sublime Text 2
+{f7d1c387-ea9d-4624-9799-062428d06084}=,none,Launch Sublime Text 2
 
 [klipper]
 _k_friendly_name=Klipper
@@ -86,7 +94,7 @@ increase_volume=Volume Up,Volume Up,Increase Volume
 mute=Volume Mute,Volume Mute,Mute
 
 [knotes]
-_k_friendly_name=KNotes
+_k_friendly_name=knotes
 hide_all_notes=Alt+Shift+H,Alt+Shift+H,Hide All Notes
 new_note=Alt+Shift+N,Alt+Shift+N,New Note
 new_note_clipboard=Alt+Shift+C,Alt+Shift+C,New Note From Clipboard
@@ -287,9 +295,10 @@ SystemTray-Klipper-6=,Ctrl+Alt+V,
 _k_friendly_name=Plasma Desktop Shell
 activate widget 39=Alt+F1,Alt+F1,Activate Application Launcher Widget
 activate widget 45=Ctrl+Alt+W,Ctrl+Alt+W,Activate Network Management Widget
-activate widget 46=Ctrl+Alt+D,Ctrl+Alt+D,Activate Device Notifier Widget
 activate widget 47=Alt+N,Alt+N,Activate Notifications Widget
 activate widget 48=Ctrl+Alt+B,Ctrl+Alt+B,Activate Battery Monitor Widget
+activate widget 52=Ctrl+Alt+D,Ctrl+Alt+D,Activate Device Notifier Widget
+activate widget 53=,Alt+N,Activate Notifications Widget
 manage activities=Meta+Q,Meta+Q,Activities...
 
 [wacomtablet]

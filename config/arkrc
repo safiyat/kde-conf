@@ -10,13 +10,13 @@ AutomaticDetectionLanguage=1
 [KFileDialog Settings]
 Autoplay sounds=true
 Height 768=450
-Recent Files[$e]=$HOME/Downloads/SAP Business Planning and Consolidation __10.tar.xz,$HOME/Downloads/SAP Business Planning and Consolidation __10.tar.xz
-Recent URLs[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-4/Sem VII/Embedded Systems/,$HOME/Downloads/
+Recent Files[$e]=$HOME/Snapdeal/GitLab/cloudproject/scripts/numbers.tar.xz
+Recent URLs[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-4/Sem VII/Embedded Systems/,$HOME/Downloads/,$HOME/Snapdeal/GitLab/cloudproject/scripts/,$HOME/Snapdeal/GitLab/cloudproject/
 Width 1366=720
 
 [MainWindow]
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAJ+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1367
 splitterSizes=909,454
@@ -28,15 +28,17 @@ File3[$e]=$HOME/Snapdeal/Setup Files/kibana-4.1.2-linux-x64.tar.gz
 File4[$e]=$HOME/Downloads/suteki da ne ust.zip
 File5[$e]=$HOME/Hogwarts/Github/virtual-storage-manager/source/vsm/dist/vsm-2013.1.1-py2.7.egg
 File6[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-4/Sem VIII/ppr_shr.zip
+File7[$e]=$HOME/Downloads/Scopes Videos.zip
 Name1[$e]=logs.tar.xz
 Name2[$e]=coreutils-8.24.tar.xz
 Name3[$e]=kibana-4.1.2-linux-x64.tar.gz
 Name4[$e]=suteki da ne ust.zip
 Name5[$e]=vsm-2013.1.1-py2.7.egg
 Name6[$e]=ppr_shr.zip
+Name7[$e]=Scopes Videos.zip
 
 [Viewer]
-Height 768=715
+Height 768=713
 Width 1366=1366
 
 [file:///tmp/kde-safiyat/arkBiRjde//11242098_1658601041028105_946814842_n.mp4]
@@ -78,4 +80,15 @@ Date=02/10/2015
 Hue=0
 IsVideo=false
 Preferred Size=538,249
+Saturation=0
+
+[file:///tmp/kde-safiyat/arkVxUwcY//11 - In-Memory Data Stores.mp4]
+AudioChannel=1
+Brightness=0
+Contrast=0
+Date=31/03/2016
+Hue=0
+IsVideo=true
+Position=6100
+Preferred Size=1344,596
 Saturation=0

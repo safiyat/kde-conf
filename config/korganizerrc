@@ -9,6 +9,9 @@ Expansion=
 HorizontalScroll=0
 VerticalScroll=0
 
+[Default Datetimes]
+Reminder Audio File[$e]=/usr/share/sounds/KDE-Sys-Warning.ogg
+
 [General]
 CalendarFilters=
 Current Filter=
@@ -24,13 +27,16 @@ Expansion=
 HorizontalScroll=0
 VerticalScroll=0
 
+[IncidenceDialog]
+Size=500,500
+
 [KOrganizer Geometry]
 Separator1=545,818
-Separator2=166,0,235,235
+Separator2=165,0,235,234
 
 [MainWindow]
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKCAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAQAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAJABrAG8AcgBnAGEAbgBpAHoAZQByAF8AdABvAG8AbABiAGEAcgEAAAKI/////wAAAAAAAAAAAAAAIABzAGMAaABlAGQAdQBsAGUAXwB0AG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAAAAAAcAGYAaQBsAHQAZQByAF8AdABvAG8AbABiAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAQAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAJABrAG8AcgBnAGEAbgBpAHoAZQByAF8AdABvAG8AbABiAGEAcgEAAAJ4/////wAAAAAAAAAAAAAAIABzAGMAaABlAGQAdQBsAGUAXwB0AG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAAAAAAcAGYAaQBsAHQAZQByAF8AdABvAG8AbABiAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1367
 
@@ -43,7 +49,7 @@ TodoViewVisible=false
 [Sidebar Todo View]
 ColumnOrder=0,1,2,3,4,5,6,7,8
 ColumnVisibility=true,false,false,false,true,true,false,false,false
-ColumnWidths=165,0,0,0,96,88,0,0,0
+ColumnWidths=351,0,0,0,93,87,0,0,0
 SortAscending=1
 SortColumn=0
 
@@ -61,5 +67,5 @@ Selection=
 VerticalScroll=0
 
 [Views]
-Separator AgendaView=107,513
+Separator AgendaView=107,511
 ShownDatesCount=7
