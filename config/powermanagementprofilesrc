@@ -24,10 +24,10 @@ icon=battery-060
 value=20
 
 [Battery][DPMSControl]
-idleTime=60
+idleTime=300
 
 [Battery][DimDisplay]
-idleTime=60000
+idleTime=300000
 
 [Battery][HandleButtonEvents]
 lidAction=0

@@ -69,6 +69,12 @@ min=1920,33
 offset=0
 size=1920,33
 
+[PlasmaViews][10][Sizes][Horizontal2806]
+max=2806,33
+min=2806,33
+offset=0
+size=2806,33
+
 [PlasmaViews][10][Sizes][Horizontal3286]
 max=3286,33
 min=3286,33
@@ -109,7 +115,7 @@ __file=
 
 [setBrightness]
 __file=
-brightness=10
+brightness=20
 
 [stop]
 __file=

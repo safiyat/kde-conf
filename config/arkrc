@@ -23,6 +23,7 @@ splitterSizes=909,454
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/logs.tar.xz
+File10[$e]=$HOME/Snapdeal/GitLab/rgwcmd/dist/rgwcmd-0.2.tar.gz
 File2[$e]=$HOME/Downloads/coreutils-8.24.tar.xz
 File3[$e]=$HOME/Snapdeal/Setup Files/kibana-4.1.2-linux-x64.tar.gz
 File4[$e]=$HOME/Downloads/suteki da ne ust.zip
@@ -30,6 +31,7 @@ File5[$e]=$HOME/Hogwarts/Github/virtual-storage-manager/source/vsm/dist/vsm-2013
 File6[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-4/Sem VIII/ppr_shr.zip
 File7[$e]=$HOME/Downloads/Scopes Videos.zip
 Name1[$e]=logs.tar.xz
+Name10[$e]=rgwcmd-0.2.tar.gz
 Name2[$e]=coreutils-8.24.tar.xz
 Name3[$e]=kibana-4.1.2-linux-x64.tar.gz
 Name4[$e]=suteki da ne ust.zip

@@ -51,7 +51,7 @@ EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-removable-media-usb
-LastNameSeen=XIAOMI
+LastNameSeen=GARMIN
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb1]

@@ -2,7 +2,7 @@
 delay=0
 filename[$e]=file://$HOME/porn3.png
 includeDecorations=true
-includePointer=false
+includePointer=true
 mode=2
 
 [KFileDialog Settings]
