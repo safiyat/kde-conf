@@ -58,9 +58,9 @@ LastSeenMounted=true
 EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
-Icon=drive-removable-media-usb
-LastNameSeen=3.8 GiB Removable Media
-LastSeenMounted=false
+Icon=drive-removable-media-usb-pendrive
+LastNameSeen=UBUNTU 12_0
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc1]
 EverMounted=true
@@ -107,7 +107,7 @@ EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=media-optical-data
-LastNameSeen=airtel
+LastNameSeen=OnePlus Drivers
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sr0_1]

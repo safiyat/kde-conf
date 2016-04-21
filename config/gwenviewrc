@@ -20,26 +20,26 @@ ToolBarsMovable=Disabled
 Width 1366=1367
 
 [Recent Files]
-File1[$e]=$HOME/Templates/IMG_20160410_105044_01.jpg
-File10[$e]=$HOME/output1.png
-File2[$e]=$HOME/Templates/VID_20160103_154051.mp4
-File3[$e]=$HOME/Templates/VID_20160318_205334.mp4
-File4[$e]=$HOME/Templates/VID_20160331_000638.mp4
-File5[$e]=$HOME/Templates/VID_20160331_000323.mp4
-File6[$e]=$HOME/Templates/VID_20160331_000211.mp4
-File7[$e]=$HOME/Templates/VID_20160318_213705.mp4
-File8[$e]=$HOME/Templates/VID_20160318_210856.mp4
-File9[$e]=$HOME/python.png
-Name1[$e]=IMG_20160410_105044_01.jpg
-Name10[$e]=output1.png
-Name2[$e]=VID_20160103_154051.mp4
-Name3[$e]=VID_20160318_205334.mp4
-Name4[$e]=VID_20160331_000638.mp4
-Name5[$e]=VID_20160331_000323.mp4
-Name6[$e]=VID_20160331_000211.mp4
-Name7[$e]=VID_20160318_213705.mp4
-Name8[$e]=VID_20160318_210856.mp4
-Name9[$e]=python.png
+File1[$e]=$HOME/Downloads/.insta/Tanzeem/272283_184738038247454_100001337781694_467844_5297718_o.jpg
+File10[$e]=$HOME/Downloads/.insta/Tanzeem/pp.jpg
+File2[$e]=$HOME/Downloads/.insta/Tanzeem/316404_253954897992434_2069312770_n.jpg
+File3[$e]=$HOME/Downloads/.insta/Tanzeem/333278_256225741098683_1898654211_o.jpg
+File4[$e]=$HOME/Downloads/.insta/Tanzeem/1544485_703600139694572_1566905521590428177_n.jpg
+File5[$e]=$HOME/Downloads/.insta/Tanzeem/10817787_387645654725015_586448044_n.jpg
+File6[$e]=$HOME/Downloads/.insta/Tanzeem/10844288_1539356552974505_543274165_n.jpg
+File7[$e]=$HOME/Downloads/.insta/Tanzeem/10919145_1571722709707137_278327572_n.jpg
+File8[$e]=$HOME/Downloads/.insta/Tanzeem/919999030710.jpg
+File9[$e]=$HOME/Downloads/.insta/Tanzeem/pp.jpeg
+Name1[$e]=272283_184738038247454_100001337781694_467844_5297718_o.jpg
+Name10[$e]=pp.jpg
+Name2[$e]=316404_253954897992434_2069312770_n.jpg
+Name3[$e]=333278_256225741098683_1898654211_o.jpg
+Name4[$e]=1544485_703600139694572_1566905521590428177_n.jpg
+Name5[$e]=10817787_387645654725015_586448044_n.jpg
+Name6[$e]=10844288_1539356552974505_543274165_n.jpg
+Name7[$e]=10919145_1571722709707137_278327572_n.jpg
+Name8[$e]=919999030710.jpg
+Name9[$e]=pp.jpeg
 
 [SideBar-BrowseMode]
 IsVisible=true

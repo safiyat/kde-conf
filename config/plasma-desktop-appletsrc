@@ -300,7 +300,7 @@ zvalue=0
 Order=1
 
 [Containments][1][Applets][4]
-geometry=72,3,940,32
+geometry=72,3,912,32
 immutability=1
 plugin=tasks
 zvalue=20
@@ -325,7 +325,7 @@ Items=
 Order=2
 
 [Containments][1][Applets][5]
-geometry=1016,3,32,32
+geometry=988,3,32,32
 immutability=1
 plugin=showdesktop
 zvalue=0
@@ -334,7 +334,7 @@ zvalue=0
 Order=3
 
 [Containments][1][Applets][6]
-geometry=1052,3,190,32
+geometry=1024,3,218,32
 immutability=1
 plugin=systemtray
 zvalue=0
@@ -380,10 +380,10 @@ zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][53][PopupApplet]
 DialogHeight=94
-DialogWidth=408
+DialogWidth=412
 
 [Containments][1][Applets][6][Configuration][Applets][53][Shortcuts]
-global=
+global=Alt+N
 
 [Containments][1][Applets][6][Configuration][Applets][54]
 geometry=0,0,24,24
@@ -522,8 +522,8 @@ plugin=plasma_applet_notes
 zvalue=0
 
 [Containments][12][Applets][56][Configuration]
-autoSaveHtml=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">\n<html><head><meta name="qrichtext" content="1" /><style type="text/css">\np, li { white-space: pre-wrap; }\n</style></head><body style=" font-family:'Ubuntu'; font-size:9pt; font-weight:400; font-style:normal;">\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Data flow= Map Reduce</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">devstar5183@gcplab.me</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Yqib3XUgO7</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">http://www.documentarytube.com/videos/bobby-fischer-against-the-world</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">elasticsearch/client/__init__.py +811</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">ssl ansible</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">timeout</span></p></body></html>
-scrollValue=4
+autoSaveHtml=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">\n<html><head><meta name="qrichtext" content="1" /><style type="text/css">\np, li { white-space: pre-wrap; }\n</style></head><body style=" font-family:'Ubuntu'; font-size:9pt; font-weight:400; font-style:normal;">\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Data flow= Map Reduce</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">devstar5183@gcplab.me</span></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Yqib3XUgO7</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">http://www.documentarytube.com/videos/bobby-fischer-against-the-world</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p>\n<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">elasticsearch/client/__init__.py +811</span></p>\n<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p></body></html>
+scrollValue=0
 
 [Containments][12][ToolBox]
 corner=1
@@ -731,7 +731,7 @@ Order=0
 global=Alt+F1
 
 [Containments][38][Applets][42]
-geometry=35,2,1044,31
+geometry=35,2,1016,31
 immutability=1
 plugin=tasks
 zvalue=0
@@ -756,7 +756,7 @@ Items=
 Order=1
 
 [Containments][38][Applets][43]
-geometry=1083,2,162,31
+geometry=1055,2,190,31
 immutability=1
 plugin=systemtray
 zvalue=0
@@ -785,13 +785,15 @@ zvalue=0
 
 [Containments][38][Applets][43][Configuration][Applets][47][Configuration][General]
 CustomPosition=858,804
+ShowJobs=false
+ShowNotifications=false
 
 [Containments][38][Applets][43][Configuration][Applets][47][PopupApplet]
-DialogHeight=94
+DialogHeight=98
 DialogWidth=408
 
 [Containments][38][Applets][43][Configuration][Applets][47][Shortcuts]
-global=Alt+N
+global=
 
 [Containments][38][Applets][43][Configuration][Applets][48]
 geometry=0,0,24,24
@@ -800,7 +802,7 @@ plugin=battery
 zvalue=0
 
 [Containments][38][Applets][43][Configuration][Applets][48][PopupApplet]
-DialogHeight=164
+DialogHeight=160
 DialogWidth=296
 
 [Containments][38][Applets][43][Configuration][Applets][48][Shortcuts]
@@ -841,6 +843,14 @@ Order=3
 [Containments][38][Configuration]
 maximumSize=1366,33
 minimumSize=1366,33
+
+[Containments][8][Wallpaper][image]
+slideTimer=10
+slidepaths=
+userswallpapers=
+wallpaper=/usr/share/wallpapers/Elarun
+wallpapercolor=0,0,0
+wallpaperposition=0
 
 [General]
 immutability=1

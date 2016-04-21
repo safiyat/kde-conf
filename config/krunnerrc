@@ -2,13 +2,13 @@
 Offset=0.5
 
 [General]
-PastQueries=\\,,,;,t,Chromium Web Browser,xkill,KDE Partition Manager,soundnode,LibreOffice Writer,slack,emacs,System Settings,Window Behaviour,Custom Shortcuts,Global Keyboard Shortcuts,`,V,Dictionary,openarena,o,terminator,t,t,sudo apt-get install chromium,soundkonverter,/home/safiyat/Hogwarts/Github/terminator/terminator,VirtualBox,atom,kmix,About System,/home/safiyat/VSCode-linux-x64/Code,Go to file:///home/safiyat/Code,i,Login Screen (LightDM),User Manager,Qt Creator,Standard Keyboard Shortcuts,Network Interfaces,amarok,dolphin,Firefox Web Browser,konsole
+PastQueries=Terminator,dolphin,
 
 [Interface]
 Size=420,500
 
 [PlasmaRunnerManager]
-LaunchCounts=1 services_emacs.desktop,1 services_firefox.desktop,1 services_kde4-dolphin.desktop,2 services_kwinoptions.desktop,1 services_kde4-amarok.desktop,1 shell_atom,2 shell_vscode,2 services_kde4-konsole.desktop,2 services_khotkeys.desktop,6 shell_xkill,1 shell_sudo apt-get install chromium,1 services_user_manager.desktop,1 services_devhelp.desktop,1 services_libreoffice-writer.desktop,1 shell_/home/safiyat/VSCode-linux-x64/Code,2 services_kde4-partitionmanager.desktop,3 services_keys.desktop,1 shell_/home/safiyat/Hogwarts/Github/terminator/terminator,1 services_terminator.desktop,5 services_openarena.desktop,1 services_standard_actions.desktop,2 org.kde.windowedwidgets_plasma-dict-default.desktop,11 shell_soundnode,1 shell_soundkonverter,4 org.kde.windowedwidgets_plasma-applet-sm_net.desktop,2 services_qtcreator.desktop,1 services_chromium-browser.desktop,1 locations_openunknown,1 services_about-distro.desktop,3 services_kde4-systemsettings.desktop,30 shell_slack,1 services_kcm_lightdm.desktop,1 services_nic.desktop,1 services_kde4-kmix.desktop,1 services_virtualbox.desktop
+LaunchCounts=1 services_kde4-dolphin.desktop,2 services_terminator.desktop
 
 [TaskDialog]
 Height 768=713

@@ -7,7 +7,7 @@ Encoding=UTF-8
 Highlighting=Bash
 Indentation Mode=normal
 Mode=Bash
-URL=file:///home/safiyat/Hogwarts/Github/emacs/run.sh
+URL=file:///home/safiyat/Hogwarts/Github/iCopy/copy.sh
 
 [General]
 Days Meta Infos=30
@@ -183,9 +183,9 @@ WindowState=10
 Sizes=1338
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/safiyat/Hogwarts/Github/emacs/run.sh
+Active View=file:///home/safiyat/Hogwarts/Github/iCopy/copy.sh
 Count=1
-View 0=file:///home/safiyat/Hogwarts/Github/emacs/run.sh
+View 0=file:///home/safiyat/Hogwarts/Github/iCopy/copy.sh
 
 [MainWindow0-ViewSpace 0 file:///home/safiyat/.emacs]
 CursorColumn=0
@@ -211,9 +211,21 @@ CursorLine=67
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/safiyat/Hogwarts/Github/iCopy/copy.sh]
+CursorColumn=0
+CursorLine=21
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/safiyat/Music/Playlists/Sleep\x5bAmarok-Kubuntu\x5d.asf]
 CursorColumn=26
 CursorLine=13
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/safiyat/Snapdeal/GitLab/cloudproject/src/infra/ansible-monlog/roles/efk-aggregator/templates/etc/init/aggregator.conf]
+CursorColumn=10
+CursorLine=9
 JumpList=
 ViMarks=
 
@@ -254,10 +266,14 @@ File1[$e]=$HOME/.emacs
 File2[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-3/Sem VI/Linux Utility Lab/Sendmail/Mail samples/Sample2
 File3[$e]=$HOME/Music/Playlists/Sleep[Amarok-Kubuntu].asf
 File4[$e]=$HOME/Hogwarts/Github/emacs/run.sh
+File5[$e]=$HOME/Snapdeal/GitLab/cloudproject/src/infra/ansible-monlog/roles/efk-aggregator/templates/etc/init/aggregator.conf
+File6[$e]=$HOME/Hogwarts/Github/iCopy/copy.sh
 Name1[$e]=.emacs
 Name2[$e]=Sample2
 Name3[$e]=Sleep[Amarok-Kubuntu].asf
 Name4[$e]=run.sh
+Name5[$e]=aggregator.conf
+Name6[$e]=copy.sh
 
 [filetree]
 editShade=210,181,216

@@ -11,4 +11,4 @@ loadAll=false
 pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
 
 [RecentlyUsed]
-Applications=atom.desktop,kde4-soundkonverter.desktop,kde4-Kontact.desktop,Soundnode.desktop,kde4-dolphin.desktop
+Applications=kde4-dolphin.desktop

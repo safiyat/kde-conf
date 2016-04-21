@@ -97,6 +97,7 @@ performed=/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/pl
 13=6
 14=7
 38=10
+8=2
 
 [configureNotification]
 __file=

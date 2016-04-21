@@ -13,15 +13,15 @@ plugin=
 screen=-1
 zvalue=0
 
-[Containments][1][Applets][10]
-geometry=0,0,200,209
+[Containments][1][Applets][9]
+geometry=0,0,281,207
 immutability=1
 plugin=sm_net
 zvalue=0
 
-[Containments][1][Applets][10][Configuration]
+[Containments][1][Applets][9][Configuration]
 interfaces=network/interfaces/wlan0/transmitter/data,network/interfaces/ppp0/transmitter/data
-interval=1
+interval=0.5
 
 [StoredApplets][1]
 geometry=0,0,200,100
