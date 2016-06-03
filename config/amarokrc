@@ -23,12 +23,17 @@ TrackSelection=0
 Height 768=768
 Width 1366=1366
 
+[Cover Fetcher]
+Height 768=768
+Interactive Image Source=Google
+Width 1366=1366
+
 [DownloadDialog Settings]
 Height 768=400
 Width 1366=700
 
 [File Browser]
-Current Directory=file:///home
+Current Directory=file:///home/safiyat/Music/English/Coldplay
 
 [General]
 Browser Path=root list/collections
@@ -43,14 +48,15 @@ Track Progression=RandomTrack
 
 [KFileDialog Settings]
 Height 768=768
-Recent Files[$e]=$HOME/Music/Playlists/Sleep[Amarok-Kubuntu].asf,$HOME/Music/Downloads/BBC Sherlock Theme - Indian Jam Project.wav,$HOME/Music/Downloads/Interstellar Theme Music - Indian Jam Project.wav,$HOME/Music/Downloads/POC FINAL.wav,$HOME/Music/Downloads/Game of thrones theme REVISED.wav,$HOME/Music/Downloads/The Portrait (Titanic) - Tushar.mp3,$HOME/Music/Downloads/U2 - ALL I WANT IS YOU (piano instrumental cover).mp3,$HOME/Music/Downloads/U2 - Vertigo (From The Ground Up).mp3,$HOME/Music/Downloads/U2_One_by_Jesliz_GO799JD7nBeB.128.mp3,$HOME/Music/Downloads/Harry Potter Youtube - IJP R.wav,$HOME/Music/Downloads/BBC Sherlock Theme %7C The Indian Jam Project.wav
-Recent URLs[$e]=$HOME/Music/Downloads/,$HOME/Music/Playlists/
+Recent Files[$e]=$HOME/Music/Playlists/Sleep[Amarok-Kubuntu].asf,$HOME/Downloads/Music/06. Every Teardrop Is A Waterfall.mp3,$HOME/Downloads/Music/05LoversInJapan-ReignOfLove.mp3,$HOME/Downloads/Music/05. Violet Hill.mp3,$HOME/Downloads/Music/05 Coldplay - Yellow.mp3,$HOME/Downloads/Music/04Sparks.mp3,$HOME/Downloads/Music/04 Charlie Brown.mp3,$HOME/Downloads/Music/03GodPutASmileUponYourFace.mp3,$HOME/Downloads/Music/03.DontPanic.mp3,$HOME/Downloads/Music/03 Paradise.mp3,$HOME/Downloads/Music/03 Coldplay - In My Place.mp3,$HOME/Downloads/Music/02. Viva La Vida.mp3,$HOME/Downloads/Music/02 Hurts Like Heaven.mp3,$HOME/Downloads/Music/01LifeInTechnicolor.mp3,$HOME/Downloads/Music/01 Mylo Xyloto.mp3,$HOME/Downloads/Music/Coldplay-Yellowflac.flac,$HOME/Downloads/Coldplay-Yellowflac.flac,$HOME/Music/Downloads/BBC Sherlock Theme - Indian Jam Project.wav,$HOME/Music/Downloads/Interstellar Theme Music - Indian Jam Project.wav,$HOME/Music/Downloads/POC FINAL.wav,$HOME/Music/Downloads/Game of thrones theme REVISED.wav,$HOME/Music/Downloads/The Portrait (Titanic) - Tushar.mp3,$HOME/Music/Downloads/U2 - ALL I WANT IS YOU (piano instrumental cover).mp3,$HOME/Music/Downloads/U2 - Vertigo (From The Ground Up).mp3,$HOME/Music/Downloads/U2_One_by_Jesliz_GO799JD7nBeB.128.mp3,$HOME/Music/Downloads/Harry Potter Youtube - IJP R.wav,$HOME/Music/Downloads/BBC Sherlock Theme %7C The Indian Jam Project.wav
+Recent URLs[$e]=$HOME/Music/Downloads/,$HOME/Music/Playlists/,$HOME/Downloads/,$HOME/Downloads/Music/
 Width 1366=1366
 
 [MainWindow]
-Height 768=713
+Height 1080=1081
+Height 768=768
 Height 900=880
-State=AAAA/wAAAAD9AAAAAQAAAAAAAAVWAAACfvwBAAAAA/sAAAAkAE0AZQBkAGkAYQAgAFMAbwB1AHIAYwBlAHMAIABkAG8AYwBrAQAAAAAAAAGhAAAAzgEAAAX7AAAAGABDAG8AbgB0AGUAeAB0ACAAZABvAGMAawEAAAGkAAACDgAAAZYBAAAF+wAAABoAUABsAGEAeQBsAGkAcwB0ACAAZABvAGMAawEAAAO1AAABoQAAAM4BAAAFAAAAAAAAAn4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYATQBhAGkAbgBUAG8AbwBsAGIAYQByAQAAAAD/////AAAAAAAAAAAAAAAYAFMAbABpAG0AIABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAVWAAACtfwBAAAAA/sAAAAkAE0AZQBkAGkAYQAgAFMAbwB1AHIAYwBlAHMAIABkAG8AYwBrAQAAAAAAAAGhAAAAzgEAAAX7AAAAGABDAG8AbgB0AGUAeAB0ACAAZABvAGMAawEAAAGkAAACDgAAAZYBAAAF+wAAABoAUABsAGEAeQBsAGkAcwB0ACAAZABvAGMAawEAAAO1AAABoQAAAM4BAAAFAAAAAAAAArUAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYATQBhAGkAbgBUAG8AbwBsAGIAYQByAQAAAAD/////AAAAAAAAAAAAAAAYAFMAbABpAG0AIABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 Width 1366=1366
 Width 1440=1920
@@ -60,8 +66,8 @@ Width 1920=1920
 ShowMoodbarInSlider=true
 
 [MusicBrainzTagDialog]
-Height 768=300
-Width 1366=550
+Height 768=768
+Width 1366=1366
 
 [Notification Messages]
 Delete empty dirs from Local Collection=true
@@ -76,7 +82,7 @@ EqualizerGains=-16,25,50,25,-20,0,-30,-40,-40,0,0
 EqualizerMode=8
 FadeoutOnPause=false
 FadeoutOnStop=false
-Master Volume=53
+Master Volume=100
 Pause On Suspend=true
 
 [Playlist Search]
@@ -114,21 +120,22 @@ Maximum Simultaneous Updates=4
 amarok-playlist-export[$e]=file://$HOME/Music/Playlists/,$HOME/
 
 [Recently Played]
-Display Names=Jagjit Singh - Pyar ka pehala kath likh,James Horner - Hard to Starboard,Indian Ocean - Jhini,A R Rahman - so gaye hain - II,Kishore Kumar - Mere Sang Sang Aaya,Howard Shore - A Thief in the Night,Ghulam Ali - Mere dil da,SAAGAR JAISI AANKHON - SAAGAR,Unknown Artist - Lukka Chuppi,Ghulam Ali - Ye kaun aagayee
-Last Played Dates=2016-04-13T21:41:23,2016-04-13T21:41:24,2016-04-13T21:41:34,2016-04-13T21:41:39,2016-04-13T21:41:41,2016-04-13T21:41:42,2016-04-13T21:41:44,2016-04-13T21:41:45,2016-04-13T21:48:21,2016-04-13T23:42:02
-Urls=amarok-sqltrackuid://3f8dc3d41eb30d8326b12d42e85e66d7,amarok-sqltrackuid://294196bb7256feef30b279f95c84704d,amarok-sqltrackuid://07bce454c451b370a2f69a2819ad4a1c,amarok-sqltrackuid://f0565df79c0bce16698988ff367d45ae,amarok-sqltrackuid://9705da33c0fcb4c6e53fbec43065eb81,amarok-sqltrackuid://dd8aff26b743c0e67b8faa0606729d99,amarok-sqltrackuid://97b8c3893c656cbc105bfd3089ed7cdf,amarok-sqltrackuid://932682e9b71950d75c11d49070f6cb1f,amarok-sqltrackuid://402333130c431d8c44c8befdca514c97,amarok-sqltrackuid://b0c210732933adf48ec1a9bde63e311c
+Display Names=A R Rahman - Tango For Taj,Shreya Ghoshal - Latoo - Ghajini,Arijit Singh & Jeet Ganguly - Khamoshiyan (Unplugged) - DJMaza.Info,The Bilz & Kashif - Tera Nasha,Mukesh - Kehta Hai Joker,Unknown Artist - Kadi Ao Ni,Up And Up - Coldplay,Coldplay - Up Up,Up And Up - Coldplay,Coldplay - Up Up
+Last Played Dates=2016-05-23T18:06:27,2016-05-23T18:06:29,2016-05-23T18:06:32,2016-05-23T18:06:33,2016-05-23T18:06:34,2016-05-23T19:17:04,2016-05-23T19:17:07,2016-05-23T19:21:29,2016-05-23T19:30:01,2016-05-25T08:53:24
+Urls=file:///home/safiyat/Music/Hindi/Rockstar/Rockstar%20-%2008%20-%20Instrumental%20-%20Tango%20For%20Taj.mp3,file:///home/safiyat/Music/Hindi/AR%20Rahman%20Signature%20Collection%202/2-14%20Latoo%20-%20Ghajini.m4a,file:///home/safiyat/Music/Hindi/Khamoshiyan/09%20-%20Khamoshiyan%20-%20Khamoshiyan%20(Unplugged)%20%5BDJMaza.Info%5D.mp3,file:///home/safiyat/Music/Hindi/The%20Bilz%20&%20Kashif%20-%20Breaking%20Barriers%20-%2014%20-%20Tera%20Nasha.mp3,file:///home/safiyat/Music/Hindi/Mera%20Naam%20Joker%20-%2003%20-%20Mukesh%20-%20Kehta%20Hai%20Joker.mp3,file:///home/safiyat/Music/Hindi/Coke%20Studio%20Pakistan/04%20-%20Kadi%20Ao%20Ni%20-%20S08E06.mp3,file:///home/safiyat/Music/English/Coldplay/Up%20And%20Up%20-%20Coldplay.mp3,file:///home/safiyat/Music/English/Coldplay/Coldplay%20-%20Up%20Up.mp3,file:///home/safiyat/Music/English/Coldplay/Up%20And%20Up%20-%20Coldplay.mp3,file:///home/safiyat/Music/English/Coldplay/Coldplay%20-%20Up%20Up.mp3
 
 [Saved Playlists View]
 Merged View=false
 
 [ScriptManager]
-LastUpdateCheck=1460573870
+LastUpdateCheck=1464938018
 
 [Session]
-LastPlaying=1430
+LastPlaying=0
 Resume Paused=true
 Resume Playback=true
-Resume Time=156675
+Resume Time=167480
+Resume Track[$e]=file://$HOME/Music/English/Coldplay/Up And Up - Coldplay.mp3
 
 [Shortcuts]
 seek_backward_medium=none
@@ -140,9 +147,9 @@ access_token=
 [StatSyncing]
 checkedFields=rating,firstplay,lastplay,playcount,label
 excludedLabels=
-providerEnabledStatuses=true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
-providerIds=localCollection,4e1aea7b1aea6007,08be-21d7,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-2,2a3e-1e18,78e8963fe895fc16,74d7f92932cde428,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-1,,3c2e-d037,ce31-5e9b,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-4,a0489ed2489ea696,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2,a332-d6b3,f80b-f4e8,4db7-0c1d,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb1/1-1,3434-3965,01a66e6d2c28e437,9a43-1a49,3988-3276
-providerNames=Local Collection,My Passport (not activated),UBUNTU 14_0 (not activated),E2363,UNTITLED (not activated),AAKASH (not activated),AAKASH (not activated),Mi 4i, (not activated),7.4 GiB Removable Media (not activated),14.6 GiB Removable Media (not activated),E2363, (not activated),XT1068,3.8 GiB Removable Media (not activated),UBUNTU 12_0 (not activated),14.8 GiB Removable Media (not activated),ONE E1003,29.7 GiB Removable Media (not activated),59.5 GiB Removable Media (not activated),59.5 GiB Removable Media (not activated),MGS (not activated)
+providerEnabledStatuses=true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+providerIds=localCollection,4e1aea7b1aea6007,08be-21d7,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-2,2a3e-1e18,78e8963fe895fc16,74d7f92932cde428,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-1,,3c2e-d037,ce31-5e9b,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb2/2-4,a0489ed2489ea696,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2,a332-d6b3,f80b-f4e8,4db7-0c1d,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb1/1-1,3434-3965,01a66e6d2c28e437,9a43-1a49,3988-3276,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb1/1-1/1-1:1.0,607a7cef7a7cc2f8,/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb1/1-4,6b31-1c0c,786f-ce56
+providerNames=Local Collection,My Passport (not activated),UBUNTU 14_0 (not activated),E2363,UNTITLED (not activated),AAKASH (not activated),AAKASH (not activated),Mi 4i,X5II TF1 (not activated),7.4 GiB Removable Media (not activated),14.6 GiB Removable Media (not activated),E2363, (not activated),E2363,3.8 GiB Removable Media (not activated),UBUNTU 12_0 (not activated),14.8 GiB Removable Media (not activated),Mi 4i,29.7 GiB Removable Media (not activated),59.5 GiB Removable Media (not activated),59.5 GiB Removable Media (not activated),MGS (not activated),MotoG3,AHAD TOSHIBA EXT (not activated),E2363,UNTITLED (not activated),09810105366 (not activated)
 
 [TagDialog]
 CurrentTab=0

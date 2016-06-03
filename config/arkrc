@@ -15,33 +15,37 @@ Recent URLs[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-4/Sem VII/Embedde
 Width 1366=720
 
 [MainWindow]
-Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAJ+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 768=461
+State=AAAA/wAAAAD9AAAAAAAAA4oAAAGCAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=1367
-splitterSizes=909,454
+Width 1366=906
+splitterSizes=602,301
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/logs.tar.xz
-File10[$e]=$HOME/Snapdeal/GitLab/rgwcmd/dist/rgwcmd-0.2.tar.gz
-File2[$e]=$HOME/Downloads/coreutils-8.24.tar.xz
-File3[$e]=$HOME/Snapdeal/Setup Files/kibana-4.1.2-linux-x64.tar.gz
-File4[$e]=$HOME/Downloads/suteki da ne ust.zip
-File5[$e]=$HOME/Hogwarts/Github/virtual-storage-manager/source/vsm/dist/vsm-2013.1.1-py2.7.egg
-File6[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-4/Sem VIII/ppr_shr.zip
-File7[$e]=$HOME/Downloads/Scopes Videos.zip
-Name1[$e]=logs.tar.xz
-Name10[$e]=rgwcmd-0.2.tar.gz
-Name2[$e]=coreutils-8.24.tar.xz
-Name3[$e]=kibana-4.1.2-linux-x64.tar.gz
-Name4[$e]=suteki da ne ust.zip
-Name5[$e]=vsm-2013.1.1-py2.7.egg
-Name6[$e]=ppr_shr.zip
-Name7[$e]=Scopes Videos.zip
+File1[$e]=$HOME/Snapdeal/Setup Files/kibana-4.1.2-linux-x64.tar.gz
+File10[$e]=$HOME/a4allpdf.zip
+File2[$e]=$HOME/Downloads/suteki da ne ust.zip
+File3[$e]=$HOME/Hogwarts/Github/virtual-storage-manager/source/vsm/dist/vsm-2013.1.1-py2.7.egg
+File4[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-4/Sem VIII/ppr_shr.zip
+File5[$e]=$HOME/Downloads/Scopes Videos.zip
+File6[$e]=$HOME/Snapdeal/GitLab/rgwcmd/dist/rgwcmd-0.2.tar.gz
+File7[$e]=/tmp/_.sdcloud.snapdeal.io.zip
+File8[$e]=$HOME/Photos.zip
+File9[$e]=/media/safiyat/Kubuntu/Hogwarts/Github/instanceTransfer/utils.zip
+Name1[$e]=kibana-4.1.2-linux-x64.tar.gz
+Name10[$e]=a4allpdf.zip
+Name2[$e]=suteki da ne ust.zip
+Name3[$e]=vsm-2013.1.1-py2.7.egg
+Name4[$e]=ppr_shr.zip
+Name5[$e]=Scopes Videos.zip
+Name6[$e]=rgwcmd-0.2.tar.gz
+Name7[$e]=_.sdcloud.snapdeal.io.zip
+Name8[$e]=Photos.zip
+Name9[$e]=utils.zip
 
 [Viewer]
 Height 768=713
-Width 1366=1366
+Width 1366=1362
 
 [file:///tmp/kde-safiyat/arkBiRjde//11242098_1658601041028105_946814842_n.mp4]
 Brightness=0

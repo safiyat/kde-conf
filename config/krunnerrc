@@ -2,13 +2,13 @@
 Offset=0.5
 
 [General]
-PastQueries=Terminator,dolphin,
+PastQueries=4K Video Downloader,Chromium Web Browser,n,,n,n,Terminator,dolphin
 
 [Interface]
 Size=420,500
 
 [PlasmaRunnerManager]
-LaunchCounts=1 services_kde4-dolphin.desktop,2 services_terminator.desktop
+LaunchCounts=1 services_chromium-browser.desktop,1 services_kde4-dolphin.desktop,1 services_kwincompositing.desktop,1 services_4kvideodownloader.desktop,2 services_terminator.desktop
 
 [TaskDialog]
 Height 768=713

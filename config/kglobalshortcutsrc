@@ -130,7 +130,7 @@ Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,Ctrl+Alt+Shift+PgUp,Reboot Witho
 _k_friendly_name=The KDE Session Manager
 
 [ktorrent]
-_k_friendly_name=ktorrent
+_k_friendly_name=KTorrent
 queue_suspend=Alt+Shift+P,Alt+Shift+P,Suspend Torrents
 show_kt=Alt+Shift+T,Alt+Shift+T,Show/Hide KTorrent
 
@@ -292,13 +292,14 @@ Show Dashboard=Ctrl+F12,Ctrl+F12,Show Dashboard
 Stop Activity=Meta+S,Meta+S,Stop Current Activity
 SystemTray-Klipper-43=,Ctrl+Alt+V,
 SystemTray-Klipper-6=,Ctrl+Alt+V,
+SystemTray-Klipper-62=,Ctrl+Alt+V,
 _k_friendly_name=Plasma Desktop Shell
-activate widget 39=Alt+F1,Alt+F1,Activate Application Launcher Widget
-activate widget 45=Ctrl+Alt+W,Ctrl+Alt+W,Activate Network Management Widget
 activate widget 47=,Alt+N,Activate Notifications Widget
-activate widget 48=Ctrl+Alt+B,Ctrl+Alt+B,Activate Battery Monitor Widget
-activate widget 52=Ctrl+Alt+D,Ctrl+Alt+D,Activate Device Notifier Widget
-activate widget 53=Alt+N,Alt+N,Activate Notifications Widget
+activate widget 58=Alt+F1,Alt+F1,Activate Application Launcher Widget
+activate widget 64=Ctrl+Alt+W,Ctrl+Alt+W,Activate Network Management Widget
+activate widget 65=Ctrl+Alt+D,Ctrl+Alt+D,Activate Device Notifier Widget
+activate widget 66=Alt+N,Alt+N,Activate Notifications Widget
+activate widget 67=Ctrl+Alt+B,Ctrl+Alt+B,Activate Battery Monitor Widget
 manage activities=Meta+Q,Meta+Q,Activities...
 
 [wacomtablet]

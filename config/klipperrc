@@ -1,6 +1,13 @@
 [$Version]
 update_info=klipper-kconfigxt.upd:KlipperNoSpacesInKeyNames
 
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdoAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAA4AAAAAEAAAAA
+
+[ConfigDialog]
+Height 768=411
+Width 1366=610
+
 [General]
 Number of Actions=0
 Version=0.9.7

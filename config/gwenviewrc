@@ -3,6 +3,7 @@ CropAdvancedSettingsEnabled=true
 
 [General]
 DefaultExportPluginText=Install Plug-ins
+ViewBackgroundValue=67
 
 [ImageView]
 ThumbnailSplitterSizes=506,144
@@ -14,32 +15,22 @@ Recent URLs[$e]=$HOME/Downloads/
 Width 1366=720
 
 [MainWindow]
+Height 1080=1081
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1367
+Width 1920=1921
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/.insta/Tanzeem/272283_184738038247454_100001337781694_467844_5297718_o.jpg
-File10[$e]=$HOME/Downloads/.insta/Tanzeem/pp.jpg
-File2[$e]=$HOME/Downloads/.insta/Tanzeem/316404_253954897992434_2069312770_n.jpg
-File3[$e]=$HOME/Downloads/.insta/Tanzeem/333278_256225741098683_1898654211_o.jpg
-File4[$e]=$HOME/Downloads/.insta/Tanzeem/1544485_703600139694572_1566905521590428177_n.jpg
-File5[$e]=$HOME/Downloads/.insta/Tanzeem/10817787_387645654725015_586448044_n.jpg
-File6[$e]=$HOME/Downloads/.insta/Tanzeem/10844288_1539356552974505_543274165_n.jpg
-File7[$e]=$HOME/Downloads/.insta/Tanzeem/10919145_1571722709707137_278327572_n.jpg
-File8[$e]=$HOME/Downloads/.insta/Tanzeem/919999030710.jpg
-File9[$e]=$HOME/Downloads/.insta/Tanzeem/pp.jpeg
-Name1[$e]=272283_184738038247454_100001337781694_467844_5297718_o.jpg
-Name10[$e]=pp.jpg
-Name2[$e]=316404_253954897992434_2069312770_n.jpg
-Name3[$e]=333278_256225741098683_1898654211_o.jpg
-Name4[$e]=1544485_703600139694572_1566905521590428177_n.jpg
-Name5[$e]=10817787_387645654725015_586448044_n.jpg
-Name6[$e]=10844288_1539356552974505_543274165_n.jpg
-Name7[$e]=10919145_1571722709707137_278327572_n.jpg
-Name8[$e]=919999030710.jpg
-Name9[$e]=pp.jpeg
+File1[$e]=$HOME/timthumb.php.png
+File2[$e]=$HOME/resignation2.png
+File3[$e]=$HOME/resignation1.png
+File4[$e]=$HOME/nazia.png
+Name1[$e]=timthumb.php.png
+Name2[$e]=resignation2.png
+Name3[$e]=resignation1.png
+Name4[$e]=nazia.png
 
 [SideBar-BrowseMode]
 IsVisible=true
@@ -49,3 +40,6 @@ IsVisible=false
 
 [SideBar-ViewMode]
 IsVisible=true
+
+[ThumbnailView]
+ListVideos=false

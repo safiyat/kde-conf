@@ -4,10 +4,18 @@ update_info=kate-2.4.upd:kate2.4
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=Bash
-Indentation Mode=normal
-Mode=Bash
-URL=file:///home/safiyat/Hogwarts/Github/iCopy/copy.sh
+Highlighting=C
+Indentation Mode=cstyle
+Mode=C
+URL=file:///media/safiyat/Kubuntu/Downloads/coreutils-8.24/src/cp.c
+
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Indentation Mode=python
+Mode=Python
+URL=file:///home/safiyat/check_network
 
 [General]
 Days Meta Infos=30
@@ -16,6 +24,12 @@ Save Meta Infos=true
 Show Full Path in Title=false
 Show Menu Bar=true
 Show Status Bar=true
+
+[KFileDialog Settings]
+Height 768=450
+Recent Files[$e]=kill_emacs.sh,$HOME/log,$HOME/important.py,$HOME/Hogwarts/Github/emacs/kill_emacs.sh
+Recent URLs[$e]=$HOME/Hogwarts/Github/emacs/
+Width 1366=720
 
 [Kate Document Defaults]
 Allow End of Line Detection=true
@@ -136,10 +150,14 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
+Height 1080=1081
+Height 1366=1367
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1367
+Width 1920=1921
+Width 768=769
 
 [MainWindow0]
 Characters Count Visible=false
@@ -168,14 +186,14 @@ Kate-MDI-ToolView-kateprojectinfo-Persistent=false
 Kate-MDI-ToolView-kateprojectinfo-Position=3
 Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=1
 Kate-MDI-ToolView-kateprojectinfo-Visible=false
-Kate-MDI-V-Splitter=150,636,200
+Kate-MDI-V-Splitter=150,644,200
 Selection Mode Visible=true
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 Width 1366=1367
 
 [MainWindow0 Settings]
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 Width 1366=1367
 WindowState=10
 
@@ -183,9 +201,16 @@ WindowState=10
 Sizes=1338
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/safiyat/Hogwarts/Github/iCopy/copy.sh
+Active View=file:///media/safiyat/Kubuntu/Downloads/coreutils-8.24/src/cp.c
 Count=1
-View 0=file:///home/safiyat/Hogwarts/Github/iCopy/copy.sh
+View 0=file:///media/safiyat/Kubuntu/Downloads/coreutils-8.24/src/cp.c
+View 1=file:///home/safiyat/check_network
+
+[MainWindow0-ViewSpace 0 file:///home/safiyat/.PP/Stefanie Knight/1.lst]
+CursorColumn=182
+CursorLine=29
+JumpList=
+ViMarks=
 
 [MainWindow0-ViewSpace 0 file:///home/safiyat/.emacs]
 CursorColumn=0
@@ -199,9 +224,33 @@ CursorLine=16
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///home/safiyat/CI-CD_Stories - new.txt]
+CursorColumn=15
+CursorLine=84
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/safiyat/CI-CD_Stories.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/safiyat/Downloads/Music/18. Fix You.mp3_meta.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///home/safiyat/HDD/Albus Dumbledore/Documents/Engg/Year-3/Sem VI/Linux Utility Lab/Sendmail/Mail samples/Sample2]
 CursorColumn=0
 CursorLine=11
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/safiyat/Hogwarts/Github/emacs/kill_emacs.sh]
+CursorColumn=17
+CursorLine=19
 JumpList=
 ViMarks=
 
@@ -226,6 +275,60 @@ ViMarks=
 [MainWindow0-ViewSpace 0 file:///home/safiyat/Snapdeal/GitLab/cloudproject/src/infra/ansible-monlog/roles/efk-aggregator/templates/etc/init/aggregator.conf]
 CursorColumn=10
 CursorLine=9
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/safiyat/check_ceph_network]
+CursorColumn=0
+CursorLine=42
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/safiyat/check_network]
+CursorColumn=14
+CursorLine=77
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/safiyat/important.py]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/safiyat/log]
+CursorColumn=21
+CursorLine=958
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/safiyat/nohup.out]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/safiyat/nova_list.py]
+CursorColumn=0
+CursorLine=53
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/safiyat/output]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/safiyat/test]
+CursorColumn=0
+CursorLine=2
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/safiyat/Kubuntu/Downloads/coreutils-8.24/src/cp.c]
+CursorColumn=0
+CursorLine=920
 JumpList=
 ViMarks=
 
@@ -262,18 +365,26 @@ SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/.emacs
-File2[$e]=$HOME/HDD/Albus Dumbledore/Documents/Engg/Year-3/Sem VI/Linux Utility Lab/Sendmail/Mail samples/Sample2
-File3[$e]=$HOME/Music/Playlists/Sleep[Amarok-Kubuntu].asf
-File4[$e]=$HOME/Hogwarts/Github/emacs/run.sh
-File5[$e]=$HOME/Snapdeal/GitLab/cloudproject/src/infra/ansible-monlog/roles/efk-aggregator/templates/etc/init/aggregator.conf
-File6[$e]=$HOME/Hogwarts/Github/iCopy/copy.sh
-Name1[$e]=.emacs
-Name2[$e]=Sample2
-Name3[$e]=Sleep[Amarok-Kubuntu].asf
-Name4[$e]=run.sh
-Name5[$e]=aggregator.conf
-Name6[$e]=copy.sh
+File1[$e]=$HOME/Snapdeal/GitLab/cloudproject/src/infra/ansible/roles/common/tasks/harden.yml
+File10[$e]=/media/safiyat/Kubuntu/Downloads/coreutils-8.24/src/cp.c
+File2[$e]=$HOME/Snapdeal/GitLab/cloudproject/src/infra/ansible/roles/common/tasks/facts.yml
+File3[$e]=/media/safiyat/Kubuntu/Snapdeal/GitLab/cloudproject/src/infra/ansible/roles/common/tasks/facts.yml
+File4[$e]=$HOME/important.py
+File5[$e]=$HOME/check_ceph_network
+File6[$e]=$HOME/check_network
+File7[$e]=$HOME/.PP/Stefanie Knight/1.lst
+File8[$e]=$HOME/log
+File9[$e]=$HOME/Downloads/Music/18. Fix You.mp3_meta.txt
+Name1[$e]=harden.yml
+Name10[$e]=cp.c
+Name2[$e]=facts.yml
+Name3[$e]=facts.yml
+Name4[$e]=important.py
+Name5[$e]=check_ceph_network
+Name6[$e]=check_network
+Name7[$e]=1.lst
+Name8[$e]=log
+Name9[$e]=18. Fix You.mp3_meta.txt
 
 [filetree]
 editShade=210,181,216

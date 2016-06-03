@@ -1,5 +1,5 @@
 [General]
-Recent Urls[$e]=file://$HOME/Videos/The Avengers (2012) [1080p]/The.Avengers.2012.1080p.BluRay.x264.YIFY.mp4,file://$HOME/Videos/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.DD5.1.AC3-ETRG/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.DD5.1.AC3-ETRG.mkv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Untitled Folder/nataley1.mpg,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/starlets-thesmiths.avi,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Sunny Leone/51ae5bf4078bc756985_h.flv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/Mia M-Oh Mia.mov,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Sasha Grey/Top of Sasha Grey's Sexy Scene 18+-4a7E_GFFAfo.webm,file://$HOME/Downloads/kickstarter-foobar1.webm,file://$HOME/Finding_Songs_in_C_Major_Breklee_Assignment.mp4,file:///media/safiyat/Kubuntu/Outlandish - Aicha.mp4,file:///media/safiyat/My Passport/Fred n George Weasley/Videos/Movies/Unseen/English/Letters from Iowa Jima/Letters.From.Iwo.Jima.avi,file://$HOME/Videos/Talvar 2015 Hindi BluRay 720p x264 AAC - Hon3y.mkv,file://$HOME/BDUnuRV.webm,file://$HOME/Videos/Daredevil S01 Season 01 Complete 720p WEBRip x265 AAC E-Subs [GWC]/Marvel's Daredevil S01E01 WEBRip 720p x265 AAC E-Subs [GWC].mkv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/Caprice-Enchanting Orgasms.mov
+Recent Urls[$e]=file://$HOME/Videos/The Avengers (2012) [1080p]/The.Avengers.2012.1080p.BluRay.x264.YIFY.mp4,file://$HOME/Videos/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.DD5.1.AC3-ETRG/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.DD5.1.AC3-ETRG.mkv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Untitled Folder/nataley1.mpg,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/starlets-thesmiths.avi,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Sunny Leone/51ae5bf4078bc756985_h.flv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/Mia M-Oh Mia.mov,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/Sasha Grey/Top of Sasha Grey's Sexy Scene 18+-4a7E_GFFAfo.webm,file://$HOME/Downloads/kickstarter-foobar1.webm,file://$HOME/Finding_Songs_in_C_Major_Breklee_Assignment.mp4,file:///media/safiyat/Kubuntu/Outlandish - Aicha.mp4,file:///media/safiyat/My Passport/Fred n George Weasley/Videos/Movies/Unseen/English/Letters from Iowa Jima/Letters.From.Iwo.Jima.avi,file://$HOME/Videos/Talvar 2015 Hindi BluRay 720p x264 AAC - Hon3y.mkv,file://$HOME/BDUnuRV.webm,file://$HOME/Videos/Daredevil S01 Season 01 Complete 720p WEBRip x265 AAC E-Subs [GWC]/Marvel's Daredevil S01E01 WEBRip 720p x265 AAC E-Subs [GWC].mkv,file://$HOME/HDD/Albus Dumbledore/Documents/Info/.h/TUX/Caprice-Enchanting Orgasms.mov,file://$HOME/videoplayback12.mp4,file://$HOME/Kamli_Dubstep_Mix_Dhoom_3_Katrina_Kaif_hd720.mp4
 TimeFormat=1
 Volume=1
 
@@ -109,6 +109,16 @@ IsVideo=false
 Preferred Size=647,263
 Saturation=0
 
+[file:///home/safiyat/Kamli_Dubstep_Mix_Dhoom_3_Katrina_Kaif_hd720.mp4]
+Brightness=0
+Contrast=0
+Date=11/05/2016
+Hue=0
+IsVideo=true
+Position=20010
+Preferred Size=1366,638
+Saturation=0
+
 [file:///home/safiyat/Videos/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.DD5.1.AC3-ETRG/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.DD5.1.AC3-ETRG.mkv]
 Brightness=0
 Contrast=0
@@ -160,6 +170,16 @@ Position=927
 Preferred Size=910,437
 Saturation=0
 Subtitle=0
+
+[file:///home/safiyat/videoplayback12.mp4]
+Brightness=0
+Contrast=0
+Date=11/05/2016
+Hue=0
+IsVideo=true
+Position=69983
+Preferred Size=1366,638
+Saturation=0
 
 [file:///media/safiyat/Kubuntu/Outlandish - Aicha.mp4]
 Brightness=0

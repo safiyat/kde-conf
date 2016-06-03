@@ -51,24 +51,31 @@ EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-removable-media-usb
-LastNameSeen=GARMIN
-LastSeenMounted=true
+LastNameSeen=X5II TF1
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
 EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
-Icon=drive-removable-media-usb-pendrive
-LastNameSeen=UBUNTU 12_0
-LastSeenMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=3.8 GiB Removable Media
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc]
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-removable-media-usb
+LastNameSeen=XIAOMI
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc1]
 EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-removable-media-usb
-LastNameSeen=MGS
-LastSeenMounted=true
+LastNameSeen=UBUNTU 12_0
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc2]
 EverMounted=true
@@ -107,7 +114,7 @@ EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=media-optical-data
-LastNameSeen=OnePlus Drivers
+LastNameSeen=airtel
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sr0_1]

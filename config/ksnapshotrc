@@ -1,18 +1,22 @@
 [GENERAL]
 delay=0
-filename[$e]=file://$HOME/porn3.png
+filename[$e]=file://$HOME/nazia1.png
 includeDecorations=true
 includePointer=true
 mode=2
 
 [KFileDialog Settings]
+Height 1366=670
 Height 768=450
 Height 900=450
-Recent Files[$e]=$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/root.png,$HOME/porn2.png,$HOME/porn1.png,$HOME/porn.png,$HOME/output2.png,$HOME/output1.png,$HOME/sage.png
+Recent Files[$e]=$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/root.png,$HOME/nazia.png,$HOME/resignation2.png,$HOME/resignation1.png,$HOME/bc.png,$HOME/bike2.png,$HOME/bike1.png
 Recent URLs[$e]=$HOME/Hogwarts/OpenStack/DevStackNotes/DirStruct/,$HOME/Hogwarts/OpenStack/DevStackNotes/,$HOME/Hogwarts/OpenStack Meetup/,$HOME/Hogwarts/
 Width 1366=720
 Width 1440=720
+Width 768=691
 
 [MainWindow]
+Height 1366=499
 Height 768=499
 Width 1366=427
+Width 768=411

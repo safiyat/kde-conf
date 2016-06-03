@@ -7,7 +7,7 @@ MasterMixerDevice=alsa_output.pci-0000_00_1b.0.analog-stereo
 Menubar=true
 MixerIgnoreExpression=Modem
 Position=0,0
-Size=473,303
+Size=683,413
 Soundmenu.Mixers=
 Visible=false
 VolumeOverdrive=true
@@ -119,6 +119,9 @@ Split=false
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:294]
+Split=false
+
+[View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:3]
 Split=false
 
 [View.PulseAudio.Playback_Streams.3.default.PulseAudio::Playback_Streams:3.stream:30]
