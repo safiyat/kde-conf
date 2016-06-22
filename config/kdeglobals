@@ -4,22 +4,27 @@ update_info=kded.upd:kde3.0
 [Appmenu Style]
 Style=InApplication
 
-[DirSelect Dialog]
-DirSelectDialog Size=801,512
-History Items[$e]=file://$HOME,file://$HOME/Videos/Argo (2012),file://$HOME/Videos/Suits.S05E14.HDTV.x264-KILLERS[ettv],file:///tmp/New Folder,file:///media/safiyat/UNTITLED/Mr. Robot S01 COMPLETE Season 1 720p HDTV x264 [MKV\\,AC3\\,5.1] Ehhhh,file://$HOME/Videos/Movies/Unseen/English/Ninja Assassin (2009),file://$HOME/Videos/Movies/Unseen/English/James Bond 24 Movies pack/20%20 The World Is Not Enough,file:///media/safiyat/UBUNTU 14_0/BlindSpot,file://$HOME/Hogwarts/Github/dolphin/build,file://$HOME/Hogwarts/Github/dolphin,file:///media/safiyat/UBUNTU 14_0/Quantico,file:///media/safiyat/M
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+ColorEffect=2
+ContrastEffect=2
+Enable=false
+IntensityEffect=0
+
+[Colors:Tooltip]
+BackgroundNormal=248,248,196
+ForegroundNormal=0,0,0
 
 [General]
-BrowserApplication[$e]=firefox.desktop
-TerminalApplication[$e]=terminator
-UseSystemBell=true
-dbfile=/home/safiyat/.mozilla/firefox/sjy46hj2.default/places.sqlite
+ColorScheme=Current
+dbfile=/home/safiyat/.mozilla/firefox/d10450l3.default/places.sqlite
+shadeSortColumn=true
 widgetStyle=oxygen
 
 [KDE]
-ShowDeleteCommand=true
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=true
-SingleClick=false
+contrast=7
 
 [KDE-Global GUI Settings]
 GraphicEffectsLevel=7
@@ -30,33 +35,30 @@ Breadcrumb Navigation=true
 Decoration position=0
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
-Preview Width=156
 Previews=false
 Show Bookmarks=false
 Show Full Path=false
-Show Preview=true
+Show Preview=false
 Show Speedbar=true
 Show hidden files=false
-Sort by=Type
+Sort by=Name
 Sort directories first=true
 Sort reversed=false
-Speedbar Width=165
-View Style=Detail
-detailedViewIconSize=0
+Speedbar Width=94
+View Style=Simple
 listViewIconSize=0
 
 [KShortcutsDialog Settings]
-Dialog Size=1366,721
+Dialog Size=1366,768
 
 [Locale]
-Language=en_GB
-TimeFormat=%H:%M:%S
+DigitGroupFormat=3;2
+Language=en_US
+MonetaryDigitGroupFormat=3;2
+WeekDayOfPray=5
 
-[PreviewSettings]
-MaximumRemoteSize=0
-
-[Shortcuts]
-ConfigureNotifications=Alt+N
+[Passwords]
+EchoMode=ThreeStars
 
 [Toolbar style]
 ToolButtonStyleOtherToolbars=TextBesideIcon
