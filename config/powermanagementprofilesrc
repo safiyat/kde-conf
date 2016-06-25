@@ -50,8 +50,8 @@ idleTime=120
 idleTime=60000
 
 [LowBattery][HandleButtonEvents]
-lidAction=1
-powerButtonAction=16
+lidAction=0
+powerButtonAction=1
 
 [LowBattery][SuspendSession]
 idleTime=300000
