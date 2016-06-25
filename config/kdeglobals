@@ -44,7 +44,7 @@ Show hidden files=false
 Sort by=Name
 Sort directories first=true
 Sort reversed=false
-Speedbar Width=94
+Speedbar Width=97
 View Style=Simple
 listViewIconSize=0
 
@@ -52,9 +52,11 @@ listViewIconSize=0
 Dialog Size=1366,768
 
 [Locale]
+DateFormat=%a %d %B
 DigitGroupFormat=3;2
 Language=en_US
 MonetaryDigitGroupFormat=3;2
+TimeFormat=%H:%M:%S
 WeekDayOfPray=5
 
 [Passwords]
