@@ -7,7 +7,7 @@ Another `config` directory might already be present. You should take a backup of
 ## Files
 
 | File                                  | Significance                             |
-|:--------------------------------------|:----------------------------------------:|
+|:--------------------------------------|:-----------------------------------------|
 | config/powermanagementprofilesrc      | System Settings -> Power Management      |
 | config/kdeglobals                     | Global settings like date time format    |
 | config/plasma-desktop-appletsrc       | Applets/widgets on the panel             |
